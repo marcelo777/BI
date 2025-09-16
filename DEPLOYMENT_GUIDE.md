@@ -1,10 +1,10 @@
-# 🚀 Guía de Deployment - Dashboard Enterprise
+# Guía de Deployment - Dashboard Enterprise
 
 ## Opciones para Publicar tu Dashboard KPI
 
-### 🌟 OPCIÓN 1: Streamlit Community Cloud (RECOMENDADO - GRATIS)
+### OPCIÓN 1: Streamlit Community Cloud (RECOMENDADO - GRATIS)
 
-#### ✅ Ventajas
+#### Ventajas
 - **Completamente gratuito**
 - **Fácil de configurar** (5 minutos)
 - **Dominio público** automático
@@ -12,7 +12,7 @@
 - **SSL incluido** (https://)
 - **Actualizaciones automáticas**
 
-#### 📋 Pasos para Deployment
+#### Pasos para Deployment
 
 1. **Subir a GitHub**
 ```bash
@@ -44,7 +44,7 @@ Tu dashboard estará disponible en:
 https://TU_USUARIO-kpi-dashboard-enterprise-dashboard-enterprise-HASH.streamlit.app/
 ```
 
-#### 🔧 Archivos Necesarios para Streamlit Cloud
+#### Archivos Necesarios para Streamlit Cloud
 
 **requirements.txt** (ya lo tienes):
 ```txt
@@ -64,9 +64,9 @@ PyYAML>=6.0
 
 ---
 
-### 🌐 OPCIÓN 2: Heroku (FREEMIUM)
+### OPCIÓN 2: Heroku (FREEMIUM)
 
-#### 📋 Configuración para Heroku
+#### Configuración para Heroku
 
 1. **Crear archivos necesarios**
 
@@ -116,21 +116,21 @@ git push heroku main
 
 ---
 
-### ☁️ OPCIÓN 3: Google Cloud Platform
+### OPCIÓN 3: Google Cloud Platform
 
-#### 📋 App Engine Deployment
+#### App Engine Deployment
 
 **app.yaml**:
 ```yaml
 runtime: python311
 
 env_variables:
-  STREAMLIT_SERVER_PORT: 8080
-  STREAMLIT_SERVER_ADDRESS: 0.0.0.0
+ STREAMLIT_SERVER_PORT: 8080
+ STREAMLIT_SERVER_ADDRESS: 0.0.0.0
 
 automatic_scaling:
-  min_instances: 1
-  max_instances: 10
+ min_instances: 1
+ max_instances: 10
 ```
 
 **Deploy**:
@@ -142,7 +142,7 @@ gcloud app deploy
 
 ### 🐳 OPCIÓN 4: Docker + Cloud Services
 
-#### 📋 Dockerfile
+#### Dockerfile
 
 **Dockerfile**:
 ```dockerfile
@@ -166,13 +166,13 @@ ENTRYPOINT ["streamlit", "run", "dashboard_enterprise.py", "--server.port=8501",
 ```yaml
 version: '3.8'
 services:
-  dashboard:
-    build: .
-    ports:
-      - "8501:8501"
-    environment:
-      - STREAMLIT_SERVER_PORT=8501
-      - STREAMLIT_SERVER_ADDRESS=0.0.0.0
+ dashboard:
+ build: .
+ ports:
+ - "8501:8501"
+ environment:
+ - STREAMLIT_SERVER_PORT=8501
+ - STREAMLIT_SERVER_ADDRESS=0.0.0.0
 ```
 
 **Deploy opciones**:
@@ -185,7 +185,7 @@ services:
 
 ### 🔒 OPCIÓN 5: Con Autenticación (Enterprise)
 
-#### 📋 Streamlit con Auth
+#### Streamlit con Auth
 
 **streamlit_authenticator** setup:
 ```python
@@ -200,17 +200,17 @@ passwords = ['admin123', 'viewer123']
 hashed_passwords = stauth.Hasher(passwords).generate()
 
 authenticator = stauth.Authenticate(names, usernames, hashed_passwords,
-    'kpi_dashboard', 'secret_key', cookie_expiry_days=30)
+ 'kpi_dashboard', 'secret_key', cookie_expiry_days=30)
 
 name, authentication_status, username = authenticator.login('Login', 'main')
 
 if authentication_status == True:
-    # Tu código del dashboard aquí
-    main()
+ # Tu código del dashboard aquí
+ main()
 elif authentication_status == False:
-    st.error('Username/password is incorrect')
+ st.error('Username/password is incorrect')
 elif authentication_status == None:
-    st.warning('Please enter your username and password')
+ st.warning('Please enter your username and password')
 ```
 
 ---
@@ -219,15 +219,15 @@ elif authentication_status == None:
 
 | Servicio | Costo | Límites | SSL | Dominio Custom |
 |----------|-------|---------|-----|----------------|
-| **Streamlit Cloud** | 🟢 Gratis | Moderados | ✅ | ❌ |
-| **Heroku** | $7/mes | Buenos | ✅ | ✅ |
-| **Google Cloud** | $5-20/mes | Altos | ✅ | ✅ |
-| **Digital Ocean** | $5/mes | Buenos | ✅ | ✅ |
-| **AWS** | $10-50/mes | Muy altos | ✅ | ✅ |
+| **Streamlit Cloud** | 🟢 Gratis | Moderados | | ❌ |
+| **Heroku** | $7/mes | Buenos | | |
+| **Google Cloud** | $5-20/mes | Altos | | |
+| **Digital Ocean** | $5/mes | Buenos | | |
+| **AWS** | $10-50/mes | Muy altos | | |
 
 ---
 
-### 🚀 RECOMENDACIÓN PASO A PASO
+### RECOMENDACIÓN PASO A PASO
 
 #### Para Empezar RÁPIDO (5 minutos):
 
@@ -247,16 +247,16 @@ elif authentication_status == None:
 
 ---
 
-### 🔧 PREPARACIÓN DE ARCHIVOS
+### PREPARACIÓN DE ARCHIVOS
 
 #### Archivos que DEBES incluir para deployment:
 
-✅ `dashboard_enterprise.py` (archivo principal)
-✅ `requirements_enterprise.txt` (dependencias)
-✅ `create_sample_data.py` (generador de datos)
-✅ `data/samples/` (archivos CSV)
-✅ `config/config.yaml` (configuración)
-✅ `README_ENTERPRISE.md` (documentación)
+ `dashboard_enterprise.py` (archivo principal)
+ `requirements_enterprise.txt` (dependencias)
+ `create_sample_data.py` (generador de datos)
+ `data/samples/` (archivos CSV)
+ `config/config.yaml` (configuración)
+ `README_ENTERPRISE.md` (documentación)
 
 #### Archivos opcionales pero recomendados:
 
@@ -272,7 +272,7 @@ elif authentication_status == None:
 Tu dashboard será **automáticamente responsive** y funcionará en:
 - 📱 **Móviles** (iOS/Android)
 - 💻 **Tablets** (iPad, etc.)
-- 🖥️ **Desktop** (todos los browsers)
+- 🖥 **Desktop** (todos los browsers)
 - 📺 **TV displays** (para presentaciones)
 
 ---
@@ -299,7 +299,7 @@ secret_key = "tu-clave-secreta"
 
 ---
 
-### 📊 MONITOREO
+### MONITOREO
 
 #### Métricas que puedes trackear:
 - **Usuarios únicos** por día
@@ -310,7 +310,7 @@ secret_key = "tu-clave-secreta"
 
 ---
 
-### 🎯 PRÓXIMOS PASOS SUGERIDOS
+### PRÓXIMOS PASOS SUGERIDOS
 
 1. **Deployment inmediato**: Streamlit Cloud (gratis)
 2. **Dominio personalizado**: Heroku + dominio propio
@@ -322,7 +322,7 @@ secret_key = "tu-clave-secreta"
 
 ---
 
-### 📞 SOPORTE POST-DEPLOYMENT
+### SOPORTE POST-DEPLOYMENT
 
 - **Logs**: `streamlit logs` para debug
 - **Restart**: Redeploy automático en cada push

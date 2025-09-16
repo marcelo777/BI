@@ -1,24 +1,10 @@
 # KPI Dashboard - Sistema de Análisis de Customer Service
 
-🔹 **Dashboard Interactivo para Análisis de KPIs de Customer Service**  
-🔹 **Visualización de Datos en Tiempo Real con Streamlit**  
-🔹 **Análisis de Asesores, Tickets, NPS y Datos Avaya**
+**Dashboard Interactivo para Análisis de KPIs de Customer Service**  
+**Visualización de Datos en Tiempo Real con Streamlit**  
+**Análisis de Asesores, Tickets, NPS y Datos Avaya**
 
-## 📋 Características Principales
-
-- **Dashboard Interactivo**: Visualización profesional de KPIs clave
-- **Análisis Multi-fuente**: Asesores, Tickets, NPS, Avaya
-- **Datos de Ejemplo**: Sistema completo con datos sintéticos
-- **Deployment Listo**: Configurado para Streamlit Cloud, Heroku, Docker
-- **Arquitectura Modular**: Código limpio y fácil de mantener
-
-# KPI Dashboard - Sistema de Análisis de Customer Service
-
-🔹 **Dashboard Interactivo para Análisis de KPIs de Customer Service**  
-🔹 **Visualización de Datos en Tiempo Real con Streamlit**  
-🔹 **Análisis de Asesores, Tickets, NPS y Datos Avaya**
-
-## 📋 Características Principales
+## Características Principales
 
 - **Dashboard Interactivo**: Visualización profesional de KPIs clave
 - **Análisis Multi-fuente**: Asesores, Tickets, NPS, Avaya
@@ -26,14 +12,14 @@
 - **Deployment Listo**: Configurado para Streamlit Cloud, Heroku, Docker
 - **Arquitectura Modular**: Código limpio y fácil de mantener
 
-## 🚀 Inicio Rápido
+## Inicio Rápido
 
 ### 1. Instalación
 
 ```bash
 # Clonar el repositorio
-git clone [URL_DEL_REPO]
-cd proyecto_kpi_dashboard
+git clone https://github.com/marcelo777/BI.git
+cd BI
 
 # Instalar dependencias
 pip install -r requirements.txt
@@ -51,7 +37,7 @@ streamlit run dashboard_enterprise.py
 
 El dashboard estará disponible en: `http://localhost:8501`
 
-## 📊 KPIs Incluidos
+## KPIs Incluidos
 
 ### Customer Service
 
@@ -73,7 +59,7 @@ El dashboard estará disponible en: `http://localhost:8501`
 - **Tiempo de Espera**: Métricas de calidad de servicio
 - **Distribución Temporal**: Patrones horarios y diarios
 
-## 📁 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```text
 proyecto_kpi_dashboard/
@@ -94,7 +80,7 @@ proyecto_kpi_dashboard/
 └── .streamlit/               # Configuración de Streamlit
 ```
 
-## 🔧 Configuración
+## Configuración
 
 ### Archivo config.yaml
 
@@ -116,14 +102,14 @@ dashboard:
   layout: "wide"
 ```
 
-## 🌐 Deployment
+## Deployment
 
 ### Streamlit Cloud (Recomendado)
 
 1. **Fork/Clone** este repositorio en GitHub
 2. **Conectar** a [share.streamlit.io](https://share.streamlit.io)
 3. **Configurar**:
-   - Repository: `tu-usuario/proyecto_kpi_dashboard`
+   - Repository: `marcelo777/BI`
    - Branch: `main`
    - Main file: `dashboard_enterprise.py`
 4. **Deploy** automáticamente
@@ -149,9 +135,9 @@ docker build -t kpi-dashboard .
 docker run -p 8501:8501 kpi-dashboard
 ```
 
-**📖 Guías Detalladas**: Ver `DEPLOYMENT_GUIDE.md` para instrucciones completas.
+**Guías Detalladas**: Ver `DEPLOYMENT_GUIDE.md` para instrucciones completas.
 
-## 📊 Datos de Ejemplo
+## Datos de Ejemplo
 
 El sistema incluye un generador completo de datos sintéticos:
 
@@ -166,7 +152,7 @@ python create_sample_data.py
 # - sample_avaya.csv       (1000 llamadas)
 ```
 
-## 🛠️ Desarrollo
+## Desarrollo
 
 ### Agregar Nuevos KPIs
 
@@ -183,14 +169,14 @@ python create_sample_data.py
 - **`src/models/`**: Modelos de datos y KPIs
 - **`src/utils/`**: Utilidades y configuración
 
-## 📋 Requisitos
+## Requisitos
 
 - **Python**: 3.7+
 - **Dependencias**: Ver `requirements.txt`
 - **Datos**: CSV files o conexión a base de datos
 - **Browser**: Chrome, Firefox, Safari (para dashboard)
 
-## 🚀 Scripts de Deployment
+## Scripts de Deployment
 
 ```bash
 # Windows
@@ -200,18 +186,18 @@ prepare_deploy.bat
 bash prepare_deploy.sh
 ```
 
-## 📈 Features
+## Features
 
-- ✅ **Dashboard Interactivo**: Streamlit profesional
-- ✅ **Múltiples KPIs**: Customer Service, Asesores, Avaya, NPS
-- ✅ **Datos Sintéticos**: Sistema completo con datos de ejemplo
-- ✅ **Export de Reportes**: JSON y visualizaciones
-- ✅ **Configuración Flexible**: YAML configuration
-- ✅ **Deployment Ready**: Streamlit Cloud, Heroku, Docker
-- ✅ **Código Documentado**: Comentarios detallados
-- ✅ **Arquitectura Modular**: Fácil de extender
+- **Dashboard Interactivo**: Streamlit profesional
+- **Múltiples KPIs**: Customer Service, Asesores, Avaya, NPS
+- **Datos Sintéticos**: Sistema completo con datos de ejemplo
+- **Export de Reportes**: JSON y visualizaciones
+- **Configuración Flexible**: YAML configuration
+- **Deployment Ready**: Streamlit Cloud, Heroku, Docker
+- **Código Documentado**: Comentarios detallados
+- **Arquitectura Modular**: Fácil de extender
 
-## 🤝 Contribución
+## Contribución
 
 1. **Fork** el proyecto
 2. **Crear** feature branch (`git checkout -b feature/AmazingFeature`)
@@ -219,17 +205,17 @@ bash prepare_deploy.sh
 4. **Push** a la branch (`git push origin feature/AmazingFeature`)
 5. **Abrir** Pull Request
 
-## 📄 Licencia
+## Licencia
 
 Este proyecto está bajo la Licencia MIT - ver el archivo `LICENSE` para detalles.
 
-## 🔗 Links Útiles
+## Links Útiles
 
 - **[Streamlit Documentation](https://docs.streamlit.io/)**
 - **[Plotly Documentation](https://plotly.com/python/)**
 - **[Pandas Documentation](https://pandas.pydata.org/docs/)**
 
-## 📞 Soporte
+## Soporte
 
 Para soporte y preguntas:
 
@@ -239,4 +225,4 @@ Para soporte y preguntas:
 
 ---
 
-**🚀 ¡Listo para Deployment!** - Este proyecto está completamente configurado y listo para ser publicado en cualquier plataforma de hosting.
+**¡Listo para Deployment!** - Este proyecto está completamente configurado y listo para ser publicado en cualquier plataforma de hosting.
