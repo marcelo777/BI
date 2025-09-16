@@ -1,0 +1,71 @@
+# Configuración del Sistema KPI Dashboard con datos de ejemplo
+# Este archivo permite ejecutar el sistema completamente con datos simulados
+
+# === CONFIGURACIÓN DE FUENTES DE DATOS ===
+# Usar datos de ejemplo cuando las conexiones reales no están disponibles
+database:
+  use_sample_data: true
+  sample_data_path: "data/samples"
+  # Para conexiones reales (comentadas):
+  # host: "localhost"
+  # port: 5432
+  # database: "kpi_dashboard"
+  # username: "user"
+  # password: "password"
+
+avaya:
+  use_sample_data: true
+  sample_data_path: "data/samples"
+  # Para conexiones reales (comentadas):
+  # api_url: "https://avaya-api.company.com"
+  # username: "avaya_user"
+  # password: "avaya_password"
+
+tickets:
+  use_sample_data: true
+  sample_data_path: "data/samples"
+  # Para conexiones reales (comentadas):
+  # api_url: "https://tickets-api.company.com"
+  # api_key: "your_api_key"
+
+nps:
+  use_sample_data: true
+  sample_data_path: "data/samples"
+  # Para conexiones reales (comentadas):
+  # api_url: "https://nps-api.company.com"
+  # api_key: "your_nps_api_key"
+
+# === CONFIGURACIÓN DEL DASHBOARD ===
+dashboard:
+  auto_refresh_minutes: 5
+  debug: true
+  port: 8050
+  host: "127.0.0.1"
+
+# === CONFIGURACIÓN DE LOGGING ===
+logging:
+  level: "INFO"
+  file: "logs/kpi_dashboard.log"
+  max_size_mb: 50
+  backup_count: 5
+
+# === CONFIGURACIÓN DE EXPORTACIÓN ===
+exports:
+  default_format: "xlsx"
+  include_charts: true
+  auto_timestamp: true
+
+# === CONFIGURACIÓN DE KPIs ===
+kpis:
+  fcr_objetivo: 0.25  # 25% (hipótesis a validar)
+  mttr_objetivo_horas: 4
+  aht_objetivo_minutos: 20
+  abandono_maximo: 0.10  # 10%
+  nps_objetivo: 8.0
+
+# === RUTAS DEL SISTEMA ===
+paths:
+  data: "data"
+  exports: "exports"
+  logs: "logs"
+  config: "config"

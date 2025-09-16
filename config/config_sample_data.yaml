@@ -1,0 +1,19 @@
+# Configuración para usar datos de ejemplo
+# Generado automáticamente
+
+database:
+  use_sample_data: True
+  sample_data_path: data/samples
+avaya:
+  use_sample_data: True
+  sample_data_path: data/samples
+nps:
+  use_sample_data: True
+  sample_data_path: data/samples
+dashboard:
+  auto_refresh_minutes: 5
+  debug: True
+  port: 8050
+logging:
+  level: INFO
+  file: logs/kpi_dashboard.log

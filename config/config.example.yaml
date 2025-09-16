@@ -1,0 +1,80 @@
+# Configuración del Sistema KPI Dashboard
+
+# Base de datos principal
+database:
+  host: "localhost"
+  port: 5432
+  name: "kpi_database"
+  username: "admin"
+  password: "password"
+  driver: "postgresql"
+
+# Configuración AVAYA
+avaya:
+  api_url: "https://avaya-api.company.com"
+  username: "avaya_user"
+  password: "avaya_pass"
+  timeout: 30
+
+# Sistema de tickets
+tickets:
+  api_url: "https://tickets-api.company.com"
+  api_key: "ticket_api_key"
+  timeout: 30
+
+# NPS y encuestas
+nps:
+  api_url: "https://nps-api.company.com"
+  api_key: "nps_api_key"
+
+# Dashboard configuración
+dashboard:
+  port: 8050
+  debug: true
+  auto_refresh_minutes: 15
+  
+# Categorización de causas
+causas:
+  max_categories: 15  # Reducir de 90+ a 15 categorías principales
+  auto_categorize: true
+  similarity_threshold: 0.75
+
+# Análisis de asesores
+asesores:
+  target_resolution_rate: 0.75  # 75% objetivo de resolución
+  escalation_threshold: 0.25    # 25% máximo de escalación
+  performance_window_days: 30
+
+# Segmentos de clientes
+segmentos:
+  vip_criteria:
+    - "Premium"
+    - "Corporate"
+    - "Enterprise"
+  regular_criteria:
+    - "Standard"
+    - "Basic"
+
+# Productos
+productos:
+  categories:
+    - "Internet"
+    - "Telefonia"
+    - "TV"
+    - "Paquetes"
+    - "Empresarial"
+
+# Configuración de reportes
+reportes:
+  fecha_objetivo: "2025-09-16"
+  formatos_salida:
+    - "excel"
+    - "pdf"
+    - "html"
+
+# Logging
+logging:
+  level: "INFO"
+  file: "logs/kpi_dashboard.log"
+  max_size_mb: 100
+  backup_count: 5

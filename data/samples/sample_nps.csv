@@ -1,0 +1,501 @@
+respuesta_id,fecha_respuesta,cliente_id,producto,segmento_cliente,nps_score,categoria_nps,comentario,canal_encuesta,tiempo_respuesta_dias,contacto_previo,resolucion_satisfactoria,recomendaria_servicio,region,edad_cliente,antiguedad_meses
+NPS_000001,2025-08-19 12:12:36,CLI_41143,Empresarial,Premium,0,Detractor,"Servicio muy lento, muchas fallas",Email,6,True,True,False,Centro,49,81
+NPS_000002,2025-08-25 12:12:36,CLI_43677,Telefonía Fija,VIP,6,Detractor,"Servicio muy lento, muchas fallas",Email,5,True,False,False,Oeste,53,10
+NPS_000003,2025-07-14 12:12:36,CLI_21262,Móvil Prepago,VIP,3,Detractor,Precio muy alto para el servicio,App,6,True,False,False,Centro,37,115
+NPS_000004,2025-08-19 12:12:36,CLI_18981,Empresarial,Regular,4,Detractor,"Servicio muy lento, muchas fallas",SMS,6,True,True,False,Sur,62,114
+NPS_000005,2025-07-07 12:12:36,CLI_36093,Móvil Postpago,Premium,5,Detractor,Problemas técnicos constantes,Email,7,True,True,False,Norte,74,5
+NPS_000006,2025-08-23 12:12:36,CLI_32547,Móvil Prepago,Regular,1,Detractor,"Servicio muy lento, muchas fallas",Email,0,False,True,False,Sur,48,38
+NPS_000007,2025-06-25 12:12:36,CLI_45782,TV Cable,Premium,3,Detractor,Problemas técnicos constantes,App,0,False,True,False,Centro,54,4
+NPS_000008,2025-07-24 12:12:36,CLI_10903,Empresarial,VIP,1,Detractor,Atención al cliente deficiente,Web,0,True,False,False,Centro,34,78
+NPS_000009,2025-08-03 12:12:36,CLI_07424,TV Cable,VIP,8,Neutral,Funciona pero tiene algunos problemas,Email,6,False,False,True,Este,74,101
+NPS_000010,2025-08-13 12:12:36,CLI_20010,Internet Hogar,VIP,10,Promotor,"Excelente servicio, muy satisfecho",App,1,True,True,True,Norte,55,100
+NPS_000011,2025-07-16 12:12:36,CLI_48844,TV Cable,Premium,7,Neutral,"Servicio regular, podría mejorar",Email,4,False,False,True,Este,36,34
+NPS_000012,2025-08-31 12:12:36,CLI_27216,Móvil Prepago,Regular,5,Detractor,"Servicio muy lento, muchas fallas",App,5,True,True,False,Sur,69,28
+NPS_000013,2025-07-17 12:12:36,CLI_35056,Móvil Prepago,Premium,3,Detractor,Precio muy alto para el servicio,App,6,True,True,False,Norte,22,39
+NPS_000014,2025-09-04 12:12:36,CLI_03797,Móvil Prepago,Premium,5,Detractor,Atención al cliente deficiente,SMS,7,False,True,False,Norte,32,100
+NPS_000015,2025-08-03 12:12:36,CLI_44901,TV Cable,Regular,8,Neutral,Funciona pero tiene algunos problemas,App,1,False,False,True,Centro,69,9
+NPS_000016,2025-08-03 12:12:36,CLI_49188,Móvil Postpago,VIP,2,Detractor,Problemas técnicos constantes,SMS,6,True,False,False,Oeste,70,84
+NPS_000017,2025-06-22 12:12:36,CLI_13337,Móvil Prepago,Básico,8,Neutral,"Servicio regular, podría mejorar",Web,0,True,False,True,Centro,56,36
+NPS_000018,2025-06-20 12:12:36,CLI_35604,Empresarial,Premium,7,Neutral,"Precio aceptable, servicio promedio",App,1,False,False,True,Este,65,45
+NPS_000019,2025-08-05 12:12:36,CLI_01373,Móvil Postpago,Regular,4,Detractor,Atención al cliente deficiente,Web,3,True,False,False,Este,55,65
+NPS_000020,2025-09-06 12:12:36,CLI_43155,Internet Hogar,VIP,9,Promotor,Personal muy profesional,App,5,False,True,True,Sur,31,98
+NPS_000021,2025-07-26 12:12:36,CLI_31677,Móvil Postpago,Regular,9,Promotor,"Excelente servicio, muy satisfecho",Web,5,True,True,True,Este,47,86
+NPS_000022,2025-08-30 12:12:36,CLI_17316,Móvil Postpago,Básico,6,Detractor,Precio muy alto para el servicio,SMS,7,True,False,False,Oeste,52,3
+NPS_000023,2025-09-15 12:12:36,CLI_42255,Móvil Postpago,Premium,7,Neutral,"Precio aceptable, servicio promedio",Web,6,True,False,True,Sur,24,83
+NPS_000024,2025-09-08 12:12:36,CLI_34238,Móvil Prepago,Premium,6,Detractor,"Servicio muy lento, muchas fallas",App,1,False,False,False,Norte,56,3
+NPS_000025,2025-08-18 12:12:36,CLI_45701,TV Cable,Premium,1,Detractor,Precio muy alto para el servicio,Email,6,True,True,False,Oeste,43,77
+NPS_000026,2025-06-19 12:12:36,CLI_35237,TV Cable,Básico,5,Detractor,Atención al cliente deficiente,Web,7,False,False,False,Centro,72,34
+NPS_000027,2025-07-08 12:12:36,CLI_32278,TV Cable,Premium,7,Neutral,"Precio aceptable, servicio promedio",Email,7,False,True,True,Oeste,27,24
+NPS_000028,2025-07-31 12:12:36,CLI_05719,Móvil Prepago,Premium,8,Neutral,"Servicio regular, podría mejorar",SMS,0,True,True,True,Norte,67,106
+NPS_000029,2025-09-05 12:12:36,CLI_08622,Telefonía Fija,Premium,8,Neutral,Funciona pero tiene algunos problemas,Web,1,True,True,True,Sur,41,27
+NPS_000030,2025-08-15 12:12:36,CLI_36434,Internet Móvil,Regular,1,Detractor,Atención al cliente deficiente,Web,2,False,False,False,Oeste,42,19
+NPS_000031,2025-07-13 12:12:36,CLI_35745,Móvil Prepago,VIP,5,Detractor,Atención al cliente deficiente,App,7,True,True,False,Este,64,109
+NPS_000032,2025-07-26 12:12:36,CLI_17195,TV Cable,Premium,2,Detractor,Problemas técnicos constantes,Web,3,False,False,False,Oeste,22,79
+NPS_000033,2025-07-17 12:12:36,CLI_48323,Móvil Postpago,Básico,7,Neutral,"Servicio regular, podría mejorar",Web,7,True,False,True,Norte,26,44
+NPS_000034,2025-08-31 12:12:36,CLI_29385,Telefonía Fija,Regular,3,Detractor,Precio muy alto para el servicio,App,1,True,True,False,Centro,32,11
+NPS_000035,2025-07-22 12:12:36,CLI_22654,Telefonía Fija,Premium,7,Neutral,"Precio aceptable, servicio promedio",Email,5,True,True,True,Sur,42,87
+NPS_000036,2025-08-31 12:12:36,CLI_04499,Empresarial,Básico,6,Detractor,"Servicio muy lento, muchas fallas",Email,0,True,False,False,Este,18,58
+NPS_000037,2025-07-24 12:12:36,CLI_13950,Móvil Prepago,Regular,10,Promotor,"Excelente servicio, muy satisfecho",App,7,True,True,True,Sur,67,3
+NPS_000038,2025-07-13 12:12:36,CLI_23272,Móvil Prepago,Básico,6,Detractor,Precio muy alto para el servicio,Email,6,True,True,False,Sur,46,40
+NPS_000039,2025-08-01 12:12:36,CLI_35290,Telefonía Fija,Regular,8,Neutral,"Precio aceptable, servicio promedio",App,7,False,True,True,Norte,29,106
+NPS_000040,2025-06-18 12:12:36,CLI_24645,Telefonía Fija,Premium,5,Detractor,"Servicio muy lento, muchas fallas",Web,2,False,True,False,Sur,26,77
+NPS_000041,2025-08-16 12:12:36,CLI_03272,Internet Móvil,Regular,8,Neutral,"Precio aceptable, servicio promedio",SMS,1,False,False,True,Centro,67,107
+NPS_000042,2025-08-14 12:12:36,CLI_40579,Internet Hogar,VIP,0,Detractor,"Servicio muy lento, muchas fallas",Web,3,True,False,False,Centro,33,103
+NPS_000043,2025-09-11 12:12:36,CLI_06269,Móvil Prepago,Básico,4,Detractor,Problemas técnicos constantes,Web,1,True,True,False,Sur,23,100
+NPS_000044,2025-06-21 12:12:36,CLI_02341,Telefonía Fija,Básico,10,Promotor,Atención rápida y efectiva,App,0,False,False,True,Norte,42,36
+NPS_000045,2025-08-19 12:12:36,CLI_22974,Internet Móvil,Regular,3,Detractor,"Servicio muy lento, muchas fallas",App,7,True,True,False,Sur,40,105
+NPS_000046,2025-08-23 12:12:36,CLI_45225,Internet Hogar,Básico,5,Detractor,Precio muy alto para el servicio,SMS,3,False,False,False,Este,66,29
+NPS_000047,2025-09-13 12:12:36,CLI_11157,Telefonía Fija,VIP,10,Promotor,Atención rápida y efectiva,Web,6,False,True,True,Este,52,45
+NPS_000048,2025-07-11 12:12:36,CLI_48247,Internet Móvil,Premium,3,Detractor,Precio muy alto para el servicio,Email,2,False,False,False,Norte,57,31
+NPS_000049,2025-08-12 12:12:36,CLI_41104,Internet Hogar,VIP,4,Detractor,Problemas técnicos constantes,SMS,0,True,True,False,Centro,51,49
+NPS_000050,2025-07-10 12:12:36,CLI_38409,Móvil Postpago,Regular,3,Detractor,Problemas técnicos constantes,App,6,True,True,False,Oeste,28,10
+NPS_000051,2025-08-18 12:12:36,CLI_39371,TV Cable,Regular,10,Promotor,Atención rápida y efectiva,App,2,False,True,True,Centro,53,86
+NPS_000052,2025-06-27 12:12:36,CLI_27679,Internet Móvil,VIP,5,Detractor,Problemas técnicos constantes,App,0,False,True,False,Oeste,21,20
+NPS_000053,2025-06-29 12:12:36,CLI_29776,Empresarial,VIP,0,Detractor,"Servicio muy lento, muchas fallas",Email,7,False,True,False,Sur,37,70
+NPS_000054,2025-08-25 12:12:36,CLI_22756,TV Cable,Básico,3,Detractor,"Servicio muy lento, muchas fallas",Web,7,True,False,False,Este,40,105
+NPS_000055,2025-07-09 12:12:36,CLI_19906,Telefonía Fija,Regular,3,Detractor,Atención al cliente deficiente,App,0,False,True,False,Centro,35,46
+NPS_000056,2025-07-13 12:12:36,CLI_14997,Empresarial,Regular,10,Promotor,Personal muy profesional,Web,2,False,False,True,Centro,20,89
+NPS_000057,2025-08-10 12:12:36,CLI_35280,Móvil Prepago,Premium,3,Detractor,Atención al cliente deficiente,Web,6,True,True,False,Norte,19,68
+NPS_000058,2025-07-04 12:12:36,CLI_46489,TV Cable,Básico,1,Detractor,Problemas técnicos constantes,SMS,2,True,False,False,Norte,21,39
+NPS_000059,2025-08-17 12:12:36,CLI_03061,Internet Hogar,Regular,3,Detractor,Atención al cliente deficiente,Email,4,False,True,False,Sur,34,40
+NPS_000060,2025-07-29 12:12:36,CLI_22588,Telefonía Fija,VIP,5,Detractor,"Servicio muy lento, muchas fallas",Email,3,False,False,False,Norte,38,119
+NPS_000061,2025-09-01 12:12:36,CLI_11090,Empresarial,Básico,2,Detractor,Atención al cliente deficiente,SMS,7,True,True,False,Centro,37,32
+NPS_000062,2025-06-27 12:12:36,CLI_30760,Móvil Postpago,Premium,0,Detractor,Precio muy alto para el servicio,Web,2,True,False,False,Centro,39,113
+NPS_000063,2025-06-19 12:12:36,CLI_37059,Móvil Prepago,Básico,10,Promotor,Buena relación calidad-precio,App,7,False,True,True,Este,74,117
+NPS_000064,2025-08-02 12:12:36,CLI_24710,Móvil Prepago,Regular,0,Detractor,Atención al cliente deficiente,Email,1,True,True,False,Centro,21,17
+NPS_000065,2025-08-02 12:12:36,CLI_02710,Internet Hogar,Básico,7,Neutral,"Servicio regular, podría mejorar",Email,0,True,False,True,Oeste,26,11
+NPS_000066,2025-09-04 12:12:36,CLI_03043,Móvil Postpago,Regular,5,Detractor,"Servicio muy lento, muchas fallas",Web,5,True,True,False,Este,49,87
+NPS_000067,2025-08-03 12:12:36,CLI_36014,Móvil Postpago,Regular,5,Detractor,"Servicio muy lento, muchas fallas",Email,7,True,False,False,Oeste,53,79
+NPS_000068,2025-09-10 12:12:36,CLI_22946,Telefonía Fija,Premium,8,Neutral,Funciona pero tiene algunos problemas,Email,6,True,False,True,Oeste,35,71
+NPS_000069,2025-09-07 12:12:36,CLI_08875,Móvil Postpago,Básico,4,Detractor,Atención al cliente deficiente,Email,5,True,True,False,Centro,73,33
+NPS_000070,2025-07-27 12:12:36,CLI_49036,Internet Hogar,Premium,8,Neutral,"Precio aceptable, servicio promedio",Web,1,False,True,True,Norte,23,100
+NPS_000071,2025-07-02 12:12:36,CLI_49135,Móvil Postpago,Premium,7,Neutral,Funciona pero tiene algunos problemas,Web,4,False,False,True,Centro,46,42
+NPS_000072,2025-06-21 12:12:36,CLI_40358,Internet Móvil,Regular,5,Detractor,"Servicio muy lento, muchas fallas",Email,7,True,True,False,Norte,46,59
+NPS_000073,2025-07-24 12:12:36,CLI_08473,Telefonía Fija,Premium,3,Detractor,Precio muy alto para el servicio,Email,5,True,True,False,Norte,64,111
+NPS_000074,2025-07-22 12:12:36,CLI_36109,Móvil Prepago,VIP,7,Neutral,"Servicio regular, podría mejorar",SMS,4,True,False,True,Sur,32,1
+NPS_000075,2025-07-29 12:12:36,CLI_23867,TV Cable,Básico,2,Detractor,Precio muy alto para el servicio,Email,3,False,True,False,Este,45,120
+NPS_000076,2025-08-05 12:12:36,CLI_08780,Empresarial,Básico,3,Detractor,Atención al cliente deficiente,SMS,1,False,True,False,Sur,75,119
+NPS_000077,2025-08-05 12:12:36,CLI_33185,Internet Móvil,Regular,1,Detractor,Problemas técnicos constantes,App,7,True,False,False,Norte,21,108
+NPS_000078,2025-06-25 12:12:36,CLI_13586,Telefonía Fija,VIP,10,Promotor,Buena relación calidad-precio,App,4,False,False,True,Este,61,115
+NPS_000079,2025-07-21 12:12:36,CLI_05635,Empresarial,Básico,9,Promotor,"Excelente servicio, muy satisfecho",Email,1,False,False,True,Norte,26,33
+NPS_000080,2025-07-09 12:12:36,CLI_44280,Móvil Postpago,Regular,2,Detractor,Precio muy alto para el servicio,App,2,True,True,False,Norte,52,47
+NPS_000081,2025-07-08 12:12:36,CLI_06657,Internet Hogar,Premium,0,Detractor,Precio muy alto para el servicio,Email,0,True,True,False,Oeste,55,84
+NPS_000082,2025-08-22 12:12:36,CLI_07083,Internet Hogar,Básico,4,Detractor,"Servicio muy lento, muchas fallas",Web,2,False,False,False,Este,43,61
+NPS_000083,2025-07-28 12:12:36,CLI_31810,Empresarial,Regular,3,Detractor,Atención al cliente deficiente,SMS,2,True,False,False,Norte,28,79
+NPS_000084,2025-07-27 12:12:36,CLI_11182,Internet Hogar,VIP,7,Neutral,Funciona pero tiene algunos problemas,SMS,6,False,True,True,Este,56,81
+NPS_000085,2025-08-03 12:12:36,CLI_00108,TV Cable,Premium,10,Promotor,"Excelente servicio, muy satisfecho",App,4,True,True,True,Este,30,87
+NPS_000086,2025-08-06 12:12:36,CLI_42440,Móvil Prepago,Regular,1,Detractor,Problemas técnicos constantes,App,3,True,True,False,Norte,73,115
+NPS_000087,2025-08-26 12:12:36,CLI_42866,Empresarial,Regular,5,Detractor,"Servicio muy lento, muchas fallas",SMS,1,True,False,False,Oeste,50,83
+NPS_000088,2025-07-31 12:12:36,CLI_37587,TV Cable,VIP,6,Detractor,Problemas técnicos constantes,Web,4,True,True,False,Norte,37,19
+NPS_000089,2025-08-29 12:12:36,CLI_41933,Empresarial,Básico,5,Detractor,Problemas técnicos constantes,Web,0,False,True,False,Centro,22,104
+NPS_000090,2025-09-13 12:12:36,CLI_34188,Móvil Prepago,Básico,0,Detractor,Problemas técnicos constantes,Web,2,True,False,False,Oeste,67,27
+NPS_000091,2025-06-19 12:12:36,CLI_49409,Internet Móvil,Premium,9,Promotor,Personal muy profesional,App,6,False,False,True,Oeste,54,26
+NPS_000092,2025-06-22 12:12:36,CLI_37105,Móvil Prepago,Regular,0,Detractor,"Servicio muy lento, muchas fallas",App,1,True,True,False,Centro,49,80
+NPS_000093,2025-08-10 12:12:36,CLI_35382,Móvil Postpago,Básico,1,Detractor,Problemas técnicos constantes,Web,4,False,False,False,Centro,55,89
+NPS_000094,2025-06-24 12:12:36,CLI_34127,Telefonía Fija,Regular,4,Detractor,"Servicio muy lento, muchas fallas",App,6,True,False,False,Oeste,58,5
+NPS_000095,2025-07-29 12:12:36,CLI_03726,Móvil Prepago,Básico,5,Detractor,"Servicio muy lento, muchas fallas",Web,3,True,False,False,Oeste,58,84
+NPS_000096,2025-08-10 12:12:36,CLI_33018,Móvil Postpago,VIP,7,Neutral,"Servicio regular, podría mejorar",App,3,False,False,True,Oeste,54,85
+NPS_000097,2025-06-20 12:12:36,CLI_02822,Internet Móvil,Básico,6,Detractor,"Servicio muy lento, muchas fallas",Email,0,False,False,False,Este,48,37
+NPS_000098,2025-08-11 12:12:36,CLI_20393,Internet Hogar,Básico,4,Detractor,Problemas técnicos constantes,Email,6,False,True,False,Oeste,30,7
+NPS_000099,2025-07-19 12:12:36,CLI_45628,TV Cable,Premium,7,Neutral,Funciona pero tiene algunos problemas,Email,3,False,False,True,Este,73,81
+NPS_000100,2025-08-26 12:12:36,CLI_05768,Internet Móvil,Regular,4,Detractor,Atención al cliente deficiente,App,5,False,False,False,Norte,69,79
+NPS_000101,2025-07-22 12:12:36,CLI_41042,Telefonía Fija,Regular,1,Detractor,Atención al cliente deficiente,App,4,True,False,False,Centro,37,46
+NPS_000102,2025-07-31 12:12:36,CLI_05142,Internet Hogar,Básico,9,Promotor,"Excelente servicio, muy satisfecho",SMS,1,True,True,True,Sur,45,25
+NPS_000103,2025-07-13 12:12:36,CLI_20004,Móvil Prepago,Premium,2,Detractor,Atención al cliente deficiente,Email,6,True,True,False,Sur,72,15
+NPS_000104,2025-07-09 12:12:36,CLI_10601,Telefonía Fija,Premium,7,Neutral,"Precio aceptable, servicio promedio",SMS,2,False,True,True,Centro,75,86
+NPS_000105,2025-08-03 12:12:36,CLI_12073,TV Cable,Básico,0,Detractor,"Servicio muy lento, muchas fallas",Web,2,True,False,False,Sur,62,35
+NPS_000106,2025-08-26 12:12:36,CLI_40902,Móvil Postpago,Premium,4,Detractor,Atención al cliente deficiente,Email,2,True,True,False,Oeste,44,101
+NPS_000107,2025-06-24 12:12:36,CLI_24210,Internet Hogar,Básico,6,Detractor,Precio muy alto para el servicio,App,6,False,False,False,Este,73,71
+NPS_000108,2025-06-30 12:12:36,CLI_19361,Telefonía Fija,Premium,0,Detractor,"Servicio muy lento, muchas fallas",App,5,True,True,False,Oeste,61,10
+NPS_000109,2025-08-29 12:12:36,CLI_04224,Móvil Postpago,Premium,3,Detractor,"Servicio muy lento, muchas fallas",Web,3,False,False,False,Norte,30,14
+NPS_000110,2025-08-26 12:12:36,CLI_47322,Telefonía Fija,Regular,4,Detractor,"Servicio muy lento, muchas fallas",Email,4,False,True,False,Este,64,103
+NPS_000111,2025-08-22 12:12:36,CLI_12387,Móvil Prepago,Premium,6,Detractor,"Servicio muy lento, muchas fallas",App,4,True,True,False,Este,37,16
+NPS_000112,2025-07-01 12:12:36,CLI_26004,Empresarial,Básico,5,Detractor,"Servicio muy lento, muchas fallas",SMS,0,True,False,False,Centro,42,36
+NPS_000113,2025-08-13 12:12:36,CLI_39578,Internet Hogar,Básico,9,Promotor,Buena relación calidad-precio,SMS,3,False,False,True,Oeste,21,104
+NPS_000114,2025-07-12 12:12:36,CLI_31912,Internet Hogar,Básico,6,Detractor,Precio muy alto para el servicio,SMS,4,False,False,False,Este,23,70
+NPS_000115,2025-06-28 12:12:36,CLI_25797,Internet Hogar,Básico,0,Detractor,Problemas técnicos constantes,Web,1,True,True,False,Sur,34,100
+NPS_000116,2025-07-11 12:12:36,CLI_32550,Móvil Postpago,VIP,9,Promotor,Buena relación calidad-precio,App,0,True,False,True,Este,38,44
+NPS_000117,2025-07-23 12:12:36,CLI_31678,TV Cable,Regular,1,Detractor,Problemas técnicos constantes,Web,7,False,True,False,Norte,70,60
+NPS_000118,2025-06-24 12:12:36,CLI_05569,Telefonía Fija,Regular,10,Promotor,Atención rápida y efectiva,Web,2,False,False,True,Este,64,16
+NPS_000119,2025-06-29 12:12:36,CLI_46167,Internet Hogar,Regular,4,Detractor,Atención al cliente deficiente,SMS,3,True,True,False,Norte,24,102
+NPS_000120,2025-07-13 12:12:36,CLI_34170,Telefonía Fija,Básico,5,Detractor,"Servicio muy lento, muchas fallas",SMS,5,True,True,False,Este,19,56
+NPS_000121,2025-07-07 12:12:36,CLI_10329,Internet Hogar,VIP,1,Detractor,Precio muy alto para el servicio,SMS,0,True,True,False,Este,34,7
+NPS_000122,2025-08-11 12:12:36,CLI_19732,Móvil Prepago,Regular,3,Detractor,Problemas técnicos constantes,App,7,False,True,False,Oeste,39,65
+NPS_000123,2025-06-25 12:12:36,CLI_15139,Internet Hogar,Regular,6,Detractor,"Servicio muy lento, muchas fallas",SMS,1,False,True,False,Oeste,23,37
+NPS_000124,2025-06-23 12:12:36,CLI_32985,Empresarial,Regular,7,Neutral,"Precio aceptable, servicio promedio",Email,3,True,False,True,Este,19,70
+NPS_000125,2025-07-08 12:12:36,CLI_49466,Empresarial,Premium,4,Detractor,Precio muy alto para el servicio,App,3,False,False,False,Sur,52,97
+NPS_000126,2025-09-12 12:12:36,CLI_47369,Móvil Postpago,Regular,5,Detractor,"Servicio muy lento, muchas fallas",Web,0,False,True,False,Sur,63,11
+NPS_000127,2025-08-19 12:12:36,CLI_22989,Móvil Prepago,VIP,6,Detractor,Precio muy alto para el servicio,App,7,False,True,False,Este,74,117
+NPS_000128,2025-06-22 12:12:36,CLI_28290,Empresarial,Básico,0,Detractor,Problemas técnicos constantes,Web,6,False,False,False,Centro,63,43
+NPS_000129,2025-07-23 12:12:36,CLI_38195,Internet Hogar,Premium,3,Detractor,Problemas técnicos constantes,Email,3,False,True,False,Sur,34,67
+NPS_000130,2025-06-23 12:12:36,CLI_21796,Internet Hogar,VIP,1,Detractor,Precio muy alto para el servicio,Web,1,False,False,False,Centro,49,5
+NPS_000131,2025-06-19 12:12:36,CLI_21902,Móvil Prepago,Regular,1,Detractor,Problemas técnicos constantes,Email,5,True,False,False,Norte,19,47
+NPS_000132,2025-07-20 12:12:36,CLI_31370,Móvil Postpago,Regular,8,Neutral,"Servicio regular, podría mejorar",SMS,6,True,True,True,Centro,40,13
+NPS_000133,2025-07-09 12:12:36,CLI_10311,Móvil Postpago,Regular,1,Detractor,"Servicio muy lento, muchas fallas",SMS,6,True,False,False,Sur,74,26
+NPS_000134,2025-07-21 12:12:36,CLI_43011,Móvil Postpago,Premium,0,Detractor,Atención al cliente deficiente,App,7,False,False,False,Sur,38,60
+NPS_000135,2025-09-15 12:12:36,CLI_23851,Internet Móvil,VIP,2,Detractor,"Servicio muy lento, muchas fallas",Email,7,False,False,False,Centro,47,48
+NPS_000136,2025-09-03 12:12:36,CLI_36698,TV Cable,Premium,8,Neutral,"Servicio regular, podría mejorar",App,7,False,False,True,Centro,75,74
+NPS_000137,2025-08-15 12:12:36,CLI_09027,Empresarial,Básico,3,Detractor,Atención al cliente deficiente,Web,0,False,False,False,Centro,30,111
+NPS_000138,2025-07-08 12:12:36,CLI_44164,Internet Móvil,Regular,4,Detractor,"Servicio muy lento, muchas fallas",Web,1,True,True,False,Sur,20,119
+NPS_000139,2025-09-05 12:12:36,CLI_29878,TV Cable,Premium,3,Detractor,"Servicio muy lento, muchas fallas",Web,2,False,True,False,Oeste,35,12
+NPS_000140,2025-09-08 12:12:36,CLI_41647,Internet Móvil,Regular,4,Detractor,Precio muy alto para el servicio,SMS,0,False,True,False,Este,71,90
+NPS_000141,2025-06-28 12:12:36,CLI_21873,Móvil Prepago,Premium,10,Promotor,Atención rápida y efectiva,SMS,2,False,False,True,Oeste,72,120
+NPS_000142,2025-08-26 12:12:36,CLI_08665,Telefonía Fija,Regular,5,Detractor,Atención al cliente deficiente,Email,6,False,False,False,Norte,33,40
+NPS_000143,2025-09-06 12:12:36,CLI_36693,Empresarial,Premium,8,Neutral,Funciona pero tiene algunos problemas,Email,2,True,False,True,Centro,26,107
+NPS_000144,2025-06-28 12:12:36,CLI_14178,Móvil Postpago,Básico,3,Detractor,Precio muy alto para el servicio,Email,2,False,False,False,Este,67,31
+NPS_000145,2025-08-13 12:12:36,CLI_39219,Empresarial,VIP,5,Detractor,Precio muy alto para el servicio,Web,5,False,False,False,Centro,42,11
+NPS_000146,2025-08-31 12:12:36,CLI_40373,Móvil Postpago,Regular,0,Detractor,Atención al cliente deficiente,Web,4,True,True,False,Este,56,84
+NPS_000147,2025-07-23 12:12:36,CLI_08553,Móvil Postpago,Básico,3,Detractor,Precio muy alto para el servicio,Web,1,True,False,False,Este,70,107
+NPS_000148,2025-07-26 12:12:36,CLI_39644,TV Cable,VIP,0,Detractor,Precio muy alto para el servicio,App,6,True,False,False,Centro,38,22
+NPS_000149,2025-07-24 12:12:36,CLI_12578,Internet Hogar,Básico,6,Detractor,Problemas técnicos constantes,Web,2,False,True,False,Centro,26,85
+NPS_000150,2025-06-30 12:12:36,CLI_06948,Internet Móvil,Premium,2,Detractor,Precio muy alto para el servicio,Web,2,True,True,False,Sur,71,7
+NPS_000151,2025-06-20 12:12:36,CLI_29580,Internet Hogar,Básico,9,Promotor,"Excelente servicio, muy satisfecho",Web,2,False,True,True,Sur,35,76
+NPS_000152,2025-07-01 12:12:36,CLI_29818,Internet Móvil,Premium,5,Detractor,Problemas técnicos constantes,SMS,6,False,False,False,Norte,47,36
+NPS_000153,2025-09-13 12:12:36,CLI_06595,Empresarial,VIP,10,Promotor,Buena relación calidad-precio,Web,1,True,True,True,Sur,65,34
+NPS_000154,2025-09-10 12:12:36,CLI_02192,Internet Móvil,VIP,10,Promotor,Personal muy profesional,App,7,False,True,True,Oeste,25,110
+NPS_000155,2025-07-03 12:12:36,CLI_06346,TV Cable,Básico,2,Detractor,Problemas técnicos constantes,SMS,2,True,True,False,Sur,47,31
+NPS_000156,2025-06-25 12:12:36,CLI_49683,Internet Móvil,Básico,6,Detractor,Atención al cliente deficiente,Web,7,False,True,False,Oeste,48,83
+NPS_000157,2025-06-26 12:12:36,CLI_28830,Telefonía Fija,VIP,5,Detractor,Problemas técnicos constantes,Email,7,False,True,False,Este,51,69
+NPS_000158,2025-06-23 12:12:36,CLI_23629,Móvil Prepago,Regular,3,Detractor,"Servicio muy lento, muchas fallas",Web,4,False,False,False,Norte,69,105
+NPS_000159,2025-06-21 12:12:36,CLI_08624,Internet Hogar,Regular,6,Detractor,Problemas técnicos constantes,App,5,True,False,False,Sur,72,6
+NPS_000160,2025-07-08 12:12:36,CLI_47286,Telefonía Fija,Premium,9,Promotor,Buena relación calidad-precio,Web,6,False,True,True,Norte,45,75
+NPS_000161,2025-06-22 12:12:36,CLI_35613,Internet Hogar,Premium,5,Detractor,Atención al cliente deficiente,App,1,True,False,False,Sur,70,60
+NPS_000162,2025-06-23 12:12:36,CLI_06680,TV Cable,VIP,5,Detractor,Precio muy alto para el servicio,Web,3,False,True,False,Norte,25,4
+NPS_000163,2025-07-02 12:12:36,CLI_46528,TV Cable,Regular,5,Detractor,Problemas técnicos constantes,App,4,False,True,False,Norte,31,118
+NPS_000164,2025-08-16 12:12:36,CLI_00471,Empresarial,Básico,10,Promotor,Atención rápida y efectiva,SMS,6,False,True,True,Este,44,87
+NPS_000165,2025-07-03 12:12:36,CLI_02330,Telefonía Fija,Regular,2,Detractor,Precio muy alto para el servicio,Email,7,False,True,False,Oeste,22,41
+NPS_000166,2025-09-05 12:12:36,CLI_16292,TV Cable,Básico,4,Detractor,Precio muy alto para el servicio,SMS,0,False,True,False,Norte,30,7
+NPS_000167,2025-09-07 12:12:36,CLI_34642,Internet Hogar,Regular,7,Neutral,"Servicio regular, podría mejorar",App,7,False,False,True,Oeste,55,31
+NPS_000168,2025-08-26 12:12:36,CLI_23729,TV Cable,VIP,6,Detractor,"Servicio muy lento, muchas fallas",App,3,False,False,False,Norte,35,14
+NPS_000169,2025-09-09 12:12:36,CLI_29228,Internet Hogar,VIP,2,Detractor,Problemas técnicos constantes,Web,2,True,False,False,Oeste,22,64
+NPS_000170,2025-08-16 12:12:36,CLI_25228,Telefonía Fija,Básico,0,Detractor,Precio muy alto para el servicio,SMS,4,True,True,False,Centro,23,52
+NPS_000171,2025-07-19 12:12:36,CLI_31437,Empresarial,VIP,7,Neutral,"Precio aceptable, servicio promedio",Web,1,False,False,True,Oeste,48,44
+NPS_000172,2025-07-05 12:12:36,CLI_45643,Móvil Postpago,VIP,3,Detractor,Problemas técnicos constantes,App,6,False,False,False,Oeste,60,61
+NPS_000173,2025-07-21 12:12:36,CLI_19100,Telefonía Fija,Regular,0,Detractor,Problemas técnicos constantes,SMS,7,False,False,False,Sur,56,103
+NPS_000174,2025-07-21 12:12:36,CLI_37685,Empresarial,Regular,7,Neutral,Funciona pero tiene algunos problemas,App,7,True,True,True,Oeste,51,66
+NPS_000175,2025-09-01 12:12:36,CLI_37128,Móvil Prepago,Premium,0,Detractor,Problemas técnicos constantes,SMS,5,False,True,False,Este,19,100
+NPS_000176,2025-09-01 12:12:36,CLI_05547,Empresarial,VIP,3,Detractor,"Servicio muy lento, muchas fallas",Web,6,False,False,False,Este,58,116
+NPS_000177,2025-06-29 12:12:36,CLI_19802,Internet Móvil,Regular,1,Detractor,Precio muy alto para el servicio,SMS,4,False,False,False,Centro,73,49
+NPS_000178,2025-08-13 12:12:36,CLI_40755,TV Cable,Básico,9,Promotor,Buena relación calidad-precio,SMS,0,True,True,True,Norte,53,13
+NPS_000179,2025-07-24 12:12:36,CLI_48535,Internet Hogar,Premium,7,Neutral,"Servicio regular, podría mejorar",Web,0,False,True,True,Norte,33,70
+NPS_000180,2025-08-06 12:12:36,CLI_16477,Telefonía Fija,Premium,1,Detractor,Problemas técnicos constantes,Email,5,False,True,False,Norte,36,3
+NPS_000181,2025-08-31 12:12:36,CLI_03123,Móvil Postpago,VIP,10,Promotor,"Excelente servicio, muy satisfecho",Web,1,False,True,True,Oeste,27,72
+NPS_000182,2025-06-23 12:12:36,CLI_19282,Telefonía Fija,VIP,0,Detractor,Precio muy alto para el servicio,Email,2,True,True,False,Oeste,27,11
+NPS_000183,2025-08-11 12:12:36,CLI_41494,Móvil Prepago,Regular,3,Detractor,Precio muy alto para el servicio,Web,7,False,False,False,Este,56,36
+NPS_000184,2025-09-07 12:12:36,CLI_41811,Móvil Prepago,Básico,6,Detractor,"Servicio muy lento, muchas fallas",Web,7,False,True,False,Sur,28,98
+NPS_000185,2025-07-21 12:12:36,CLI_17265,Móvil Postpago,Básico,3,Detractor,Atención al cliente deficiente,App,6,True,True,False,Oeste,47,91
+NPS_000186,2025-07-19 12:12:36,CLI_08886,Móvil Postpago,Premium,10,Promotor,"Excelente servicio, muy satisfecho",Email,2,False,False,True,Norte,43,46
+NPS_000187,2025-07-09 12:12:36,CLI_03443,TV Cable,Básico,5,Detractor,"Servicio muy lento, muchas fallas",SMS,0,True,True,False,Este,39,120
+NPS_000188,2025-09-02 12:12:36,CLI_28431,Móvil Postpago,Regular,7,Neutral,"Servicio regular, podría mejorar",App,0,True,True,True,Oeste,25,33
+NPS_000189,2025-06-28 12:12:36,CLI_35544,Internet Hogar,Premium,5,Detractor,"Servicio muy lento, muchas fallas",Email,7,True,True,False,Norte,24,35
+NPS_000190,2025-08-28 12:12:36,CLI_44755,Móvil Prepago,Premium,10,Promotor,Personal muy profesional,Web,0,False,False,True,Este,58,108
+NPS_000191,2025-09-05 12:12:36,CLI_28722,Internet Hogar,Regular,3,Detractor,Problemas técnicos constantes,SMS,5,True,True,False,Norte,31,23
+NPS_000192,2025-07-02 12:12:36,CLI_22248,Internet Hogar,VIP,8,Neutral,"Precio aceptable, servicio promedio",SMS,7,True,False,True,Centro,48,39
+NPS_000193,2025-06-27 12:12:36,CLI_17090,Empresarial,Regular,7,Neutral,Funciona pero tiene algunos problemas,App,6,False,True,True,Sur,73,111
+NPS_000194,2025-08-28 12:12:36,CLI_10000,Empresarial,Básico,4,Detractor,Precio muy alto para el servicio,Email,6,True,False,False,Sur,57,45
+NPS_000195,2025-09-06 12:12:36,CLI_23892,Internet Hogar,VIP,3,Detractor,Atención al cliente deficiente,Web,2,True,True,False,Este,40,47
+NPS_000196,2025-07-28 12:12:36,CLI_25921,Móvil Postpago,Premium,2,Detractor,Problemas técnicos constantes,SMS,0,False,True,False,Oeste,41,118
+NPS_000197,2025-08-13 12:12:36,CLI_45778,Internet Móvil,Regular,10,Promotor,Atención rápida y efectiva,Email,0,False,True,True,Sur,43,67
+NPS_000198,2025-07-03 12:12:36,CLI_33481,Móvil Postpago,Básico,8,Neutral,"Servicio regular, podría mejorar",SMS,1,False,False,True,Oeste,71,49
+NPS_000199,2025-08-09 12:12:36,CLI_10371,Móvil Prepago,Básico,10,Promotor,"Excelente servicio, muy satisfecho",SMS,0,True,True,True,Este,67,90
+NPS_000200,2025-09-04 12:12:36,CLI_11653,Internet Hogar,Básico,6,Detractor,Precio muy alto para el servicio,App,1,False,True,False,Norte,53,29
+NPS_000201,2025-08-31 12:12:36,CLI_09922,Móvil Prepago,VIP,3,Detractor,"Servicio muy lento, muchas fallas",Email,6,True,True,False,Norte,26,38
+NPS_000202,2025-09-09 12:12:36,CLI_12297,Internet Hogar,Premium,7,Neutral,"Servicio regular, podría mejorar",App,1,True,True,True,Oeste,25,1
+NPS_000203,2025-08-23 12:12:36,CLI_10589,Empresarial,Básico,6,Detractor,Atención al cliente deficiente,Email,2,False,True,False,Este,45,105
+NPS_000204,2025-06-27 12:12:36,CLI_10696,Internet Hogar,Premium,7,Neutral,"Servicio regular, podría mejorar",Web,0,False,False,True,Oeste,59,18
+NPS_000205,2025-08-28 12:12:36,CLI_07046,Empresarial,Premium,9,Promotor,"Excelente servicio, muy satisfecho",SMS,5,True,False,True,Centro,46,83
+NPS_000206,2025-07-03 12:12:36,CLI_47914,Telefonía Fija,Básico,8,Neutral,"Servicio regular, podría mejorar",Email,4,True,False,True,Este,69,11
+NPS_000207,2025-09-09 12:12:36,CLI_24067,TV Cable,Premium,0,Detractor,"Servicio muy lento, muchas fallas",App,7,True,True,False,Centro,64,88
+NPS_000208,2025-08-17 12:12:36,CLI_28595,Empresarial,Regular,10,Promotor,"Excelente servicio, muy satisfecho",SMS,1,False,True,True,Sur,41,105
+NPS_000209,2025-07-29 12:12:36,CLI_03687,Telefonía Fija,Básico,2,Detractor,Problemas técnicos constantes,App,6,False,True,False,Centro,53,2
+NPS_000210,2025-07-10 12:12:36,CLI_08933,Internet Móvil,VIP,6,Detractor,Precio muy alto para el servicio,Email,7,True,True,False,Norte,54,98
+NPS_000211,2025-08-27 12:12:36,CLI_16464,Móvil Prepago,VIP,3,Detractor,Atención al cliente deficiente,App,2,True,False,False,Oeste,50,55
+NPS_000212,2025-08-22 12:12:36,CLI_44156,Internet Hogar,VIP,1,Detractor,Problemas técnicos constantes,SMS,3,False,True,False,Oeste,33,88
+NPS_000213,2025-09-15 12:12:36,CLI_19448,Móvil Prepago,Premium,3,Detractor,Problemas técnicos constantes,Web,1,False,False,False,Oeste,67,37
+NPS_000214,2025-06-21 12:12:36,CLI_01722,Internet Móvil,Regular,2,Detractor,Problemas técnicos constantes,App,7,False,False,False,Oeste,24,2
+NPS_000215,2025-07-16 12:12:36,CLI_18301,Móvil Prepago,VIP,1,Detractor,Atención al cliente deficiente,App,0,False,False,False,Sur,32,32
+NPS_000216,2025-06-21 12:12:36,CLI_39181,Empresarial,Premium,6,Detractor,Atención al cliente deficiente,App,3,True,True,False,Sur,30,116
+NPS_000217,2025-06-22 12:12:36,CLI_11448,Empresarial,Premium,9,Promotor,Atención rápida y efectiva,Web,6,True,False,True,Centro,38,81
+NPS_000218,2025-08-18 12:12:36,CLI_43375,Telefonía Fija,Regular,10,Promotor,Personal muy profesional,Email,6,False,True,True,Centro,72,97
+NPS_000219,2025-08-14 12:12:36,CLI_07106,Móvil Postpago,Premium,10,Promotor,Atención rápida y efectiva,Web,6,False,True,True,Oeste,25,70
+NPS_000220,2025-07-11 12:12:36,CLI_42410,TV Cable,Regular,4,Detractor,Atención al cliente deficiente,Email,6,False,True,False,Centro,65,87
+NPS_000221,2025-09-13 12:12:36,CLI_27514,Internet Móvil,Premium,2,Detractor,Precio muy alto para el servicio,App,6,False,False,False,Este,20,86
+NPS_000222,2025-06-29 12:12:36,CLI_02494,Móvil Prepago,Premium,2,Detractor,Problemas técnicos constantes,SMS,4,False,True,False,Norte,21,100
+NPS_000223,2025-07-20 12:12:36,CLI_06120,Empresarial,Premium,1,Detractor,"Servicio muy lento, muchas fallas",App,3,True,False,False,Este,51,30
+NPS_000224,2025-06-20 12:12:36,CLI_08688,Telefonía Fija,Premium,6,Detractor,Problemas técnicos constantes,Email,6,False,True,False,Centro,46,106
+NPS_000225,2025-07-23 12:12:36,CLI_34232,Empresarial,VIP,8,Neutral,"Precio aceptable, servicio promedio",Web,5,False,False,True,Norte,69,95
+NPS_000226,2025-07-27 12:12:36,CLI_03989,Móvil Postpago,VIP,9,Promotor,Personal muy profesional,App,7,True,True,True,Norte,44,42
+NPS_000227,2025-06-29 12:12:36,CLI_21787,Empresarial,Básico,9,Promotor,Buena relación calidad-precio,Web,2,True,False,True,Oeste,57,34
+NPS_000228,2025-06-30 12:12:36,CLI_32139,Empresarial,Regular,7,Neutral,"Precio aceptable, servicio promedio",Web,7,True,False,True,Este,75,65
+NPS_000229,2025-06-21 12:12:36,CLI_35671,TV Cable,VIP,0,Detractor,Atención al cliente deficiente,App,3,True,True,False,Este,47,1
+NPS_000230,2025-07-09 12:12:36,CLI_11367,Internet Móvil,Regular,6,Detractor,"Servicio muy lento, muchas fallas",Web,5,False,True,False,Sur,44,8
+NPS_000231,2025-08-22 12:12:36,CLI_40842,Telefonía Fija,VIP,9,Promotor,"Excelente servicio, muy satisfecho",Web,1,True,False,True,Norte,53,114
+NPS_000232,2025-08-03 12:12:36,CLI_48271,Internet Hogar,VIP,2,Detractor,"Servicio muy lento, muchas fallas",App,5,True,True,False,Este,31,52
+NPS_000233,2025-06-18 12:12:36,CLI_25370,Móvil Prepago,VIP,5,Detractor,Problemas técnicos constantes,Email,0,True,False,False,Sur,41,87
+NPS_000234,2025-06-19 12:12:36,CLI_40051,Internet Hogar,Premium,6,Detractor,"Servicio muy lento, muchas fallas",App,4,True,False,False,Este,18,59
+NPS_000235,2025-09-11 12:12:36,CLI_27316,Telefonía Fija,Regular,9,Promotor,"Excelente servicio, muy satisfecho",App,7,False,True,True,Centro,38,111
+NPS_000236,2025-06-29 12:12:36,CLI_13455,Internet Móvil,Premium,10,Promotor,Atención rápida y efectiva,Web,5,False,True,True,Este,61,106
+NPS_000237,2025-08-26 12:12:36,CLI_48395,Telefonía Fija,Básico,2,Detractor,Atención al cliente deficiente,Email,0,True,False,False,Norte,50,114
+NPS_000238,2025-06-28 12:12:36,CLI_22938,Empresarial,Básico,0,Detractor,Atención al cliente deficiente,Web,4,False,False,False,Este,29,12
+NPS_000239,2025-09-07 12:12:36,CLI_47846,Móvil Postpago,Regular,4,Detractor,Precio muy alto para el servicio,Email,1,True,False,False,Este,59,7
+NPS_000240,2025-07-27 12:12:36,CLI_12130,Telefonía Fija,Premium,1,Detractor,"Servicio muy lento, muchas fallas",Web,0,True,False,False,Sur,64,66
+NPS_000241,2025-07-24 12:12:36,CLI_40848,TV Cable,Premium,3,Detractor,Atención al cliente deficiente,Email,7,True,True,False,Sur,27,73
+NPS_000242,2025-08-14 12:12:36,CLI_03341,TV Cable,VIP,3,Detractor,Atención al cliente deficiente,App,4,False,False,False,Este,40,65
+NPS_000243,2025-08-08 12:12:36,CLI_41071,Empresarial,VIP,9,Promotor,Buena relación calidad-precio,App,0,True,True,True,Norte,71,64
+NPS_000244,2025-08-27 12:12:36,CLI_28147,Internet Móvil,VIP,1,Detractor,"Servicio muy lento, muchas fallas",SMS,1,True,True,False,Oeste,69,19
+NPS_000245,2025-08-27 12:12:36,CLI_29011,TV Cable,Regular,3,Detractor,Atención al cliente deficiente,App,1,False,False,False,Norte,59,74
+NPS_000246,2025-08-16 12:12:36,CLI_00990,Móvil Postpago,VIP,0,Detractor,"Servicio muy lento, muchas fallas",Email,3,False,True,False,Sur,51,68
+NPS_000247,2025-09-06 12:12:36,CLI_24839,Internet Hogar,Regular,5,Detractor,Problemas técnicos constantes,App,3,False,False,False,Centro,29,21
+NPS_000248,2025-09-06 12:12:36,CLI_12680,Telefonía Fija,Básico,7,Neutral,"Servicio regular, podría mejorar",SMS,4,False,False,True,Sur,47,33
+NPS_000249,2025-07-01 12:12:36,CLI_13906,Empresarial,Regular,10,Promotor,"Excelente servicio, muy satisfecho",App,2,True,True,True,Oeste,21,10
+NPS_000250,2025-06-22 12:12:36,CLI_15537,TV Cable,Básico,8,Neutral,Funciona pero tiene algunos problemas,App,3,True,True,True,Centro,45,95
+NPS_000251,2025-08-01 12:12:36,CLI_18673,TV Cable,Premium,10,Promotor,Personal muy profesional,SMS,2,False,False,True,Sur,24,117
+NPS_000252,2025-07-20 12:12:36,CLI_18834,Móvil Postpago,VIP,0,Detractor,Atención al cliente deficiente,SMS,7,True,True,False,Centro,62,78
+NPS_000253,2025-08-10 12:12:36,CLI_06775,TV Cable,Regular,3,Detractor,Problemas técnicos constantes,Email,0,True,True,False,Norte,29,86
+NPS_000254,2025-08-01 12:12:36,CLI_38837,Telefonía Fija,Regular,1,Detractor,Precio muy alto para el servicio,App,0,False,False,False,Oeste,73,98
+NPS_000255,2025-07-04 12:12:36,CLI_04419,Telefonía Fija,Básico,9,Promotor,Personal muy profesional,Email,7,True,False,True,Oeste,45,21
+NPS_000256,2025-09-09 12:12:36,CLI_24773,Telefonía Fija,VIP,6,Detractor,Problemas técnicos constantes,App,3,True,True,False,Este,70,41
+NPS_000257,2025-08-24 12:12:36,CLI_37571,Móvil Prepago,Premium,4,Detractor,Problemas técnicos constantes,App,2,True,False,False,Norte,55,34
+NPS_000258,2025-07-22 12:12:36,CLI_29284,TV Cable,Regular,2,Detractor,Atención al cliente deficiente,Email,0,True,True,False,Sur,32,76
+NPS_000259,2025-07-13 12:12:36,CLI_02967,Telefonía Fija,VIP,9,Promotor,Atención rápida y efectiva,App,5,False,False,True,Oeste,52,64
+NPS_000260,2025-08-01 12:12:36,CLI_11786,Internet Hogar,Premium,4,Detractor,"Servicio muy lento, muchas fallas",Email,6,False,True,False,Centro,71,44
+NPS_000261,2025-08-27 12:12:36,CLI_24113,Empresarial,Premium,2,Detractor,Problemas técnicos constantes,Web,1,True,False,False,Este,19,29
+NPS_000262,2025-07-21 12:12:36,CLI_30505,TV Cable,Básico,5,Detractor,Problemas técnicos constantes,App,5,True,True,False,Norte,36,115
+NPS_000263,2025-08-04 12:12:36,CLI_46652,Empresarial,Regular,4,Detractor,Problemas técnicos constantes,Email,7,True,False,False,Centro,36,55
+NPS_000264,2025-08-14 12:12:36,CLI_20401,Telefonía Fija,Regular,3,Detractor,Atención al cliente deficiente,Web,7,False,False,False,Centro,26,92
+NPS_000265,2025-08-16 12:12:36,CLI_09873,Internet Hogar,Regular,1,Detractor,Atención al cliente deficiente,Web,4,True,True,False,Oeste,60,111
+NPS_000266,2025-08-29 12:12:36,CLI_38048,Internet Hogar,VIP,10,Promotor,"Excelente servicio, muy satisfecho",App,6,True,False,True,Este,32,86
+NPS_000267,2025-09-07 12:12:36,CLI_01810,TV Cable,Básico,8,Neutral,"Servicio regular, podría mejorar",SMS,4,False,True,True,Sur,53,92
+NPS_000268,2025-06-26 12:12:36,CLI_00149,Internet Móvil,Regular,2,Detractor,Atención al cliente deficiente,App,3,True,False,False,Centro,38,54
+NPS_000269,2025-08-17 12:12:36,CLI_45487,Internet Hogar,Premium,7,Neutral,"Precio aceptable, servicio promedio",Email,2,True,True,True,Oeste,62,90
+NPS_000270,2025-08-01 12:12:36,CLI_25702,Móvil Postpago,Regular,2,Detractor,Atención al cliente deficiente,Email,4,True,True,False,Sur,66,29
+NPS_000271,2025-07-20 12:12:36,CLI_37801,Móvil Postpago,Premium,4,Detractor,Problemas técnicos constantes,App,7,True,True,False,Este,34,31
+NPS_000272,2025-08-04 12:12:36,CLI_11454,Empresarial,Básico,8,Neutral,"Precio aceptable, servicio promedio",Web,3,True,True,True,Oeste,18,14
+NPS_000273,2025-06-24 12:12:36,CLI_46234,Empresarial,Premium,8,Neutral,"Precio aceptable, servicio promedio",Email,5,True,False,True,Sur,37,44
+NPS_000274,2025-07-20 12:12:36,CLI_31354,Empresarial,VIP,1,Detractor,"Servicio muy lento, muchas fallas",Email,1,False,False,False,Sur,23,111
+NPS_000275,2025-07-23 12:12:36,CLI_29227,Móvil Postpago,Regular,6,Detractor,Problemas técnicos constantes,Web,1,False,True,False,Norte,24,114
+NPS_000276,2025-09-09 12:12:36,CLI_13657,Empresarial,Regular,8,Neutral,"Precio aceptable, servicio promedio",SMS,1,False,False,True,Este,32,11
+NPS_000277,2025-08-29 12:12:36,CLI_18836,Empresarial,Básico,5,Detractor,Atención al cliente deficiente,SMS,6,True,True,False,Centro,68,109
+NPS_000278,2025-09-11 12:12:36,CLI_31775,TV Cable,Básico,2,Detractor,"Servicio muy lento, muchas fallas",App,7,True,False,False,Centro,71,61
+NPS_000279,2025-07-11 12:12:36,CLI_49458,Móvil Postpago,VIP,8,Neutral,Funciona pero tiene algunos problemas,App,5,True,False,True,Sur,65,91
+NPS_000280,2025-06-28 12:12:36,CLI_28323,Empresarial,Premium,6,Detractor,Problemas técnicos constantes,SMS,5,False,True,False,Sur,25,87
+NPS_000281,2025-06-18 12:12:36,CLI_20386,Empresarial,Premium,10,Promotor,Atención rápida y efectiva,Web,2,False,False,True,Oeste,51,23
+NPS_000282,2025-09-11 12:12:36,CLI_25885,Telefonía Fija,Regular,8,Neutral,Funciona pero tiene algunos problemas,App,7,False,True,True,Oeste,31,76
+NPS_000283,2025-06-25 12:12:36,CLI_35241,Internet Móvil,Regular,2,Detractor,"Servicio muy lento, muchas fallas",SMS,5,True,True,False,Centro,23,74
+NPS_000284,2025-07-21 12:12:36,CLI_06414,Internet Móvil,Básico,6,Detractor,Precio muy alto para el servicio,Web,4,False,True,False,Sur,67,68
+NPS_000285,2025-07-21 12:12:36,CLI_29025,Móvil Postpago,Regular,9,Promotor,Buena relación calidad-precio,SMS,3,False,True,True,Este,65,26
+NPS_000286,2025-08-19 12:12:36,CLI_36383,Móvil Prepago,Premium,3,Detractor,Precio muy alto para el servicio,Email,7,False,True,False,Sur,22,7
+NPS_000287,2025-07-28 12:12:36,CLI_49703,Móvil Prepago,Básico,7,Neutral,"Precio aceptable, servicio promedio",SMS,5,True,False,True,Centro,43,110
+NPS_000288,2025-08-28 12:12:36,CLI_44927,Empresarial,Regular,7,Neutral,"Servicio regular, podría mejorar",SMS,2,False,False,True,Sur,18,38
+NPS_000289,2025-06-27 12:12:36,CLI_20992,Internet Móvil,Premium,0,Detractor,"Servicio muy lento, muchas fallas",SMS,1,False,False,False,Este,41,104
+NPS_000290,2025-09-13 12:12:36,CLI_01233,Internet Móvil,Premium,10,Promotor,Atención rápida y efectiva,App,7,True,True,True,Oeste,70,23
+NPS_000291,2025-07-15 12:12:36,CLI_38590,Internet Hogar,Básico,4,Detractor,Precio muy alto para el servicio,App,0,True,False,False,Este,52,73
+NPS_000292,2025-08-15 12:12:36,CLI_16512,TV Cable,Premium,8,Neutral,Funciona pero tiene algunos problemas,SMS,1,True,True,True,Este,19,73
+NPS_000293,2025-08-06 12:12:36,CLI_49792,Internet Móvil,VIP,7,Neutral,Funciona pero tiene algunos problemas,App,4,False,True,True,Centro,51,74
+NPS_000294,2025-07-26 12:12:36,CLI_47999,Internet Móvil,VIP,7,Neutral,"Precio aceptable, servicio promedio",Web,3,True,False,True,Sur,42,100
+NPS_000295,2025-07-26 12:12:36,CLI_27257,Empresarial,VIP,8,Neutral,Funciona pero tiene algunos problemas,SMS,3,False,False,True,Oeste,24,75
+NPS_000296,2025-08-28 12:12:36,CLI_27030,Móvil Postpago,VIP,5,Detractor,Problemas técnicos constantes,SMS,0,True,True,False,Norte,28,16
+NPS_000297,2025-08-29 12:12:36,CLI_04855,Empresarial,Regular,6,Detractor,Problemas técnicos constantes,Email,6,False,False,False,Norte,51,112
+NPS_000298,2025-08-26 12:12:36,CLI_49005,Internet Hogar,VIP,10,Promotor,Buena relación calidad-precio,SMS,0,False,True,True,Este,55,25
+NPS_000299,2025-07-10 12:12:36,CLI_21585,Empresarial,Premium,7,Neutral,"Precio aceptable, servicio promedio",Web,4,False,True,True,Este,21,22
+NPS_000300,2025-08-30 12:12:36,CLI_00259,Internet Hogar,VIP,4,Detractor,Problemas técnicos constantes,Email,6,False,False,False,Norte,40,61
+NPS_000301,2025-07-25 12:12:36,CLI_31218,Empresarial,Regular,1,Detractor,Problemas técnicos constantes,App,1,True,False,False,Este,26,75
+NPS_000302,2025-09-02 12:12:36,CLI_24337,TV Cable,Premium,6,Detractor,Precio muy alto para el servicio,Web,6,True,True,False,Norte,19,9
+NPS_000303,2025-07-30 12:12:36,CLI_33589,Telefonía Fija,Regular,9,Promotor,"Excelente servicio, muy satisfecho",App,3,False,False,True,Centro,72,22
+NPS_000304,2025-07-04 12:12:36,CLI_25102,Empresarial,Básico,9,Promotor,Personal muy profesional,App,5,False,True,True,Norte,26,111
+NPS_000305,2025-06-23 12:12:36,CLI_04171,Internet Móvil,VIP,5,Detractor,Problemas técnicos constantes,Web,4,True,False,False,Norte,63,103
+NPS_000306,2025-08-05 12:12:36,CLI_14661,Móvil Postpago,Básico,1,Detractor,Precio muy alto para el servicio,Email,3,False,True,False,Norte,31,50
+NPS_000307,2025-08-20 12:12:36,CLI_08044,TV Cable,Básico,1,Detractor,Problemas técnicos constantes,Email,4,False,True,False,Este,74,14
+NPS_000308,2025-07-27 12:12:36,CLI_16759,TV Cable,VIP,10,Promotor,Personal muy profesional,Web,0,True,True,True,Oeste,45,112
+NPS_000309,2025-07-27 12:12:36,CLI_10575,Móvil Prepago,Premium,2,Detractor,Problemas técnicos constantes,Email,4,False,False,False,Sur,70,42
+NPS_000310,2025-08-23 12:12:36,CLI_02589,Empresarial,Regular,1,Detractor,"Servicio muy lento, muchas fallas",Email,3,True,True,False,Sur,43,50
+NPS_000311,2025-07-13 12:12:36,CLI_24731,Telefonía Fija,VIP,1,Detractor,Precio muy alto para el servicio,Email,4,True,True,False,Centro,62,13
+NPS_000312,2025-08-01 12:12:36,CLI_32946,Móvil Postpago,VIP,9,Promotor,Personal muy profesional,Web,2,True,False,True,Norte,57,24
+NPS_000313,2025-07-13 12:12:36,CLI_03602,Móvil Postpago,Básico,3,Detractor,Atención al cliente deficiente,App,7,False,True,False,Este,46,41
+NPS_000314,2025-08-08 12:12:36,CLI_03610,Empresarial,Básico,4,Detractor,Precio muy alto para el servicio,Email,3,False,False,False,Norte,34,53
+NPS_000315,2025-07-12 12:12:36,CLI_41277,Móvil Postpago,Regular,6,Detractor,Precio muy alto para el servicio,Email,3,True,False,False,Norte,40,96
+NPS_000316,2025-07-11 12:12:36,CLI_26365,Móvil Postpago,Regular,4,Detractor,Atención al cliente deficiente,App,6,True,False,False,Centro,27,77
+NPS_000317,2025-08-16 12:12:36,CLI_41163,Móvil Prepago,Básico,0,Detractor,Problemas técnicos constantes,App,0,False,False,False,Oeste,47,11
+NPS_000318,2025-07-06 12:12:36,CLI_45339,TV Cable,Regular,2,Detractor,Problemas técnicos constantes,App,4,True,False,False,Norte,65,45
+NPS_000319,2025-08-19 12:12:36,CLI_23061,Empresarial,Premium,8,Neutral,"Precio aceptable, servicio promedio",App,0,False,True,True,Sur,56,78
+NPS_000320,2025-07-13 12:12:36,CLI_49088,Telefonía Fija,Regular,6,Detractor,Atención al cliente deficiente,App,5,True,False,False,Sur,74,25
+NPS_000321,2025-08-21 12:12:36,CLI_29110,Telefonía Fija,Premium,4,Detractor,"Servicio muy lento, muchas fallas",App,5,True,True,False,Sur,53,22
+NPS_000322,2025-09-07 12:12:36,CLI_34579,TV Cable,Básico,8,Neutral,Funciona pero tiene algunos problemas,SMS,5,True,False,True,Centro,42,77
+NPS_000323,2025-07-05 12:12:36,CLI_30129,TV Cable,Básico,8,Neutral,"Servicio regular, podría mejorar",App,0,False,False,True,Sur,44,99
+NPS_000324,2025-06-23 12:12:36,CLI_24570,TV Cable,Premium,0,Detractor,Problemas técnicos constantes,Email,3,True,True,False,Centro,51,47
+NPS_000325,2025-08-27 12:12:36,CLI_06380,Empresarial,VIP,1,Detractor,"Servicio muy lento, muchas fallas",Web,5,True,False,False,Oeste,52,57
+NPS_000326,2025-07-03 12:12:36,CLI_29066,Internet Móvil,Básico,9,Promotor,Atención rápida y efectiva,Web,7,True,False,True,Oeste,56,37
+NPS_000327,2025-09-10 12:12:36,CLI_05964,Móvil Prepago,Básico,1,Detractor,Atención al cliente deficiente,Web,3,False,False,False,Sur,44,73
+NPS_000328,2025-08-30 12:12:36,CLI_14423,Internet Móvil,VIP,5,Detractor,Problemas técnicos constantes,Web,1,True,True,False,Este,61,11
+NPS_000329,2025-08-18 12:12:36,CLI_04192,Telefonía Fija,VIP,10,Promotor,Personal muy profesional,Email,1,False,True,True,Norte,51,101
+NPS_000330,2025-08-19 12:12:36,CLI_00668,Telefonía Fija,Regular,3,Detractor,"Servicio muy lento, muchas fallas",Web,0,False,False,False,Centro,34,50
+NPS_000331,2025-06-19 12:12:36,CLI_42720,Telefonía Fija,Regular,4,Detractor,"Servicio muy lento, muchas fallas",Email,6,False,True,False,Este,51,24
+NPS_000332,2025-07-07 12:12:36,CLI_43943,Telefonía Fija,Básico,4,Detractor,"Servicio muy lento, muchas fallas",Web,1,False,True,False,Centro,40,65
+NPS_000333,2025-07-06 12:12:36,CLI_13293,Empresarial,Regular,2,Detractor,Problemas técnicos constantes,Web,1,True,True,False,Centro,18,98
+NPS_000334,2025-09-03 12:12:36,CLI_13618,Internet Móvil,Básico,2,Detractor,Precio muy alto para el servicio,Web,7,False,True,False,Este,70,71
+NPS_000335,2025-07-28 12:12:36,CLI_10327,Móvil Prepago,Premium,1,Detractor,"Servicio muy lento, muchas fallas",App,5,False,False,False,Este,38,98
+NPS_000336,2025-08-09 12:12:36,CLI_08268,Internet Hogar,VIP,3,Detractor,Precio muy alto para el servicio,Web,7,True,False,False,Oeste,18,41
+NPS_000337,2025-08-16 12:12:36,CLI_36484,TV Cable,VIP,7,Neutral,"Servicio regular, podría mejorar",SMS,2,False,True,True,Oeste,34,25
+NPS_000338,2025-07-31 12:12:36,CLI_25884,TV Cable,Regular,10,Promotor,Buena relación calidad-precio,Email,3,True,True,True,Norte,65,71
+NPS_000339,2025-07-22 12:12:36,CLI_29111,Internet Hogar,Básico,8,Neutral,Funciona pero tiene algunos problemas,App,4,True,True,True,Este,33,42
+NPS_000340,2025-07-07 12:12:36,CLI_18339,Empresarial,Premium,10,Promotor,Buena relación calidad-precio,SMS,5,True,True,True,Sur,45,113
+NPS_000341,2025-06-22 12:12:36,CLI_29185,Internet Hogar,Premium,8,Neutral,Funciona pero tiene algunos problemas,Email,7,True,True,True,Norte,20,3
+NPS_000342,2025-08-28 12:12:36,CLI_17272,Internet Móvil,Premium,8,Neutral,Funciona pero tiene algunos problemas,Email,0,False,False,True,Oeste,61,112
+NPS_000343,2025-09-05 12:12:36,CLI_19029,Móvil Postpago,VIP,1,Detractor,Precio muy alto para el servicio,Email,4,False,False,False,Oeste,46,75
+NPS_000344,2025-09-05 12:12:36,CLI_41736,TV Cable,Básico,1,Detractor,"Servicio muy lento, muchas fallas",Email,6,False,True,False,Oeste,19,75
+NPS_000345,2025-09-08 12:12:36,CLI_28090,Internet Hogar,Básico,1,Detractor,"Servicio muy lento, muchas fallas",App,2,True,True,False,Norte,60,113
+NPS_000346,2025-08-01 12:12:36,CLI_40098,Telefonía Fija,Básico,9,Promotor,"Excelente servicio, muy satisfecho",Email,3,True,True,True,Sur,68,80
+NPS_000347,2025-07-22 12:12:36,CLI_06098,Internet Hogar,Básico,8,Neutral,"Precio aceptable, servicio promedio",Email,3,False,True,True,Sur,42,115
+NPS_000348,2025-07-23 12:12:36,CLI_48605,Móvil Prepago,Básico,9,Promotor,Personal muy profesional,Email,0,True,True,True,Sur,74,107
+NPS_000349,2025-07-16 12:12:36,CLI_13687,Móvil Prepago,Básico,10,Promotor,Atención rápida y efectiva,Email,5,True,False,True,Centro,69,98
+NPS_000350,2025-07-14 12:12:36,CLI_42198,Móvil Prepago,Premium,4,Detractor,Problemas técnicos constantes,SMS,2,False,True,False,Centro,32,94
+NPS_000351,2025-08-10 12:12:36,CLI_00484,Telefonía Fija,Premium,5,Detractor,"Servicio muy lento, muchas fallas",Web,7,True,True,False,Norte,71,4
+NPS_000352,2025-07-19 12:12:36,CLI_16499,Internet Móvil,VIP,1,Detractor,Precio muy alto para el servicio,SMS,3,False,True,False,Centro,71,94
+NPS_000353,2025-07-22 12:12:36,CLI_39036,Móvil Postpago,Premium,9,Promotor,"Excelente servicio, muy satisfecho",Email,6,False,False,True,Este,41,45
+NPS_000354,2025-06-19 12:12:36,CLI_34642,TV Cable,Premium,9,Promotor,Atención rápida y efectiva,Web,1,False,False,True,Norte,29,43
+NPS_000355,2025-08-26 12:12:36,CLI_13240,Móvil Postpago,Regular,10,Promotor,"Excelente servicio, muy satisfecho",App,0,False,False,True,Oeste,28,5
+NPS_000356,2025-07-02 12:12:36,CLI_22936,Internet Móvil,Básico,9,Promotor,Atención rápida y efectiva,Email,5,True,True,True,Oeste,68,17
+NPS_000357,2025-08-06 12:12:36,CLI_45801,Internet Hogar,Básico,4,Detractor,Problemas técnicos constantes,App,0,True,True,False,Centro,46,48
+NPS_000358,2025-08-06 12:12:36,CLI_44383,Internet Hogar,VIP,2,Detractor,Problemas técnicos constantes,Web,5,True,True,False,Este,35,102
+NPS_000359,2025-09-04 12:12:36,CLI_40503,Internet Hogar,Premium,2,Detractor,"Servicio muy lento, muchas fallas",SMS,2,False,False,False,Oeste,37,60
+NPS_000360,2025-09-05 12:12:36,CLI_21769,Móvil Prepago,VIP,0,Detractor,Precio muy alto para el servicio,App,7,False,False,False,Sur,73,33
+NPS_000361,2025-06-20 12:12:36,CLI_10433,Internet Hogar,VIP,4,Detractor,"Servicio muy lento, muchas fallas",App,4,False,True,False,Sur,50,6
+NPS_000362,2025-07-14 12:12:36,CLI_43650,Móvil Postpago,Básico,6,Detractor,Precio muy alto para el servicio,App,7,False,False,False,Centro,70,93
+NPS_000363,2025-06-27 12:12:36,CLI_49443,Móvil Prepago,Regular,4,Detractor,Precio muy alto para el servicio,Web,0,False,False,False,Centro,50,113
+NPS_000364,2025-07-13 12:12:36,CLI_04013,Internet Móvil,Premium,2,Detractor,Atención al cliente deficiente,Email,5,False,True,False,Sur,73,90
+NPS_000365,2025-07-04 12:12:36,CLI_30666,Internet Hogar,Básico,1,Detractor,Precio muy alto para el servicio,App,1,True,True,False,Norte,43,22
+NPS_000366,2025-07-05 12:12:36,CLI_21573,TV Cable,Básico,2,Detractor,"Servicio muy lento, muchas fallas",Email,4,True,False,False,Sur,62,97
+NPS_000367,2025-07-16 12:12:36,CLI_22264,Internet Móvil,Básico,0,Detractor,"Servicio muy lento, muchas fallas",Web,1,True,True,False,Este,63,26
+NPS_000368,2025-09-13 12:12:36,CLI_02062,Telefonía Fija,Regular,1,Detractor,Problemas técnicos constantes,Email,3,True,False,False,Oeste,37,77
+NPS_000369,2025-07-09 12:12:36,CLI_02562,Internet Hogar,Básico,9,Promotor,Buena relación calidad-precio,Email,2,True,False,True,Oeste,18,71
+NPS_000370,2025-08-25 12:12:36,CLI_01143,Telefonía Fija,Regular,3,Detractor,Precio muy alto para el servicio,SMS,5,True,False,False,Centro,66,107
+NPS_000371,2025-08-19 12:12:36,CLI_00649,Telefonía Fija,Premium,5,Detractor,Problemas técnicos constantes,Email,0,True,False,False,Oeste,71,120
+NPS_000372,2025-07-22 12:12:36,CLI_41464,Empresarial,VIP,3,Detractor,Problemas técnicos constantes,Web,3,True,True,False,Oeste,31,33
+NPS_000373,2025-07-30 12:12:36,CLI_31725,Telefonía Fija,Básico,8,Neutral,"Servicio regular, podría mejorar",SMS,0,True,True,True,Centro,56,15
+NPS_000374,2025-09-09 12:12:36,CLI_44186,Móvil Postpago,Básico,5,Detractor,Problemas técnicos constantes,Email,7,False,False,False,Norte,61,79
+NPS_000375,2025-06-20 12:12:36,CLI_03443,Internet Móvil,VIP,10,Promotor,"Excelente servicio, muy satisfecho",Email,0,True,True,True,Este,48,48
+NPS_000376,2025-07-17 12:12:36,CLI_03316,Empresarial,Básico,5,Detractor,Atención al cliente deficiente,Web,6,True,False,False,Este,40,64
+NPS_000377,2025-09-13 12:12:36,CLI_22943,Internet Móvil,Regular,0,Detractor,Problemas técnicos constantes,Web,2,False,True,False,Sur,64,22
+NPS_000378,2025-06-29 12:12:36,CLI_32470,Empresarial,Básico,3,Detractor,"Servicio muy lento, muchas fallas",SMS,0,True,False,False,Este,45,5
+NPS_000379,2025-07-09 12:12:36,CLI_30467,Internet Móvil,Básico,3,Detractor,Problemas técnicos constantes,App,5,True,True,False,Centro,40,10
+NPS_000380,2025-06-25 12:12:36,CLI_37612,Móvil Prepago,Básico,1,Detractor,"Servicio muy lento, muchas fallas",Web,5,False,False,False,Centro,47,50
+NPS_000381,2025-06-21 12:12:36,CLI_20655,Móvil Prepago,Regular,2,Detractor,"Servicio muy lento, muchas fallas",App,1,False,False,False,Norte,47,17
+NPS_000382,2025-07-27 12:12:36,CLI_17466,TV Cable,Regular,5,Detractor,Problemas técnicos constantes,App,3,True,False,False,Sur,53,15
+NPS_000383,2025-08-17 12:12:36,CLI_30826,Móvil Prepago,Premium,6,Detractor,Precio muy alto para el servicio,SMS,4,False,False,False,Este,65,114
+NPS_000384,2025-09-04 12:12:36,CLI_12747,Móvil Postpago,Premium,8,Neutral,Funciona pero tiene algunos problemas,App,1,True,False,True,Sur,56,3
+NPS_000385,2025-06-23 12:12:36,CLI_48513,Móvil Prepago,Regular,9,Promotor,Atención rápida y efectiva,Email,3,True,False,True,Sur,38,40
+NPS_000386,2025-06-23 12:12:36,CLI_25230,Internet Móvil,VIP,2,Detractor,Problemas técnicos constantes,SMS,6,True,False,False,Norte,46,114
+NPS_000387,2025-08-28 12:12:36,CLI_19326,TV Cable,Regular,4,Detractor,"Servicio muy lento, muchas fallas",App,2,False,True,False,Sur,68,37
+NPS_000388,2025-09-01 12:12:36,CLI_14648,Internet Móvil,Básico,7,Neutral,"Precio aceptable, servicio promedio",Email,3,True,False,True,Oeste,30,8
+NPS_000389,2025-09-01 12:12:36,CLI_07656,TV Cable,Básico,8,Neutral,Funciona pero tiene algunos problemas,Email,6,False,True,True,Oeste,36,61
+NPS_000390,2025-08-13 12:12:36,CLI_24103,Internet Móvil,Regular,10,Promotor,Personal muy profesional,SMS,1,True,False,True,Este,22,65
+NPS_000391,2025-08-31 12:12:36,CLI_35771,Internet Móvil,VIP,7,Neutral,Funciona pero tiene algunos problemas,SMS,5,True,False,True,Este,29,73
+NPS_000392,2025-08-22 12:12:36,CLI_49748,Móvil Prepago,Regular,5,Detractor,"Servicio muy lento, muchas fallas",Web,4,True,True,False,Centro,59,94
+NPS_000393,2025-09-01 12:12:36,CLI_48164,Telefonía Fija,Básico,8,Neutral,"Servicio regular, podría mejorar",App,3,True,False,True,Centro,56,75
+NPS_000394,2025-06-28 12:12:36,CLI_32635,Internet Móvil,VIP,0,Detractor,Precio muy alto para el servicio,Web,5,True,True,False,Norte,57,116
+NPS_000395,2025-08-22 12:12:36,CLI_26419,Móvil Postpago,Básico,9,Promotor,Personal muy profesional,Web,4,True,True,True,Norte,63,117
+NPS_000396,2025-08-14 12:12:36,CLI_14027,Móvil Prepago,VIP,5,Detractor,Atención al cliente deficiente,Web,5,False,True,False,Este,52,95
+NPS_000397,2025-08-15 12:12:36,CLI_13913,Móvil Postpago,VIP,6,Detractor,"Servicio muy lento, muchas fallas",SMS,7,True,False,False,Este,53,93
+NPS_000398,2025-09-02 12:12:36,CLI_08083,TV Cable,Regular,1,Detractor,Problemas técnicos constantes,App,1,False,False,False,Centro,34,16
+NPS_000399,2025-08-18 12:12:36,CLI_33610,Internet Hogar,Premium,2,Detractor,Problemas técnicos constantes,Web,7,True,False,False,Oeste,45,58
+NPS_000400,2025-08-02 12:12:36,CLI_34175,TV Cable,Regular,9,Promotor,Buena relación calidad-precio,SMS,6,True,False,True,Centro,35,47
+NPS_000401,2025-07-20 12:12:36,CLI_11468,Telefonía Fija,Premium,1,Detractor,Precio muy alto para el servicio,SMS,2,False,True,False,Oeste,70,59
+NPS_000402,2025-07-13 12:12:36,CLI_05376,Internet Hogar,Premium,3,Detractor,Atención al cliente deficiente,App,0,False,True,False,Centro,21,119
+NPS_000403,2025-08-23 12:12:36,CLI_27445,Internet Móvil,VIP,4,Detractor,"Servicio muy lento, muchas fallas",SMS,7,True,True,False,Sur,34,117
+NPS_000404,2025-07-28 12:12:36,CLI_33445,Telefonía Fija,Básico,5,Detractor,Atención al cliente deficiente,Web,4,True,True,False,Norte,52,102
+NPS_000405,2025-09-13 12:12:36,CLI_43794,Empresarial,Regular,10,Promotor,Personal muy profesional,Web,5,False,True,True,Este,29,46
+NPS_000406,2025-07-27 12:12:36,CLI_01605,Internet Móvil,VIP,6,Detractor,"Servicio muy lento, muchas fallas",Web,3,True,False,False,Norte,50,94
+NPS_000407,2025-06-22 12:12:36,CLI_10518,TV Cable,Regular,4,Detractor,Problemas técnicos constantes,Web,1,True,False,False,Centro,60,56
+NPS_000408,2025-07-03 12:12:36,CLI_33452,Telefonía Fija,Premium,8,Neutral,Funciona pero tiene algunos problemas,Web,1,True,True,True,Sur,48,24
+NPS_000409,2025-08-14 12:12:36,CLI_44354,TV Cable,Básico,1,Detractor,"Servicio muy lento, muchas fallas",Email,3,True,True,False,Sur,51,76
+NPS_000410,2025-08-10 12:12:36,CLI_31283,Internet Móvil,Premium,5,Detractor,Atención al cliente deficiente,App,2,True,False,False,Sur,46,50
+NPS_000411,2025-09-15 12:12:36,CLI_47819,Telefonía Fija,Básico,9,Promotor,Personal muy profesional,Email,1,True,False,True,Este,57,49
+NPS_000412,2025-09-04 12:12:36,CLI_18740,Móvil Postpago,Regular,5,Detractor,"Servicio muy lento, muchas fallas",App,6,True,True,False,Oeste,36,38
+NPS_000413,2025-08-06 12:12:36,CLI_08531,Telefonía Fija,Regular,6,Detractor,Atención al cliente deficiente,App,0,False,True,False,Sur,67,16
+NPS_000414,2025-08-19 12:12:36,CLI_39160,Móvil Prepago,Premium,0,Detractor,Precio muy alto para el servicio,Email,6,True,False,False,Oeste,71,64
+NPS_000415,2025-08-29 12:12:36,CLI_39138,Móvil Postpago,Regular,10,Promotor,"Excelente servicio, muy satisfecho",App,2,True,False,True,Oeste,71,70
+NPS_000416,2025-06-19 12:12:36,CLI_20056,Móvil Prepago,Regular,7,Neutral,Funciona pero tiene algunos problemas,App,3,True,True,True,Este,36,70
+NPS_000417,2025-07-21 12:12:36,CLI_43855,TV Cable,VIP,5,Detractor,Precio muy alto para el servicio,SMS,6,True,True,False,Sur,33,65
+NPS_000418,2025-07-09 12:12:36,CLI_29002,Internet Hogar,Premium,0,Detractor,Precio muy alto para el servicio,Web,3,False,True,False,Norte,28,109
+NPS_000419,2025-06-27 12:12:36,CLI_13080,Empresarial,VIP,10,Promotor,Personal muy profesional,App,6,False,False,True,Centro,31,85
+NPS_000420,2025-08-18 12:12:36,CLI_18236,Empresarial,Premium,2,Detractor,"Servicio muy lento, muchas fallas",SMS,0,True,True,False,Sur,49,36
+NPS_000421,2025-08-28 12:12:36,CLI_36897,Telefonía Fija,Básico,8,Neutral,"Servicio regular, podría mejorar",Email,6,False,False,True,Este,29,16
+NPS_000422,2025-08-07 12:12:36,CLI_15802,Móvil Prepago,VIP,3,Detractor,Problemas técnicos constantes,SMS,5,True,False,False,Norte,51,7
+NPS_000423,2025-06-27 12:12:36,CLI_33938,Internet Hogar,Regular,0,Detractor,"Servicio muy lento, muchas fallas",SMS,5,False,True,False,Norte,57,68
+NPS_000424,2025-08-30 12:12:36,CLI_06695,Internet Hogar,Básico,5,Detractor,"Servicio muy lento, muchas fallas",Web,4,True,True,False,Este,72,109
+NPS_000425,2025-06-21 12:12:36,CLI_11455,Móvil Prepago,VIP,8,Neutral,"Servicio regular, podría mejorar",SMS,3,True,True,True,Centro,59,28
+NPS_000426,2025-08-24 12:12:36,CLI_17402,Internet Hogar,Premium,0,Detractor,Precio muy alto para el servicio,Web,1,False,False,False,Sur,42,117
+NPS_000427,2025-07-04 12:12:36,CLI_09136,Internet Hogar,Premium,10,Promotor,Atención rápida y efectiva,SMS,5,True,False,True,Oeste,37,29
+NPS_000428,2025-07-08 12:12:36,CLI_41464,TV Cable,Premium,1,Detractor,Precio muy alto para el servicio,Email,4,False,True,False,Oeste,47,40
+NPS_000429,2025-09-11 12:12:36,CLI_39144,Empresarial,Premium,5,Detractor,"Servicio muy lento, muchas fallas",Web,1,True,False,False,Centro,65,25
+NPS_000430,2025-07-15 12:12:36,CLI_32864,Móvil Postpago,VIP,4,Detractor,"Servicio muy lento, muchas fallas",Email,7,True,True,False,Oeste,57,41
+NPS_000431,2025-09-15 12:12:36,CLI_41617,Móvil Prepago,VIP,9,Promotor,Atención rápida y efectiva,App,0,True,False,True,Sur,75,47
+NPS_000432,2025-09-04 12:12:36,CLI_38230,Internet Móvil,Básico,4,Detractor,"Servicio muy lento, muchas fallas",Web,6,False,True,False,Este,20,83
+NPS_000433,2025-08-14 12:12:36,CLI_31922,Internet Hogar,Básico,8,Neutral,Funciona pero tiene algunos problemas,Web,7,False,False,True,Norte,42,92
+NPS_000434,2025-07-04 12:12:36,CLI_16019,Empresarial,Premium,7,Neutral,"Precio aceptable, servicio promedio",App,4,False,False,True,Sur,44,93
+NPS_000435,2025-07-11 12:12:36,CLI_17164,Internet Móvil,Regular,5,Detractor,"Servicio muy lento, muchas fallas",Web,6,False,True,False,Oeste,55,8
+NPS_000436,2025-08-22 12:12:36,CLI_41672,Internet Móvil,Premium,2,Detractor,Problemas técnicos constantes,Web,2,True,False,False,Este,32,3
+NPS_000437,2025-08-07 12:12:36,CLI_04997,Móvil Postpago,Básico,8,Neutral,"Servicio regular, podría mejorar",Email,4,True,False,True,Centro,28,29
+NPS_000438,2025-07-17 12:12:36,CLI_22931,Internet Móvil,Regular,8,Neutral,"Servicio regular, podría mejorar",App,5,False,True,True,Oeste,33,106
+NPS_000439,2025-09-03 12:12:36,CLI_25365,Internet Móvil,Regular,3,Detractor,Problemas técnicos constantes,Web,7,False,False,False,Norte,46,41
+NPS_000440,2025-08-14 12:12:36,CLI_39819,Empresarial,Regular,8,Neutral,"Servicio regular, podría mejorar",App,7,False,True,True,Oeste,22,12
+NPS_000441,2025-07-18 12:12:36,CLI_38618,Empresarial,Premium,4,Detractor,Problemas técnicos constantes,Web,2,True,False,False,Oeste,20,58
+NPS_000442,2025-07-15 12:12:36,CLI_38932,Empresarial,Regular,2,Detractor,Precio muy alto para el servicio,Web,4,False,True,False,Este,19,103
+NPS_000443,2025-06-26 12:12:36,CLI_23740,Internet Hogar,Básico,8,Neutral,Funciona pero tiene algunos problemas,Web,3,False,True,True,Este,66,42
+NPS_000444,2025-08-06 12:12:36,CLI_14512,Internet Hogar,Premium,7,Neutral,"Precio aceptable, servicio promedio",App,1,False,True,True,Norte,64,68
+NPS_000445,2025-07-30 12:12:36,CLI_34742,Internet Hogar,Premium,0,Detractor,Atención al cliente deficiente,Web,2,False,False,False,Sur,43,101
+NPS_000446,2025-08-05 12:12:36,CLI_35085,Móvil Prepago,Básico,1,Detractor,Precio muy alto para el servicio,SMS,0,False,False,False,Sur,69,95
+NPS_000447,2025-07-24 12:12:36,CLI_24941,Móvil Postpago,VIP,4,Detractor,Precio muy alto para el servicio,App,2,False,True,False,Sur,68,31
+NPS_000448,2025-07-22 12:12:36,CLI_36495,Móvil Postpago,Regular,1,Detractor,Precio muy alto para el servicio,SMS,3,True,False,False,Este,53,36
+NPS_000449,2025-06-26 12:12:36,CLI_49250,Internet Móvil,Regular,9,Promotor,"Excelente servicio, muy satisfecho",Web,3,True,True,True,Oeste,28,78
+NPS_000450,2025-08-21 12:12:36,CLI_06766,Móvil Prepago,Premium,0,Detractor,"Servicio muy lento, muchas fallas",App,2,False,False,False,Centro,34,71
+NPS_000451,2025-07-25 12:12:36,CLI_14809,Internet Hogar,Regular,2,Detractor,Atención al cliente deficiente,Email,1,True,True,False,Este,52,36
+NPS_000452,2025-07-12 12:12:36,CLI_08229,TV Cable,Premium,8,Neutral,"Servicio regular, podría mejorar",Web,7,False,False,True,Este,34,5
+NPS_000453,2025-08-14 12:12:36,CLI_12789,Telefonía Fija,Premium,5,Detractor,"Servicio muy lento, muchas fallas",App,0,True,False,False,Sur,74,23
+NPS_000454,2025-07-23 12:12:36,CLI_46344,Telefonía Fija,Básico,2,Detractor,Atención al cliente deficiente,App,4,False,True,False,Centro,69,72
+NPS_000455,2025-06-24 12:12:36,CLI_16644,Internet Hogar,Premium,3,Detractor,Atención al cliente deficiente,Web,2,False,True,False,Sur,42,51
+NPS_000456,2025-07-07 12:12:36,CLI_06433,Empresarial,Premium,6,Detractor,"Servicio muy lento, muchas fallas",SMS,1,False,True,False,Norte,40,48
+NPS_000457,2025-08-11 12:12:36,CLI_19103,Empresarial,VIP,8,Neutral,"Precio aceptable, servicio promedio",Email,4,True,False,True,Norte,31,82
+NPS_000458,2025-06-30 12:12:36,CLI_42714,Empresarial,Regular,3,Detractor,Problemas técnicos constantes,Web,0,True,False,False,Este,64,65
+NPS_000459,2025-06-18 12:12:36,CLI_46966,Telefonía Fija,Básico,7,Neutral,Funciona pero tiene algunos problemas,App,2,False,False,True,Sur,46,44
+NPS_000460,2025-06-30 12:12:36,CLI_48626,Empresarial,VIP,3,Detractor,Problemas técnicos constantes,Web,4,True,False,False,Norte,27,44
+NPS_000461,2025-08-01 12:12:36,CLI_33290,Internet Hogar,Premium,1,Detractor,Atención al cliente deficiente,Web,3,False,True,False,Oeste,37,86
+NPS_000462,2025-07-02 12:12:36,CLI_01919,Internet Hogar,Regular,3,Detractor,Precio muy alto para el servicio,App,5,True,True,False,Sur,29,90
+NPS_000463,2025-09-11 12:12:36,CLI_06747,Móvil Postpago,Básico,5,Detractor,Atención al cliente deficiente,Web,4,True,False,False,Este,63,21
+NPS_000464,2025-08-27 12:12:36,CLI_15822,Telefonía Fija,Regular,0,Detractor,"Servicio muy lento, muchas fallas",Web,7,False,True,False,Oeste,27,33
+NPS_000465,2025-09-15 12:12:36,CLI_45890,Internet Hogar,VIP,9,Promotor,Buena relación calidad-precio,SMS,3,False,True,True,Sur,50,34
+NPS_000466,2025-08-14 12:12:36,CLI_48589,Empresarial,VIP,3,Detractor,Precio muy alto para el servicio,Web,4,True,True,False,Sur,72,21
+NPS_000467,2025-06-29 12:12:36,CLI_26997,Telefonía Fija,Básico,9,Promotor,Buena relación calidad-precio,Email,3,False,True,True,Norte,34,114
+NPS_000468,2025-07-25 12:12:36,CLI_06899,Móvil Prepago,Premium,4,Detractor,"Servicio muy lento, muchas fallas",Web,5,True,True,False,Centro,40,42
+NPS_000469,2025-09-13 12:12:36,CLI_39283,Internet Hogar,VIP,6,Detractor,Atención al cliente deficiente,SMS,0,True,False,False,Centro,38,76
+NPS_000470,2025-07-26 12:12:36,CLI_36500,Internet Móvil,Regular,10,Promotor,Buena relación calidad-precio,App,2,False,True,True,Norte,74,43
+NPS_000471,2025-07-13 12:12:36,CLI_05648,Móvil Prepago,Básico,9,Promotor,Buena relación calidad-precio,Email,1,True,False,True,Norte,27,3
+NPS_000472,2025-07-05 12:12:36,CLI_20324,Empresarial,Regular,7,Neutral,Funciona pero tiene algunos problemas,SMS,4,True,False,True,Centro,59,109
+NPS_000473,2025-08-29 12:12:36,CLI_35229,Móvil Postpago,Premium,1,Detractor,"Servicio muy lento, muchas fallas",App,3,True,False,False,Este,55,3
+NPS_000474,2025-08-04 12:12:36,CLI_13332,Internet Hogar,Básico,5,Detractor,Precio muy alto para el servicio,Web,6,False,False,False,Norte,24,75
+NPS_000475,2025-09-09 12:12:36,CLI_26859,Móvil Postpago,Básico,0,Detractor,Problemas técnicos constantes,Email,2,True,True,False,Este,54,14
+NPS_000476,2025-08-01 12:12:36,CLI_11201,Móvil Postpago,Premium,8,Neutral,"Precio aceptable, servicio promedio",Web,4,False,False,True,Este,50,84
+NPS_000477,2025-06-20 12:12:36,CLI_10956,Empresarial,Regular,5,Detractor,Atención al cliente deficiente,SMS,5,False,True,False,Sur,38,108
+NPS_000478,2025-08-11 12:12:36,CLI_39811,TV Cable,Básico,5,Detractor,Problemas técnicos constantes,Web,6,True,True,False,Este,25,12
+NPS_000479,2025-06-20 12:12:36,CLI_07807,TV Cable,Básico,10,Promotor,Personal muy profesional,Email,2,True,False,True,Centro,37,108
+NPS_000480,2025-07-28 12:12:36,CLI_31112,Móvil Prepago,VIP,4,Detractor,Problemas técnicos constantes,SMS,0,True,True,False,Centro,42,78
+NPS_000481,2025-07-21 12:12:36,CLI_17164,Móvil Postpago,VIP,6,Detractor,Precio muy alto para el servicio,Web,1,False,True,False,Este,42,66
+NPS_000482,2025-08-03 12:12:36,CLI_22179,Móvil Prepago,Premium,10,Promotor,Personal muy profesional,Email,5,False,False,True,Norte,50,53
+NPS_000483,2025-07-05 12:12:36,CLI_36583,Empresarial,Regular,4,Detractor,Precio muy alto para el servicio,Web,3,True,False,False,Este,39,44
+NPS_000484,2025-07-19 12:12:36,CLI_36312,TV Cable,Básico,9,Promotor,Atención rápida y efectiva,Email,0,False,True,True,Centro,68,3
+NPS_000485,2025-08-10 12:12:36,CLI_26578,Internet Hogar,Regular,6,Detractor,"Servicio muy lento, muchas fallas",App,6,False,True,False,Sur,36,87
+NPS_000486,2025-08-19 12:12:36,CLI_41642,TV Cable,VIP,10,Promotor,Atención rápida y efectiva,App,4,False,False,True,Sur,32,26
+NPS_000487,2025-09-12 12:12:36,CLI_32039,Empresarial,Regular,2,Detractor,"Servicio muy lento, muchas fallas",SMS,5,False,False,False,Oeste,19,29
+NPS_000488,2025-06-27 12:12:36,CLI_41513,Móvil Prepago,VIP,5,Detractor,Precio muy alto para el servicio,App,1,False,True,False,Norte,41,31
+NPS_000489,2025-08-17 12:12:36,CLI_38599,TV Cable,Premium,8,Neutral,"Servicio regular, podría mejorar",Web,7,False,True,True,Sur,58,105
+NPS_000490,2025-07-11 12:12:36,CLI_20808,Empresarial,Regular,0,Detractor,Atención al cliente deficiente,Web,2,False,False,False,Centro,37,53
+NPS_000491,2025-08-05 12:12:36,CLI_24974,Móvil Postpago,VIP,6,Detractor,Problemas técnicos constantes,App,0,True,False,False,Norte,39,97
+NPS_000492,2025-08-08 12:12:36,CLI_45497,Móvil Postpago,Premium,3,Detractor,Precio muy alto para el servicio,App,6,True,False,False,Este,70,119
+NPS_000493,2025-06-27 12:12:36,CLI_25859,Móvil Postpago,Básico,4,Detractor,Precio muy alto para el servicio,SMS,2,False,False,False,Centro,53,16
+NPS_000494,2025-09-03 12:12:36,CLI_22223,TV Cable,Premium,4,Detractor,Atención al cliente deficiente,Email,1,True,True,False,Este,75,46
+NPS_000495,2025-07-24 12:12:36,CLI_18677,Móvil Postpago,VIP,9,Promotor,"Excelente servicio, muy satisfecho",SMS,0,False,False,True,Norte,27,67
+NPS_000496,2025-09-02 12:12:36,CLI_01861,Móvil Postpago,Regular,3,Detractor,"Servicio muy lento, muchas fallas",Email,6,True,True,False,Oeste,32,43
+NPS_000497,2025-06-26 12:12:36,CLI_30052,Internet Móvil,Básico,7,Neutral,"Precio aceptable, servicio promedio",SMS,3,False,False,True,Sur,66,79
+NPS_000498,2025-07-30 12:12:36,CLI_10781,Telefonía Fija,VIP,5,Detractor,Problemas técnicos constantes,SMS,4,False,False,False,Este,74,94
+NPS_000499,2025-07-10 12:12:36,CLI_25692,Telefonía Fija,Básico,10,Promotor,Buena relación calidad-precio,SMS,5,False,False,True,Sur,39,19
+NPS_000500,2025-07-08 12:12:36,CLI_48436,Móvil Postpago,Premium,10,Promotor,Buena relación calidad-precio,Web,3,True,False,True,Sur,74,28

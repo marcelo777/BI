@@ -1,0 +1,1001 @@
+ticket_id,fecha_creacion,fecha_resolucion,producto,segmento_cliente,asesor_id,asesor_nombre,asesor_nivel,causa_original,area_responsable,escalado,escalado_a,resuelto_primera_instancia,reabierto,mttr_horas,satisfaccion_cliente,cliente_id,canal_entrada,prioridad,complejidad
+TKT_000001,2025-07-28 12:12:36,2025-07-29 12:16:48,Empresarial,Básico,ASE_004,Asesor_047,Senior,Cambio plan mayor capacidad,Retención,True,NOC_Norte,False,False,24.07,9,CLI_27223,Telefono,Alta,Baja
+TKT_000002,2025-08-02 12:12:36,2025-08-04 07:30:36,Empresarial,Regular,ASE_034,Asesor_007,Senior,Lentitud navegación específica,Soporte,False,,False,False,43.3,8,CLI_34638,Web,Alta,Alta
+TKT_000003,2025-06-21 12:12:36,2025-06-22 03:48:36,Empresarial,Básico,ASE_003,Asesor_024,Semi-Senior,Problema VoIP corporativa,Técnico,False,,True,True,15.6,9,CLI_06274,Web,Media,Media
+TKT_000004,2025-07-23 12:12:36,2025-07-23 19:30:36,Internet Móvil,Premium,ASE_014,Asesor_003,Semi-Senior,Lentitud navegación específica,Soporte,False,,True,True,7.3,8,CLI_24620,Telefono,Media,Media
+TKT_000005,2025-08-28 12:12:36,2025-08-28 14:33:36,TV Cable,VIP,ASE_010,Asesor_022,Semi-Senior,Cambio plan mayor capacidad,Retención,True,NOC_Oeste,False,True,2.35,10,CLI_12968,Presencial,Media,Media
+TKT_000006,2025-09-04 12:12:36,2025-09-06 03:56:24,Telefonía Fija,Regular,ASE_037,Asesor_037,Junior,Falla WiFi 5GHz específica,Retención,True,NOC_Sur,False,True,39.73,3,CLI_31880,App,Alta,Baja
+TKT_000007,2025-07-20 12:12:36,2025-07-22 04:54:00,Empresarial,VIP,ASE_022,Asesor_050,Senior,Duda promoción temporal,Técnico,False,,False,False,40.69,10,CLI_44894,Web,Baja,Alta
+TKT_000008,2025-07-15 12:12:36,2025-07-17 10:31:12,Móvil Postpago,Básico,ASE_016,Asesor_037,Semi-Senior,Solicitud certificado ingresos,Técnico,True,NOC_Norte,False,True,46.31,10,CLI_17953,Telefono,Alta,Baja
+TKT_000009,2025-07-05 12:12:36,2025-07-06 15:19:48,TV Cable,Premium,ASE_037,Asesor_007,Junior,Consulta plan específico región,Comercial,True,NOC_Oeste,True,True,27.12,9,CLI_39911,App,Alta,Media
+TKT_000010,2025-08-22 12:12:36,2025-08-22 21:01:12,Telefonía Fija,VIP,ASE_012,Asesor_035,Senior,Corte intermitente fibra,Soporte,False,,True,True,8.81,6,CLI_04878,Web,Alta,Media
+TKT_000011,2025-06-30 12:12:36,2025-07-01 15:21:00,Internet Móvil,VIP,ASE_012,Asesor_007,Semi-Senior,Consulta plan específico región,Retención,True,NOC_Central,True,False,27.14,10,CLI_13067,Web,Media,Alta
+TKT_000012,2025-08-16 12:12:36,2025-08-18 00:22:12,Móvil Prepago,Regular,ASE_013,Asesor_044,Junior,Cambio plan mayor capacidad,Técnico,False,,False,True,36.16,6,CLI_00254,Web,Baja,Baja
+TKT_000013,2025-06-23 12:12:36,2025-06-25 08:01:12,Internet Hogar,Básico,ASE_018,Asesor_001,Senior,Problema VoIP corporativa,Comercial,False,,True,True,43.81,1,CLI_42447,Web,Media,Baja
+TKT_000014,2025-09-15 12:12:36,2025-09-17 07:21:36,Empresarial,VIP,ASE_038,Asesor_014,Junior,Actualización datos personales,Retención,True,NOC_Sur,False,True,43.15,5,CLI_23945,Presencial,Alta,Baja
+TKT_000015,2025-07-24 12:12:36,2025-07-25 17:03:00,TV Cable,Regular,ASE_034,Asesor_046,Junior,Problema VoIP corporativa,Técnico,True,NOC_Central,True,True,28.84,5,CLI_34920,Presencial,Alta,Media
+TKT_000016,2025-07-17 12:12:36,2025-07-19 10:43:48,Telefonía Fija,Regular,ASE_032,Asesor_049,Junior,Cambio email contacto,Comercial,True,NOC_Este,False,False,46.52,9,CLI_47996,Telefono,Media,Alta
+TKT_000017,2025-07-16 12:12:36,2025-07-17 18:50:24,Internet Hogar,Regular,ASE_045,Asesor_042,Senior,Solicitud certificado ingresos,Soporte,True,NOC_Este,True,True,30.63,3,CLI_36875,Telefono,Media,Media
+TKT_000018,2025-09-08 12:12:36,2025-09-09 10:57:36,Móvil Postpago,Básico,ASE_038,Asesor_020,Semi-Senior,Cambio plan mayor capacidad,Técnico,True,NOC_Central,False,True,22.75,2,CLI_25508,Telefono,Baja,Baja
+TKT_000019,2025-07-11 12:12:36,2025-07-12 01:14:24,Empresarial,Premium,ASE_004,Asesor_003,Senior,Cambio email contacto,Técnico,False,,False,False,13.03,7,CLI_15254,App,Media,Baja
+TKT_000020,2025-08-09 12:12:36,2025-08-10 18:20:24,Móvil Postpago,Básico,ASE_014,Asesor_007,Junior,Error configuración router,Técnico,True,NOC_Central,False,False,30.13,9,CLI_14758,Web,Media,Alta
+TKT_000021,2025-08-27 12:12:36,2025-08-27 17:34:48,Empresarial,Premium,ASE_006,Asesor_040,Junior,Consulta plan específico región,Técnico,False,,False,True,5.37,5,CLI_32140,App,Media,Media
+TKT_000022,2025-07-06 12:12:36,2025-07-08 10:51:36,Internet Móvil,Básico,ASE_020,Asesor_024,Semi-Senior,Actualización datos personales,Retención,True,NOC_Central,True,False,46.65,8,CLI_48128,Web,Alta,Alta
+TKT_000023,2025-08-01 12:12:36,2025-08-03 10:21:36,Móvil Postpago,Regular,ASE_027,Asesor_001,Senior,Corte intermitente fibra,Comercial,False,,True,True,46.15,7,CLI_15435,Telefono,Alta,Alta
+TKT_000024,2025-06-19 12:12:36,2025-06-20 16:05:24,Internet Móvil,Regular,ASE_024,Asesor_030,Semi-Senior,Cambio email contacto,Soporte,True,NOC_Central,False,False,27.88,10,CLI_49583,Telefono,Alta,Alta
+TKT_000025,2025-09-12 12:12:36,2025-09-14 06:42:36,Móvil Prepago,Básico,ASE_001,Asesor_047,Semi-Senior,Solicitud certificado ingresos,Soporte,False,,False,True,42.5,9,CLI_19652,App,Media,Media
+TKT_000026,2025-09-15 12:12:36,2025-09-15 18:31:48,Móvil Prepago,VIP,ASE_047,Asesor_031,Junior,Sin señal TV canal específico,Comercial,False,,True,True,6.32,3,CLI_31299,Presencial,Media,Baja
+TKT_000027,2025-09-09 12:12:36,2025-09-09 17:04:48,Internet Móvil,Regular,ASE_003,Asesor_033,Senior,Duda promoción temporal,Comercial,False,,True,False,4.87,4,CLI_00620,Web,Baja,Alta
+TKT_000028,2025-08-03 12:12:36,2025-08-05 11:58:12,TV Cable,Básico,ASE_044,Asesor_028,Senior,Duda promoción temporal,Técnico,False,,True,False,47.76,1,CLI_48654,Presencial,Alta,Media
+TKT_000029,2025-08-19 12:12:36,2025-08-21 09:40:48,Empresarial,Regular,ASE_044,Asesor_049,Semi-Senior,Problema VoIP corporativa,Retención,True,NOC_Oeste,True,False,45.47,6,CLI_44341,App,Baja,Media
+TKT_000030,2025-07-03 12:12:36,2025-07-04 19:46:12,Empresarial,Premium,ASE_008,Asesor_040,Senior,Cambio plan mayor capacidad,Comercial,True,NOC_Oeste,True,True,31.56,5,CLI_01515,App,Baja,Alta
+TKT_000031,2025-07-06 12:12:36,2025-07-07 23:05:24,Móvil Postpago,Regular,ASE_023,Asesor_004,Senior,Cambio email contacto,Soporte,False,,True,False,34.88,7,CLI_29586,Web,Baja,Media
+TKT_000032,2025-09-02 12:12:36,2025-09-02 23:46:12,Internet Hogar,Regular,ASE_003,Asesor_030,Junior,Duda promoción temporal,Soporte,False,,False,True,11.56,2,CLI_20276,App,Alta,Alta
+TKT_000033,2025-06-22 12:12:36,2025-06-24 08:58:12,Móvil Prepago,Regular,ASE_011,Asesor_042,Semi-Senior,Error configuración router,Comercial,True,NOC_Sur,True,False,44.76,2,CLI_00643,Presencial,Alta,Baja
+TKT_000034,2025-08-16 12:12:36,2025-08-17 01:43:12,Móvil Prepago,Regular,ASE_003,Asesor_049,Senior,Error configuración router,Comercial,True,NOC_Norte,True,False,13.51,3,CLI_05688,App,Baja,Media
+TKT_000035,2025-07-23 12:12:36,2025-07-24 20:55:48,TV Cable,Premium,ASE_019,Asesor_043,Semi-Senior,Cambio email contacto,Comercial,True,NOC_Norte,False,False,32.72,5,CLI_44074,Presencial,Alta,Alta
+TKT_000036,2025-06-22 12:12:36,2025-06-22 17:53:24,Móvil Postpago,Premium,ASE_026,Asesor_018,Semi-Senior,Falla WiFi 5GHz específica,Técnico,True,NOC_Central,True,False,5.68,3,CLI_17019,Web,Alta,Baja
+TKT_000037,2025-08-23 12:12:36,2025-08-25 02:57:36,Telefonía Fija,Básico,ASE_045,Asesor_017,Senior,Error configuración router,Retención,True,NOC_Sur,True,False,38.75,9,CLI_45803,Telefono,Baja,Alta
+TKT_000038,2025-07-21 12:12:36,2025-07-23 00:36:00,TV Cable,VIP,ASE_047,Asesor_040,Semi-Senior,Error configuración router,Retención,True,NOC_Norte,True,False,36.39,3,CLI_00472,Presencial,Baja,Alta
+TKT_000039,2025-08-06 12:12:36,2025-08-06 14:47:24,Telefonía Fija,Regular,ASE_044,Asesor_015,Semi-Senior,Solicitud certificado ingresos,Soporte,True,NOC_Oeste,True,False,2.58,1,CLI_16754,Web,Alta,Alta
+TKT_000040,2025-08-13 12:12:36,2025-08-13 22:37:12,Empresarial,Premium,ASE_008,Asesor_004,Junior,Consulta plan específico región,Técnico,False,,True,True,10.41,1,CLI_47981,App,Alta,Alta
+TKT_000041,2025-09-09 12:12:36,2025-09-10 12:34:12,Internet Móvil,Premium,ASE_040,Asesor_015,Semi-Senior,Consulta plan específico región,Soporte,False,,False,False,24.36,10,CLI_08613,Telefono,Baja,Alta
+TKT_000042,2025-08-04 12:12:36,2025-08-04 17:03:00,Empresarial,Básico,ASE_035,Asesor_020,Junior,Falla WiFi 5GHz específica,Comercial,True,NOC_Este,True,False,4.84,3,CLI_35311,Web,Alta,Alta
+TKT_000043,2025-09-15 12:12:36,2025-09-17 04:18:00,Telefonía Fija,Básico,ASE_047,Asesor_045,Senior,Lentitud navegación específica,Retención,True,NOC_Este,True,True,40.09,5,CLI_16477,Web,Alta,Media
+TKT_000044,2025-08-12 12:12:36,2025-08-13 10:39:36,TV Cable,Premium,ASE_003,Asesor_038,Semi-Senior,Cambio email contacto,Soporte,False,,True,True,22.45,9,CLI_32205,Telefono,Baja,Alta
+TKT_000045,2025-08-23 12:12:36,2025-08-24 20:08:24,Internet Hogar,VIP,ASE_014,Asesor_020,Semi-Senior,Cambio plan mayor capacidad,Técnico,False,,False,False,31.93,7,CLI_25396,Presencial,Alta,Alta
+TKT_000046,2025-08-10 12:12:36,2025-08-10 19:45:36,Telefonía Fija,Básico,ASE_015,Asesor_027,Junior,Duda promoción temporal,Retención,False,,False,False,7.55,7,CLI_16710,Web,Baja,Media
+TKT_000047,2025-07-15 12:12:36,2025-07-17 02:25:48,Empresarial,VIP,ASE_006,Asesor_050,Junior,Problema VoIP corporativa,Técnico,False,,False,False,38.22,10,CLI_23554,Presencial,Baja,Alta
+TKT_000048,2025-07-05 12:12:36,2025-07-06 16:21:36,Móvil Prepago,Premium,ASE_046,Asesor_007,Junior,Cambio email contacto,Comercial,False,,True,True,28.15,7,CLI_04331,Presencial,Alta,Alta
+TKT_000049,2025-08-16 12:12:36,2025-08-16 17:47:24,Internet Móvil,VIP,ASE_034,Asesor_044,Junior,Corte intermitente fibra,Soporte,True,NOC_Sur,False,False,5.58,9,CLI_21669,App,Media,Baja
+TKT_000050,2025-09-01 12:12:36,2025-09-03 11:21:36,TV Cable,VIP,ASE_047,Asesor_007,Semi-Senior,Cambio plan mayor capacidad,Técnico,True,NOC_Este,True,True,47.15,2,CLI_27722,Web,Media,Baja
+TKT_000051,2025-07-19 12:12:36,2025-07-21 08:52:48,TV Cable,VIP,ASE_046,Asesor_032,Semi-Senior,Problema VoIP corporativa,Comercial,False,,True,False,44.67,4,CLI_39179,Web,Baja,Media
+TKT_000052,2025-09-01 12:12:36,2025-09-02 15:50:24,TV Cable,Premium,ASE_040,Asesor_001,Semi-Senior,Lentitud navegación específica,Técnico,False,,True,True,27.63,7,CLI_38802,Web,Media,Baja
+TKT_000053,2025-08-25 12:12:36,2025-08-25 20:43:48,Móvil Prepago,Regular,ASE_029,Asesor_018,Senior,Duda promoción temporal,Retención,False,,True,True,8.52,4,CLI_08128,Telefono,Baja,Baja
+TKT_000054,2025-07-29 12:12:36,2025-07-29 15:25:48,TV Cable,Premium,ASE_025,Asesor_037,Senior,Cambio email contacto,Soporte,True,NOC_Central,False,True,3.22,5,CLI_43053,Web,Media,Media
+TKT_000055,2025-08-02 12:12:36,2025-08-03 12:55:48,Telefonía Fija,Premium,ASE_001,Asesor_041,Semi-Senior,Actualización datos personales,Técnico,False,,False,False,24.72,6,CLI_06906,Web,Baja,Baja
+TKT_000056,2025-08-12 12:12:36,2025-08-14 04:00:36,Móvil Postpago,Premium,ASE_022,Asesor_002,Semi-Senior,Cambio plan mayor capacidad,Retención,True,NOC_Oeste,False,True,39.8,9,CLI_46176,Web,Media,Alta
+TKT_000057,2025-07-30 12:12:36,2025-07-31 12:04:12,Internet Móvil,VIP,ASE_029,Asesor_031,Semi-Senior,Falla WiFi 5GHz específica,Retención,True,NOC_Norte,False,True,23.86,5,CLI_45268,App,Media,Baja
+TKT_000058,2025-09-03 12:12:36,2025-09-05 11:25:12,Internet Hogar,Básico,ASE_026,Asesor_046,Semi-Senior,Consulta plan específico región,Técnico,True,NOC_Central,True,True,47.21,4,CLI_26906,App,Media,Alta
+TKT_000059,2025-06-19 12:12:36,2025-06-19 18:57:36,TV Cable,Básico,ASE_048,Asesor_014,Semi-Senior,Consulta plan específico región,Soporte,True,NOC_Central,False,False,6.75,1,CLI_12475,Telefono,Alta,Media
+TKT_000060,2025-07-04 12:12:36,2025-07-04 18:52:48,Empresarial,Premium,ASE_031,Asesor_002,Junior,Duda promoción temporal,Técnico,False,,True,True,6.67,5,CLI_30541,Presencial,Media,Media
+TKT_000061,2025-08-24 12:12:36,2025-08-25 14:49:48,TV Cable,VIP,ASE_004,Asesor_004,Semi-Senior,Cambio email contacto,Soporte,True,NOC_Oeste,False,True,26.62,2,CLI_47946,Presencial,Alta,Alta
+TKT_000062,2025-09-07 12:12:36,2025-09-08 11:13:48,Móvil Prepago,Básico,ASE_035,Asesor_001,Semi-Senior,Lentitud navegación específica,Comercial,True,NOC_Este,True,False,23.02,10,CLI_28819,Presencial,Media,Baja
+TKT_000063,2025-08-31 12:12:36,2025-09-02 04:45:00,Empresarial,Premium,ASE_008,Asesor_042,Junior,Cambio email contacto,Retención,False,,True,True,40.54,3,CLI_24903,Presencial,Alta,Baja
+TKT_000064,2025-08-28 12:12:36,2025-08-28 20:57:00,Empresarial,Premium,ASE_001,Asesor_014,Semi-Senior,Consulta plan específico región,Soporte,False,,False,True,8.74,1,CLI_49600,App,Media,Baja
+TKT_000065,2025-07-20 12:12:36,2025-07-22 04:06:00,Internet Hogar,Básico,ASE_034,Asesor_015,Junior,Solicitud certificado ingresos,Técnico,False,,True,False,39.89,10,CLI_46941,Telefono,Alta,Alta
+TKT_000066,2025-08-19 12:12:36,2025-08-20 21:04:12,Telefonía Fija,Básico,ASE_027,Asesor_008,Junior,Falla WiFi 5GHz específica,Técnico,False,,False,True,32.86,2,CLI_44252,Presencial,Baja,Alta
+TKT_000067,2025-07-22 12:12:36,2025-07-23 00:36:00,Móvil Prepago,Premium,ASE_018,Asesor_029,Junior,Problema VoIP corporativa,Retención,True,NOC_Este,True,False,12.39,3,CLI_43107,App,Alta,Baja
+TKT_000068,2025-07-20 12:12:36,2025-07-21 13:39:00,Móvil Prepago,VIP,ASE_036,Asesor_037,Semi-Senior,Cambio plan mayor capacidad,Comercial,False,,False,True,25.44,4,CLI_29408,App,Baja,Alta
+TKT_000069,2025-07-22 12:12:36,2025-07-23 21:36:00,Internet Hogar,Premium,ASE_006,Asesor_019,Senior,Actualización datos personales,Comercial,True,NOC_Oeste,True,False,33.39,5,CLI_36901,Presencial,Media,Baja
+TKT_000070,2025-08-13 12:12:36,2025-08-14 08:36:36,Internet Hogar,Básico,ASE_048,Asesor_041,Junior,Cambio plan mayor capacidad,Técnico,True,NOC_Central,False,False,20.4,9,CLI_43048,Telefono,Baja,Alta
+TKT_000071,2025-09-06 12:12:36,2025-09-08 09:24:36,Empresarial,Premium,ASE_009,Asesor_025,Senior,Falla WiFi 5GHz específica,Comercial,False,,False,False,45.2,6,CLI_15471,Web,Alta,Baja
+TKT_000072,2025-08-31 12:12:36,2025-09-01 22:51:36,Empresarial,VIP,ASE_046,Asesor_019,Semi-Senior,Falla WiFi 5GHz específica,Retención,False,,False,False,34.65,3,CLI_08753,Web,Baja,Baja
+TKT_000073,2025-08-14 12:12:36,2025-08-16 00:39:00,Móvil Prepago,Regular,ASE_048,Asesor_010,Semi-Senior,Solicitud certificado ingresos,Técnico,False,,True,False,36.44,9,CLI_26313,Telefono,Alta,Baja
+TKT_000074,2025-09-04 12:12:36,2025-09-05 17:12:36,Telefonía Fija,Regular,ASE_017,Asesor_020,Junior,Corte intermitente fibra,Técnico,True,NOC_Norte,False,True,29.0,7,CLI_03677,Presencial,Alta,Alta
+TKT_000075,2025-07-07 12:12:36,2025-07-08 06:17:24,Móvil Postpago,Básico,ASE_038,Asesor_017,Semi-Senior,Cambio email contacto,Comercial,True,NOC_Este,True,True,18.08,7,CLI_06519,Web,Baja,Baja
+TKT_000076,2025-06-19 12:12:36,2025-06-19 15:51:36,Telefonía Fija,Regular,ASE_037,Asesor_044,Junior,Cambio plan mayor capacidad,Soporte,True,NOC_Norte,False,True,3.65,3,CLI_46380,Presencial,Alta,Baja
+TKT_000077,2025-08-26 12:12:36,2025-08-28 09:45:00,Móvil Prepago,Premium,ASE_044,Asesor_035,Semi-Senior,Error configuración router,Comercial,True,NOC_Oeste,False,True,45.54,7,CLI_05351,Web,Media,Alta
+TKT_000078,2025-08-31 12:12:36,2025-09-01 13:05:24,Telefonía Fija,Regular,ASE_005,Asesor_001,Semi-Senior,Consulta plan específico región,Soporte,True,NOC_Oeste,True,False,24.88,9,CLI_43778,Web,Baja,Alta
+TKT_000079,2025-08-26 12:12:36,2025-08-27 16:56:24,Internet Hogar,Básico,ASE_017,Asesor_043,Semi-Senior,Solicitud certificado ingresos,Comercial,False,,False,False,28.73,7,CLI_21713,Telefono,Baja,Media
+TKT_000080,2025-08-21 12:12:36,2025-08-21 21:12:00,Empresarial,Regular,ASE_013,Asesor_023,Junior,Consulta plan específico región,Técnico,True,NOC_Oeste,True,True,8.99,8,CLI_18438,Presencial,Media,Baja
+TKT_000081,2025-07-16 12:12:36,2025-07-16 13:22:12,TV Cable,VIP,ASE_009,Asesor_006,Senior,Problema VoIP corporativa,Soporte,True,NOC_Este,True,True,1.16,10,CLI_33671,Telefono,Alta,Alta
+TKT_000082,2025-07-31 12:12:36,2025-07-31 21:15:00,TV Cable,Regular,ASE_041,Asesor_030,Semi-Senior,Sin señal TV canal específico,Soporte,True,NOC_Central,True,True,9.04,5,CLI_39889,Telefono,Media,Baja
+TKT_000083,2025-06-24 12:12:36,2025-06-25 10:28:12,Móvil Prepago,Regular,ASE_013,Asesor_044,Senior,Lentitud navegación específica,Técnico,True,NOC_Oeste,False,False,22.26,3,CLI_24948,Web,Baja,Alta
+TKT_000084,2025-07-24 12:12:36,2025-07-25 00:44:24,Telefonía Fija,Regular,ASE_018,Asesor_039,Senior,Consulta plan específico región,Comercial,True,NOC_Oeste,False,True,12.53,2,CLI_20909,Presencial,Alta,Baja
+TKT_000085,2025-06-24 12:12:36,2025-06-25 07:19:48,Internet Hogar,Premium,ASE_049,Asesor_014,Junior,Error configuración router,Técnico,True,NOC_Sur,False,True,19.12,3,CLI_42682,Telefono,Baja,Media
+TKT_000086,2025-08-08 12:12:36,2025-08-08 15:16:12,Internet Hogar,Regular,ASE_010,Asesor_010,Junior,Solicitud certificado ingresos,Comercial,False,,False,False,3.06,4,CLI_32250,Presencial,Media,Media
+TKT_000087,2025-06-21 12:12:36,2025-06-23 03:34:12,Internet Móvil,Básico,ASE_042,Asesor_041,Semi-Senior,Cambio plan mayor capacidad,Soporte,False,,True,False,39.36,7,CLI_42127,Telefono,Alta,Media
+TKT_000088,2025-08-04 12:12:36,2025-08-05 20:07:12,Empresarial,VIP,ASE_022,Asesor_025,Senior,Actualización datos personales,Soporte,True,NOC_Central,True,False,31.91,3,CLI_47911,Telefono,Media,Baja
+TKT_000089,2025-08-27 12:12:36,2025-08-28 17:48:36,Móvil Prepago,Básico,ASE_016,Asesor_022,Junior,Sin señal TV canal específico,Soporte,True,NOC_Oeste,False,False,29.6,1,CLI_46343,Web,Baja,Alta
+TKT_000090,2025-07-27 12:12:36,2025-07-29 04:38:24,Móvil Prepago,Regular,ASE_002,Asesor_050,Semi-Senior,Error configuración router,Soporte,False,,False,True,40.43,8,CLI_24329,Web,Media,Alta
+TKT_000091,2025-07-05 12:12:36,2025-07-07 06:55:48,Telefonía Fija,Regular,ASE_002,Asesor_038,Senior,Corte intermitente fibra,Soporte,False,,False,False,42.72,4,CLI_31863,Presencial,Alta,Alta
+TKT_000092,2025-09-13 12:12:36,2025-09-14 10:15:00,Empresarial,VIP,ASE_046,Asesor_018,Senior,Duda promoción temporal,Técnico,False,,True,False,22.04,1,CLI_00041,App,Media,Alta
+TKT_000093,2025-06-24 12:12:36,2025-06-25 13:43:12,Empresarial,Regular,ASE_048,Asesor_021,Senior,Falla WiFi 5GHz específica,Comercial,False,,True,False,25.51,10,CLI_36377,Web,Alta,Media
+TKT_000094,2025-06-19 12:12:36,2025-06-20 16:44:24,Internet Móvil,Regular,ASE_033,Asesor_045,Semi-Senior,Duda promoción temporal,Retención,False,,False,True,28.53,8,CLI_15445,Telefono,Baja,Media
+TKT_000095,2025-08-18 12:12:36,2025-08-18 16:45:00,Móvil Prepago,Premium,ASE_014,Asesor_045,Senior,Actualización datos personales,Comercial,False,,False,True,4.54,4,CLI_35780,Presencial,Alta,Baja
+TKT_000096,2025-06-29 12:12:36,2025-06-30 07:28:48,Internet Hogar,Regular,ASE_039,Asesor_040,Junior,Actualización datos personales,Comercial,True,NOC_Norte,True,True,19.27,2,CLI_14373,Telefono,Baja,Media
+TKT_000097,2025-08-03 12:12:36,2025-08-03 20:38:24,Internet Móvil,Regular,ASE_002,Asesor_025,Semi-Senior,Consulta plan específico región,Técnico,True,NOC_Norte,True,False,8.43,8,CLI_06001,Telefono,Alta,Baja
+TKT_000098,2025-08-29 12:12:36,2025-08-29 23:47:24,Móvil Prepago,Básico,ASE_034,Asesor_017,Semi-Senior,Consulta plan específico región,Técnico,True,NOC_Central,False,True,11.58,4,CLI_46812,Presencial,Baja,Baja
+TKT_000099,2025-07-31 12:12:36,2025-08-01 15:06:00,Empresarial,Básico,ASE_043,Asesor_047,Semi-Senior,Corte intermitente fibra,Soporte,False,,True,True,26.89,9,CLI_06972,Presencial,Alta,Alta
+TKT_000100,2025-07-28 12:12:36,2025-07-29 09:01:12,TV Cable,Básico,ASE_041,Asesor_022,Junior,Falla WiFi 5GHz específica,Comercial,False,,False,True,20.81,9,CLI_26257,App,Alta,Media
+TKT_000101,2025-08-23 12:12:36,2025-08-24 01:56:24,Internet Hogar,Básico,ASE_003,Asesor_013,Senior,Problema VoIP corporativa,Técnico,False,,False,False,13.73,5,CLI_00947,Presencial,Media,Baja
+TKT_000102,2025-09-04 12:12:36,2025-09-06 09:57:36,Empresarial,Regular,ASE_014,Asesor_034,Semi-Senior,Cambio plan mayor capacidad,Retención,False,,False,False,45.75,9,CLI_40059,App,Alta,Alta
+TKT_000103,2025-09-02 12:12:36,2025-09-02 17:12:00,Empresarial,VIP,ASE_005,Asesor_020,Senior,Problema VoIP corporativa,Retención,False,,False,False,4.99,6,CLI_02076,Telefono,Media,Alta
+TKT_000104,2025-08-02 12:12:36,2025-08-04 02:34:12,Internet Móvil,Premium,ASE_012,Asesor_020,Senior,Sin señal TV canal específico,Soporte,True,NOC_Central,True,True,38.36,8,CLI_15108,Web,Media,Media
+TKT_000105,2025-07-06 12:12:36,2025-07-08 07:08:24,Internet Hogar,Premium,ASE_013,Asesor_016,Junior,Solicitud certificado ingresos,Técnico,False,,True,False,42.93,1,CLI_00918,App,Baja,Media
+TKT_000106,2025-08-16 12:12:36,2025-08-17 11:07:48,Móvil Prepago,Premium,ASE_039,Asesor_011,Senior,Corte intermitente fibra,Comercial,False,,False,False,22.92,3,CLI_06574,Telefono,Baja,Baja
+TKT_000107,2025-08-23 12:12:36,2025-08-25 11:25:12,Internet Hogar,Premium,ASE_038,Asesor_007,Senior,Actualización datos personales,Retención,False,,True,False,47.21,10,CLI_11474,Telefono,Alta,Alta
+TKT_000108,2025-08-04 12:12:36,2025-08-05 15:39:00,Móvil Postpago,Premium,ASE_015,Asesor_008,Senior,Sin señal TV canal específico,Comercial,False,,False,False,27.44,5,CLI_40491,App,Baja,Alta
+TKT_000109,2025-07-29 12:12:36,2025-07-29 18:34:12,TV Cable,Básico,ASE_050,Asesor_002,Junior,Problema VoIP corporativa,Retención,False,,False,False,6.36,6,CLI_05090,Telefono,Media,Alta
+TKT_000110,2025-07-19 12:12:36,2025-07-21 03:39:36,Móvil Prepago,Premium,ASE_026,Asesor_013,Semi-Senior,Actualización datos personales,Retención,False,,True,False,39.45,1,CLI_08141,Telefono,Media,Media
+TKT_000111,2025-07-23 12:12:36,2025-07-25 03:28:48,Telefonía Fija,Regular,ASE_041,Asesor_034,Senior,Lentitud navegación específica,Técnico,False,,False,False,39.27,3,CLI_34460,App,Alta,Media
+TKT_000112,2025-07-24 12:12:36,2025-07-24 15:57:36,Empresarial,Premium,ASE_048,Asesor_005,Semi-Senior,Cambio plan mayor capacidad,Técnico,False,,False,False,3.75,5,CLI_12003,Web,Alta,Alta
+TKT_000113,2025-06-29 12:12:36,2025-06-29 16:07:48,Telefonía Fija,VIP,ASE_010,Asesor_006,Senior,Problema VoIP corporativa,Retención,False,,True,False,3.92,10,CLI_02299,Telefono,Media,Media
+TKT_000114,2025-06-18 12:12:36,2025-06-18 13:30:36,Internet Móvil,Básico,ASE_042,Asesor_030,Senior,Problema VoIP corporativa,Soporte,False,,False,False,1.3,8,CLI_20228,Telefono,Media,Alta
+TKT_000115,2025-07-05 12:12:36,2025-07-06 20:39:36,Internet Móvil,Básico,ASE_010,Asesor_009,Junior,Cambio email contacto,Soporte,True,NOC_Oeste,True,False,32.45,7,CLI_47442,Presencial,Media,Baja
+TKT_000116,2025-06-23 12:12:36,2025-06-24 16:10:48,Móvil Prepago,Premium,ASE_041,Asesor_014,Junior,Problema VoIP corporativa,Comercial,True,NOC_Este,False,True,27.97,9,CLI_47672,Presencial,Media,Alta
+TKT_000117,2025-07-16 12:12:36,2025-07-17 01:58:48,Telefonía Fija,VIP,ASE_006,Asesor_019,Junior,Sin señal TV canal específico,Retención,False,,False,False,13.77,4,CLI_13138,App,Baja,Baja
+TKT_000118,2025-08-06 12:12:36,2025-08-07 15:41:24,Empresarial,Regular,ASE_047,Asesor_038,Semi-Senior,Corte intermitente fibra,Técnico,False,,True,True,27.48,7,CLI_09277,Presencial,Baja,Baja
+TKT_000119,2025-06-22 12:12:36,2025-06-24 02:04:48,Móvil Prepago,Regular,ASE_018,Asesor_005,Junior,Sin señal TV canal específico,Retención,False,,True,True,37.87,6,CLI_01386,Presencial,Media,Media
+TKT_000120,2025-09-04 12:12:36,2025-09-05 14:01:48,Telefonía Fija,Básico,ASE_049,Asesor_039,Junior,Corte intermitente fibra,Técnico,False,,True,True,25.82,6,CLI_08574,Web,Media,Media
+TKT_000121,2025-07-16 12:12:36,2025-07-18 01:24:00,TV Cable,Regular,ASE_048,Asesor_029,Senior,Problema VoIP corporativa,Soporte,False,,True,True,37.19,3,CLI_02032,Web,Alta,Media
+TKT_000122,2025-08-28 12:12:36,2025-08-28 21:57:36,Telefonía Fija,Premium,ASE_047,Asesor_012,Semi-Senior,Consulta plan específico región,Técnico,True,NOC_Sur,True,True,9.75,5,CLI_28486,App,Alta,Alta
+TKT_000123,2025-08-09 12:12:36,2025-08-11 05:02:24,Telefonía Fija,Premium,ASE_018,Asesor_037,Semi-Senior,Actualización datos personales,Soporte,False,,False,True,40.83,9,CLI_47914,App,Media,Alta
+TKT_000124,2025-07-29 12:12:36,2025-07-31 05:22:48,Móvil Postpago,Regular,ASE_010,Asesor_049,Senior,Lentitud navegación específica,Comercial,True,NOC_Norte,True,False,41.17,7,CLI_12409,App,Media,Alta
+TKT_000125,2025-09-05 12:12:36,2025-09-05 13:44:24,Empresarial,VIP,ASE_026,Asesor_037,Semi-Senior,Duda promoción temporal,Soporte,False,,False,False,1.53,6,CLI_42071,Web,Baja,Media
+TKT_000126,2025-06-21 12:12:36,2025-06-23 00:28:48,Internet Móvil,Regular,ASE_044,Asesor_002,Junior,Error configuración router,Comercial,True,NOC_Este,False,True,36.27,10,CLI_44048,Web,Baja,Baja
+TKT_000127,2025-07-21 12:12:36,2025-07-22 18:52:12,TV Cable,Premium,ASE_024,Asesor_039,Junior,Error configuración router,Soporte,True,NOC_Este,True,True,30.66,4,CLI_01010,Telefono,Media,Baja
+TKT_000128,2025-06-24 12:12:36,2025-06-24 13:46:48,TV Cable,Regular,ASE_019,Asesor_042,Senior,Duda promoción temporal,Técnico,True,NOC_Este,False,False,1.57,3,CLI_16491,Web,Baja,Media
+TKT_000129,2025-08-13 12:12:36,2025-08-14 12:42:36,Telefonía Fija,Básico,ASE_049,Asesor_002,Junior,Solicitud certificado ingresos,Técnico,False,,False,False,24.5,5,CLI_21673,App,Alta,Media
+TKT_000130,2025-09-03 12:12:36,2025-09-04 17:17:24,Móvil Prepago,VIP,ASE_050,Asesor_044,Senior,Error configuración router,Técnico,False,,False,True,29.08,10,CLI_00913,Presencial,Baja,Media
+TKT_000131,2025-08-15 12:12:36,2025-08-16 10:21:36,Móvil Postpago,Básico,ASE_033,Asesor_017,Semi-Senior,Falla WiFi 5GHz específica,Técnico,True,NOC_Central,True,True,22.15,2,CLI_32576,App,Alta,Alta
+TKT_000132,2025-08-19 12:12:36,2025-08-21 05:26:24,Móvil Postpago,VIP,ASE_037,Asesor_043,Junior,Consulta plan específico región,Comercial,True,NOC_Central,True,True,41.23,3,CLI_33891,App,Media,Media
+TKT_000133,2025-08-12 12:12:36,2025-08-13 12:16:12,TV Cable,Premium,ASE_047,Asesor_022,Semi-Senior,Problema VoIP corporativa,Comercial,False,,False,False,24.06,8,CLI_34892,Web,Baja,Baja
+TKT_000134,2025-06-19 12:12:36,2025-06-19 16:47:24,Telefonía Fija,Regular,ASE_001,Asesor_029,Senior,Lentitud navegación específica,Comercial,True,NOC_Oeste,True,True,4.58,5,CLI_06945,App,Media,Alta
+TKT_000135,2025-09-11 12:12:36,2025-09-11 23:28:12,Móvil Postpago,VIP,ASE_042,Asesor_020,Semi-Senior,Duda promoción temporal,Retención,False,,False,True,11.26,10,CLI_08167,Web,Baja,Media
+TKT_000136,2025-07-15 12:12:36,2025-07-15 13:19:48,Internet Móvil,Premium,ASE_011,Asesor_023,Senior,Solicitud certificado ingresos,Retención,False,,False,False,1.12,10,CLI_27727,Web,Alta,Alta
+TKT_000137,2025-07-17 12:12:36,2025-07-18 16:50:24,Telefonía Fija,Regular,ASE_001,Asesor_030,Senior,Sin señal TV canal específico,Retención,False,,False,True,28.63,10,CLI_16108,Telefono,Baja,Baja
+TKT_000138,2025-06-26 12:12:36,2025-06-27 12:05:24,Móvil Postpago,Regular,ASE_036,Asesor_012,Senior,Solicitud certificado ingresos,Comercial,True,NOC_Sur,False,False,23.88,8,CLI_03189,App,Media,Media
+TKT_000139,2025-08-11 12:12:36,2025-08-12 06:42:36,Empresarial,Regular,ASE_029,Asesor_030,Semi-Senior,Cambio plan mayor capacidad,Técnico,True,NOC_Sur,False,True,18.5,9,CLI_19504,Telefono,Media,Media
+TKT_000140,2025-08-04 12:12:36,2025-08-06 05:01:12,Móvil Postpago,VIP,ASE_027,Asesor_043,Senior,Solicitud certificado ingresos,Técnico,False,,True,False,40.81,8,CLI_44413,Web,Media,Alta
+TKT_000141,2025-06-30 12:12:36,2025-07-01 02:32:24,Internet Hogar,VIP,ASE_036,Asesor_006,Junior,Cambio email contacto,Técnico,True,NOC_Oeste,False,True,14.33,5,CLI_20157,Telefono,Media,Alta
+TKT_000142,2025-09-13 12:12:36,2025-09-15 01:37:12,Empresarial,Premium,ASE_010,Asesor_031,Junior,Lentitud navegación específica,Comercial,False,,False,True,37.41,4,CLI_19191,Web,Alta,Media
+TKT_000143,2025-07-17 12:12:36,2025-07-18 20:19:48,Telefonía Fija,Premium,ASE_018,Asesor_004,Junior,Problema VoIP corporativa,Soporte,False,,True,True,32.12,5,CLI_33469,Web,Baja,Baja
+TKT_000144,2025-07-05 12:12:36,2025-07-07 06:28:48,TV Cable,Básico,ASE_045,Asesor_010,Semi-Senior,Actualización datos personales,Retención,False,,False,False,42.27,5,CLI_12681,Web,Baja,Baja
+TKT_000145,2025-08-11 12:12:36,2025-08-13 04:31:48,Telefonía Fija,VIP,ASE_030,Asesor_036,Senior,Cambio plan mayor capacidad,Retención,False,,False,False,40.32,2,CLI_23188,Web,Alta,Alta
+TKT_000146,2025-07-07 12:12:36,2025-07-08 04:59:24,Móvil Prepago,Regular,ASE_025,Asesor_039,Junior,Sin señal TV canal específico,Soporte,False,,False,False,16.78,4,CLI_11187,Presencial,Media,Media
+TKT_000147,2025-07-09 12:12:36,2025-07-10 07:25:48,Móvil Prepago,Básico,ASE_003,Asesor_035,Semi-Senior,Corte intermitente fibra,Soporte,False,,False,True,19.22,9,CLI_03472,Presencial,Baja,Media
+TKT_000148,2025-09-08 12:12:36,2025-09-08 13:17:24,Internet Móvil,Regular,ASE_024,Asesor_022,Senior,Problema VoIP corporativa,Retención,True,NOC_Este,True,False,1.08,10,CLI_48788,Telefono,Media,Baja
+TKT_000149,2025-08-13 12:12:36,2025-08-13 16:59:24,Telefonía Fija,Regular,ASE_028,Asesor_019,Semi-Senior,Duda promoción temporal,Técnico,False,,True,True,4.78,5,CLI_16596,App,Alta,Alta
+TKT_000150,2025-07-30 12:12:36,2025-07-30 12:53:24,Móvil Postpago,Regular,ASE_003,Asesor_026,Semi-Senior,Duda promoción temporal,Soporte,False,,True,False,0.68,6,CLI_19556,App,Alta,Alta
+TKT_000151,2025-07-26 12:12:36,2025-07-27 03:57:36,Empresarial,Básico,ASE_019,Asesor_016,Junior,Lentitud navegación específica,Comercial,False,,False,False,15.75,4,CLI_05879,Telefono,Baja,Media
+TKT_000152,2025-07-10 12:12:36,2025-07-11 09:06:00,Telefonía Fija,Premium,ASE_040,Asesor_026,Senior,Sin señal TV canal específico,Técnico,True,NOC_Central,True,False,20.89,5,CLI_33597,App,Media,Baja
+TKT_000153,2025-07-31 12:12:36,2025-08-01 11:03:36,Telefonía Fija,Regular,ASE_004,Asesor_005,Junior,Lentitud navegación específica,Comercial,True,NOC_Norte,True,False,22.85,10,CLI_05875,App,Alta,Baja
+TKT_000154,2025-08-02 12:12:36,2025-08-03 04:32:24,Empresarial,Básico,ASE_050,Asesor_017,Senior,Cambio plan mayor capacidad,Técnico,True,NOC_Este,True,False,16.33,10,CLI_16351,Presencial,Baja,Alta
+TKT_000155,2025-07-12 12:12:36,2025-07-13 12:49:12,Empresarial,Básico,ASE_046,Asesor_038,Semi-Senior,Falla WiFi 5GHz específica,Soporte,True,NOC_Norte,False,False,24.61,3,CLI_18746,Web,Media,Media
+TKT_000156,2025-08-13 12:12:36,2025-08-14 02:42:36,Telefonía Fija,Premium,ASE_001,Asesor_006,Junior,Actualización datos personales,Comercial,True,NOC_Norte,False,False,14.5,3,CLI_15500,Web,Alta,Media
+TKT_000157,2025-09-12 12:12:36,2025-09-14 09:55:48,TV Cable,Premium,ASE_047,Asesor_036,Semi-Senior,Error configuración router,Técnico,True,NOC_Sur,False,False,45.72,3,CLI_36797,Web,Media,Baja
+TKT_000158,2025-07-13 12:12:36,2025-07-14 18:20:24,Internet Móvil,Regular,ASE_050,Asesor_010,Junior,Duda promoción temporal,Técnico,False,,False,False,30.13,4,CLI_06821,App,Media,Alta
+TKT_000159,2025-07-09 12:12:36,2025-07-10 04:18:00,Internet Móvil,Básico,ASE_018,Asesor_023,Semi-Senior,Corte intermitente fibra,Comercial,True,NOC_Oeste,True,True,16.09,8,CLI_37858,Telefono,Baja,Media
+TKT_000160,2025-08-15 12:12:36,2025-08-17 04:31:12,Internet Móvil,Básico,ASE_048,Asesor_010,Semi-Senior,Lentitud navegación específica,Comercial,True,NOC_Oeste,False,False,40.31,3,CLI_07575,Telefono,Baja,Alta
+TKT_000161,2025-08-30 12:12:36,2025-08-30 20:51:00,Móvil Prepago,Premium,ASE_049,Asesor_040,Semi-Senior,Solicitud certificado ingresos,Retención,False,,True,True,8.64,9,CLI_05792,Presencial,Media,Baja
+TKT_000162,2025-07-03 12:12:36,2025-07-03 19:42:36,Internet Hogar,VIP,ASE_041,Asesor_012,Senior,Corte intermitente fibra,Soporte,True,NOC_Oeste,True,False,7.5,6,CLI_32449,Telefono,Media,Baja
+TKT_000163,2025-09-01 12:12:36,2025-09-02 20:36:00,Móvil Prepago,VIP,ASE_003,Asesor_045,Semi-Senior,Solicitud certificado ingresos,Soporte,True,NOC_Central,True,False,32.39,5,CLI_41593,Telefono,Baja,Baja
+TKT_000164,2025-08-21 12:12:36,2025-08-21 13:26:24,Empresarial,VIP,ASE_011,Asesor_024,Junior,Cambio email contacto,Comercial,False,,True,True,1.23,5,CLI_08524,Presencial,Alta,Alta
+TKT_000165,2025-08-09 12:12:36,2025-08-11 01:06:00,Internet Móvil,Premium,ASE_031,Asesor_021,Senior,Duda promoción temporal,Soporte,False,,False,False,36.89,10,CLI_18704,Telefono,Alta,Media
+TKT_000166,2025-07-28 12:12:36,2025-07-28 19:24:00,Móvil Postpago,Regular,ASE_048,Asesor_034,Semi-Senior,Falla WiFi 5GHz específica,Comercial,False,,False,False,7.19,3,CLI_14874,Presencial,Alta,Alta
+TKT_000167,2025-08-22 12:12:36,2025-08-24 11:38:24,Móvil Prepago,Básico,ASE_001,Asesor_048,Senior,Error configuración router,Técnico,False,,True,True,47.43,3,CLI_11846,Presencial,Baja,Media
+TKT_000168,2025-07-03 12:12:36,2025-07-04 06:16:12,Móvil Prepago,Básico,ASE_008,Asesor_023,Junior,Actualización datos personales,Retención,False,,False,False,18.06,10,CLI_12456,Telefono,Baja,Media
+TKT_000169,2025-09-13 12:12:36,2025-09-15 00:17:24,Empresarial,Regular,ASE_037,Asesor_044,Senior,Sin señal TV canal específico,Comercial,False,,False,False,36.08,5,CLI_28759,Telefono,Media,Baja
+TKT_000170,2025-08-18 12:12:36,2025-08-20 08:44:24,Telefonía Fija,VIP,ASE_025,Asesor_049,Senior,Lentitud navegación específica,Comercial,True,NOC_Norte,True,True,44.53,7,CLI_19208,App,Media,Baja
+TKT_000171,2025-08-30 12:12:36,2025-09-01 01:31:48,Móvil Prepago,VIP,ASE_042,Asesor_018,Junior,Sin señal TV canal específico,Técnico,True,NOC_Oeste,False,True,37.32,8,CLI_33478,Web,Alta,Alta
+TKT_000172,2025-08-24 12:12:36,2025-08-26 07:33:36,Internet Hogar,Regular,ASE_007,Asesor_005,Senior,Error configuración router,Comercial,False,,True,True,43.35,4,CLI_28175,Telefono,Baja,Alta
+TKT_000173,2025-09-04 12:12:36,2025-09-06 02:39:36,TV Cable,Regular,ASE_021,Asesor_049,Semi-Senior,Falla WiFi 5GHz específica,Técnico,True,NOC_Oeste,True,True,38.45,2,CLI_31397,Presencial,Alta,Baja
+TKT_000174,2025-07-12 12:12:36,2025-07-14 09:32:24,Empresarial,VIP,ASE_008,Asesor_010,Junior,Corte intermitente fibra,Soporte,True,NOC_Sur,False,False,45.33,5,CLI_18530,Telefono,Alta,Alta
+TKT_000175,2025-06-19 12:12:36,2025-06-19 17:28:12,Internet Móvil,Básico,ASE_009,Asesor_038,Senior,Solicitud certificado ingresos,Comercial,False,,True,True,5.26,9,CLI_38343,Web,Baja,Baja
+TKT_000176,2025-08-13 12:12:36,2025-08-15 05:13:12,TV Cable,VIP,ASE_035,Asesor_021,Senior,Duda promoción temporal,Comercial,True,NOC_Norte,False,True,41.01,3,CLI_02311,Presencial,Alta,Alta
+TKT_000177,2025-09-14 12:12:36,2025-09-14 14:11:24,Empresarial,VIP,ASE_025,Asesor_024,Junior,Falla WiFi 5GHz específica,Comercial,False,,False,False,1.98,5,CLI_31929,Web,Media,Baja
+TKT_000178,2025-09-14 12:12:36,2025-09-16 01:40:48,Internet Móvil,Premium,ASE_040,Asesor_040,Semi-Senior,Solicitud certificado ingresos,Técnico,True,NOC_Este,False,False,37.47,7,CLI_03270,Web,Baja,Alta
+TKT_000179,2025-09-10 12:12:36,2025-09-11 11:30:00,Internet Móvil,Básico,ASE_009,Asesor_022,Junior,Consulta plan específico región,Retención,False,,False,True,23.29,4,CLI_45968,App,Alta,Baja
+TKT_000180,2025-09-01 12:12:36,2025-09-01 13:41:24,Móvil Prepago,VIP,ASE_022,Asesor_031,Junior,Corte intermitente fibra,Técnico,True,NOC_Central,True,True,1.48,6,CLI_00599,Web,Baja,Alta
+TKT_000181,2025-07-16 12:12:36,2025-07-16 17:03:00,Empresarial,Básico,ASE_043,Asesor_027,Senior,Sin señal TV canal específico,Retención,True,NOC_Oeste,True,False,4.84,2,CLI_36772,Presencial,Alta,Media
+TKT_000182,2025-08-04 12:12:36,2025-08-06 08:21:00,TV Cable,Premium,ASE_009,Asesor_015,Junior,Duda promoción temporal,Retención,True,NOC_Sur,True,True,44.14,8,CLI_18957,Presencial,Media,Alta
+TKT_000183,2025-08-06 12:12:36,2025-08-07 10:33:36,Móvil Prepago,Regular,ASE_041,Asesor_034,Semi-Senior,Cambio email contacto,Soporte,True,NOC_Norte,True,False,22.35,9,CLI_28045,App,Alta,Alta
+TKT_000184,2025-07-20 12:12:36,2025-07-22 04:27:00,Empresarial,Premium,ASE_050,Asesor_046,Senior,Sin señal TV canal específico,Soporte,True,NOC_Norte,False,False,40.24,4,CLI_27968,Presencial,Baja,Media
+TKT_000185,2025-08-26 12:12:36,2025-08-28 08:40:48,Móvil Postpago,VIP,ASE_027,Asesor_012,Senior,Falla WiFi 5GHz específica,Retención,False,,False,False,44.47,9,CLI_11735,Telefono,Media,Alta
+TKT_000186,2025-08-28 12:12:36,2025-08-29 10:58:48,Móvil Prepago,Regular,ASE_031,Asesor_021,Senior,Actualización datos personales,Retención,True,NOC_Norte,False,False,22.77,5,CLI_42765,Presencial,Media,Baja
+TKT_000187,2025-09-06 12:12:36,2025-09-06 14:49:48,Internet Hogar,Regular,ASE_022,Asesor_006,Senior,Cambio plan mayor capacidad,Comercial,True,NOC_Este,False,False,2.62,7,CLI_19082,Telefono,Baja,Baja
+TKT_000188,2025-08-15 12:12:36,2025-08-17 08:42:36,Internet Hogar,Regular,ASE_013,Asesor_006,Senior,Lentitud navegación específica,Retención,True,NOC_Norte,False,True,44.5,8,CLI_23801,App,Alta,Alta
+TKT_000189,2025-08-19 12:12:36,2025-08-19 23:23:24,Telefonía Fija,Básico,ASE_022,Asesor_047,Junior,Duda promoción temporal,Técnico,False,,True,True,11.18,5,CLI_31189,Presencial,Alta,Baja
+TKT_000190,2025-07-02 12:12:36,2025-07-03 17:42:36,Internet Hogar,Premium,ASE_038,Asesor_022,Semi-Senior,Problema VoIP corporativa,Retención,True,NOC_Sur,True,True,29.5,10,CLI_42525,App,Alta,Baja
+TKT_000191,2025-08-20 12:12:36,2025-08-21 18:25:12,Móvil Prepago,Básico,ASE_034,Asesor_046,Semi-Senior,Lentitud navegación específica,Retención,False,,True,True,30.21,9,CLI_10334,Web,Baja,Alta
+TKT_000192,2025-08-29 12:12:36,2025-08-31 09:39:36,Telefonía Fija,Premium,ASE_041,Asesor_031,Semi-Senior,Cambio plan mayor capacidad,Comercial,True,NOC_Central,False,False,45.45,8,CLI_13879,Web,Media,Alta
+TKT_000193,2025-08-13 12:12:36,2025-08-13 20:51:00,Móvil Prepago,VIP,ASE_023,Asesor_005,Semi-Senior,Cambio email contacto,Retención,True,NOC_Norte,False,True,8.64,6,CLI_15815,Presencial,Baja,Baja
+TKT_000194,2025-08-13 12:12:36,2025-08-13 16:11:24,Móvil Postpago,VIP,ASE_024,Asesor_048,Semi-Senior,Error configuración router,Técnico,True,NOC_Norte,False,True,3.98,5,CLI_02275,Web,Alta,Baja
+TKT_000195,2025-06-25 12:12:36,2025-06-27 08:46:12,Telefonía Fija,VIP,ASE_032,Asesor_026,Junior,Lentitud navegación específica,Comercial,False,,True,True,44.56,2,CLI_21662,App,Baja,Media
+TKT_000196,2025-08-28 12:12:36,2025-08-28 18:36:36,Internet Móvil,Básico,ASE_043,Asesor_017,Senior,Actualización datos personales,Retención,False,,True,True,6.4,5,CLI_14289,Telefono,Alta,Alta
+TKT_000197,2025-08-29 12:12:36,2025-08-30 18:16:12,Internet Hogar,Regular,ASE_032,Asesor_049,Senior,Problema VoIP corporativa,Soporte,False,,True,True,30.06,10,CLI_04965,Presencial,Baja,Media
+TKT_000198,2025-06-25 12:12:36,2025-06-26 13:45:36,Móvil Prepago,Regular,ASE_018,Asesor_037,Junior,Error configuración router,Retención,False,,False,True,25.55,5,CLI_43393,Telefono,Media,Media
+TKT_000199,2025-08-02 12:12:36,2025-08-02 20:23:24,Telefonía Fija,Básico,ASE_006,Asesor_023,Semi-Senior,Problema VoIP corporativa,Soporte,False,,False,False,8.18,8,CLI_26448,Telefono,Baja,Media
+TKT_000200,2025-08-10 12:12:36,2025-08-11 12:33:00,Internet Móvil,Básico,ASE_050,Asesor_025,Senior,Sin señal TV canal específico,Comercial,False,,False,True,24.34,3,CLI_37297,Telefono,Media,Alta
+TKT_000201,2025-07-21 12:12:36,2025-07-21 17:05:24,TV Cable,Básico,ASE_006,Asesor_034,Semi-Senior,Problema VoIP corporativa,Técnico,False,,True,True,4.88,5,CLI_02609,Presencial,Media,Media
+TKT_000202,2025-07-17 12:12:36,2025-07-18 08:39:00,TV Cable,Básico,ASE_009,Asesor_037,Junior,Problema VoIP corporativa,Retención,False,,True,True,20.44,5,CLI_16596,App,Media,Media
+TKT_000203,2025-08-14 12:12:36,2025-08-15 21:28:12,Móvil Postpago,Básico,ASE_045,Asesor_038,Junior,Error configuración router,Técnico,True,NOC_Sur,True,True,33.26,8,CLI_23529,Presencial,Baja,Alta
+TKT_000204,2025-09-06 12:12:36,2025-09-08 06:00:36,Empresarial,Regular,ASE_027,Asesor_031,Semi-Senior,Problema VoIP corporativa,Retención,True,NOC_Central,True,False,41.8,10,CLI_45075,App,Alta,Media
+TKT_000205,2025-08-23 12:12:36,2025-08-25 11:50:24,Empresarial,VIP,ASE_015,Asesor_016,Junior,Sin señal TV canal específico,Soporte,False,,False,False,47.63,8,CLI_17992,App,Alta,Alta
+TKT_000206,2025-06-28 12:12:36,2025-06-29 15:42:36,Telefonía Fija,VIP,ASE_018,Asesor_027,Semi-Senior,Error configuración router,Comercial,False,,False,False,27.5,8,CLI_28443,App,Baja,Baja
+TKT_000207,2025-08-09 12:12:36,2025-08-11 03:28:48,Empresarial,Regular,ASE_017,Asesor_035,Senior,Corte intermitente fibra,Técnico,False,,True,True,39.27,3,CLI_49126,Telefono,Media,Baja
+TKT_000208,2025-06-21 12:12:36,2025-06-22 03:11:24,Internet Hogar,Regular,ASE_026,Asesor_012,Junior,Cambio email contacto,Técnico,False,,True,True,14.98,5,CLI_44945,Telefono,Alta,Media
+TKT_000209,2025-07-29 12:12:36,2025-07-30 03:16:48,Empresarial,Básico,ASE_015,Asesor_035,Junior,Cambio email contacto,Técnico,True,NOC_Central,True,True,15.07,6,CLI_22068,Presencial,Baja,Alta
+TKT_000210,2025-08-06 12:12:36,2025-08-06 16:33:36,Móvil Prepago,VIP,ASE_011,Asesor_021,Junior,Cambio plan mayor capacidad,Retención,False,,True,False,4.35,2,CLI_27673,Telefono,Alta,Baja
+TKT_000211,2025-07-18 12:12:36,2025-07-18 16:54:36,Internet Móvil,VIP,ASE_015,Asesor_036,Senior,Actualización datos personales,Técnico,False,,False,False,4.7,4,CLI_40301,Presencial,Alta,Baja
+TKT_000212,2025-09-15 12:12:36,2025-09-16 12:37:12,Telefonía Fija,Premium,ASE_010,Asesor_004,Junior,Problema VoIP corporativa,Comercial,False,,True,True,24.41,10,CLI_11235,App,Media,Baja
+TKT_000213,2025-09-10 12:12:36,2025-09-11 18:57:00,Móvil Postpago,VIP,ASE_005,Asesor_035,Senior,Consulta plan específico región,Técnico,False,,False,True,30.74,4,CLI_07603,Telefono,Media,Alta
+TKT_000214,2025-07-22 12:12:36,2025-07-22 16:16:48,Internet Hogar,Regular,ASE_010,Asesor_033,Junior,Problema VoIP corporativa,Retención,False,,False,True,4.07,3,CLI_04083,Telefono,Alta,Alta
+TKT_000215,2025-07-27 12:12:36,2025-07-29 05:39:00,TV Cable,Regular,ASE_019,Asesor_032,Junior,Lentitud navegación específica,Retención,True,NOC_Norte,False,True,41.44,6,CLI_22658,App,Baja,Alta
+TKT_000216,2025-07-25 12:12:36,2025-07-27 05:35:24,TV Cable,Regular,ASE_028,Asesor_029,Senior,Duda promoción temporal,Soporte,False,,True,True,41.38,1,CLI_20354,Presencial,Media,Baja
+TKT_000217,2025-08-06 12:12:36,2025-08-06 17:15:00,Móvil Postpago,Básico,ASE_009,Asesor_046,Semi-Senior,Falla WiFi 5GHz específica,Comercial,False,,True,True,5.04,3,CLI_42147,Telefono,Media,Media
+TKT_000218,2025-09-11 12:12:36,2025-09-12 14:02:24,Internet Hogar,Premium,ASE_003,Asesor_025,Junior,Solicitud certificado ingresos,Retención,False,,True,True,25.83,4,CLI_21067,App,Media,Alta
+TKT_000219,2025-07-23 12:12:36,2025-07-24 12:28:12,Internet Móvil,Regular,ASE_013,Asesor_004,Senior,Cambio plan mayor capacidad,Técnico,False,,False,False,24.26,2,CLI_15128,Web,Alta,Baja
+TKT_000220,2025-07-17 12:12:36,2025-07-19 05:44:24,TV Cable,Premium,ASE_043,Asesor_004,Senior,Error configuración router,Soporte,False,,False,True,41.53,2,CLI_26761,App,Alta,Alta
+TKT_000221,2025-08-11 12:12:36,2025-08-12 16:18:00,TV Cable,VIP,ASE_043,Asesor_047,Semi-Senior,Duda promoción temporal,Retención,False,,False,True,28.09,1,CLI_05844,Presencial,Media,Alta
+TKT_000222,2025-08-25 12:12:36,2025-08-25 18:23:24,Internet Hogar,Regular,ASE_026,Asesor_011,Semi-Senior,Solicitud certificado ingresos,Retención,True,NOC_Oeste,True,True,6.18,4,CLI_01235,App,Baja,Media
+TKT_000223,2025-08-15 12:12:36,2025-08-16 19:09:00,Telefonía Fija,Regular,ASE_019,Asesor_017,Semi-Senior,Falla WiFi 5GHz específica,Comercial,False,,True,False,30.94,5,CLI_01963,Web,Alta,Media
+TKT_000224,2025-09-12 12:12:36,2025-09-12 23:58:12,Móvil Prepago,VIP,ASE_045,Asesor_029,Senior,Error configuración router,Comercial,False,,False,False,11.76,4,CLI_05064,Telefono,Media,Baja
+TKT_000225,2025-08-29 12:12:36,2025-08-30 05:55:12,Móvil Prepago,Premium,ASE_003,Asesor_036,Semi-Senior,Duda promoción temporal,Soporte,False,,False,False,17.71,4,CLI_17465,Presencial,Baja,Media
+TKT_000226,2025-07-13 12:12:36,2025-07-14 00:52:12,Telefonía Fija,Básico,ASE_043,Asesor_042,Junior,Cambio email contacto,Soporte,True,NOC_Oeste,True,False,12.66,2,CLI_38369,Web,Baja,Media
+TKT_000227,2025-07-12 12:12:36,2025-07-13 16:45:00,Móvil Postpago,Premium,ASE_042,Asesor_045,Senior,Falla WiFi 5GHz específica,Retención,False,,False,True,28.54,7,CLI_45075,Web,Media,Baja
+TKT_000228,2025-07-26 12:12:36,2025-07-27 09:23:24,Telefonía Fija,VIP,ASE_011,Asesor_017,Semi-Senior,Sin señal TV canal específico,Técnico,False,,True,False,21.18,1,CLI_25192,App,Baja,Alta
+TKT_000229,2025-07-09 12:12:36,2025-07-11 11:51:36,Móvil Postpago,Regular,ASE_032,Asesor_030,Semi-Senior,Lentitud navegación específica,Soporte,True,NOC_Sur,True,False,47.65,6,CLI_28342,Presencial,Alta,Baja
+TKT_000230,2025-08-11 12:12:36,2025-08-12 19:04:48,TV Cable,VIP,ASE_029,Asesor_013,Junior,Solicitud certificado ingresos,Retención,True,NOC_Sur,True,True,30.87,10,CLI_27249,Presencial,Media,Media
+TKT_000231,2025-08-30 12:12:36,2025-08-31 20:40:48,Internet Hogar,Regular,ASE_012,Asesor_040,Junior,Consulta plan específico región,Soporte,True,NOC_Oeste,False,False,32.47,8,CLI_40119,App,Media,Alta
+TKT_000232,2025-08-31 12:12:36,2025-08-31 13:04:48,Internet Hogar,Premium,ASE_047,Asesor_042,Semi-Senior,Corte intermitente fibra,Técnico,True,NOC_Sur,False,False,0.87,8,CLI_43154,Presencial,Baja,Alta
+TKT_000233,2025-07-03 12:12:36,2025-07-05 10:40:12,Móvil Prepago,Regular,ASE_019,Asesor_008,Junior,Consulta plan específico región,Soporte,True,NOC_Sur,False,False,46.46,5,CLI_26424,Telefono,Baja,Alta
+TKT_000234,2025-08-24 12:12:36,2025-08-26 11:01:12,Móvil Postpago,VIP,ASE_045,Asesor_007,Semi-Senior,Falla WiFi 5GHz específica,Técnico,True,NOC_Este,False,False,46.81,7,CLI_04240,Telefono,Baja,Alta
+TKT_000235,2025-07-24 12:12:36,2025-07-26 05:29:24,Internet Móvil,Regular,ASE_005,Asesor_023,Junior,Problema VoIP corporativa,Retención,False,,True,True,41.28,10,CLI_00695,Presencial,Baja,Baja
+TKT_000236,2025-07-07 12:12:36,2025-07-08 01:58:48,TV Cable,Premium,ASE_050,Asesor_019,Semi-Senior,Consulta plan específico región,Retención,False,,True,True,13.77,10,CLI_02950,App,Baja,Alta
+TKT_000237,2025-08-01 12:12:36,2025-08-02 21:03:00,Móvil Postpago,Premium,ASE_033,Asesor_032,Junior,Lentitud navegación específica,Técnico,False,,True,False,32.84,10,CLI_40680,Web,Baja,Media
+TKT_000238,2025-08-03 12:12:36,2025-08-05 03:46:12,Telefonía Fija,Básico,ASE_001,Asesor_030,Junior,Sin señal TV canal específico,Comercial,False,,True,False,39.56,10,CLI_12644,Presencial,Alta,Media
+TKT_000239,2025-07-20 12:12:36,2025-07-22 01:25:48,Telefonía Fija,Premium,ASE_030,Asesor_030,Senior,Falla WiFi 5GHz específica,Comercial,True,NOC_Norte,False,False,37.22,2,CLI_15434,Telefono,Media,Media
+TKT_000240,2025-07-08 12:12:36,2025-07-09 07:57:36,Empresarial,VIP,ASE_033,Asesor_002,Junior,Actualización datos personales,Técnico,False,,False,False,19.75,9,CLI_43237,Web,Media,Media
+TKT_000241,2025-07-10 12:12:36,2025-07-12 09:29:24,Internet Móvil,Básico,ASE_035,Asesor_020,Junior,Actualización datos personales,Soporte,False,,False,True,45.28,3,CLI_04692,Web,Baja,Baja
+TKT_000242,2025-08-09 12:12:36,2025-08-10 11:51:00,Telefonía Fija,Regular,ASE_021,Asesor_042,Junior,Sin señal TV canal específico,Retención,False,,False,False,23.64,7,CLI_25050,Telefono,Alta,Alta
+TKT_000243,2025-07-28 12:12:36,2025-07-28 20:41:24,Móvil Postpago,Básico,ASE_012,Asesor_006,Semi-Senior,Corte intermitente fibra,Retención,False,,False,False,8.48,2,CLI_28790,App,Alta,Media
+TKT_000244,2025-08-14 12:12:36,2025-08-15 06:17:24,Móvil Prepago,Básico,ASE_001,Asesor_034,Semi-Senior,Falla WiFi 5GHz específica,Comercial,False,,False,True,18.08,5,CLI_12835,Telefono,Baja,Media
+TKT_000245,2025-07-30 12:12:36,2025-07-30 20:38:24,Internet Móvil,Regular,ASE_045,Asesor_008,Semi-Senior,Cambio plan mayor capacidad,Retención,False,,False,True,8.43,6,CLI_12637,Telefono,Alta,Media
+TKT_000246,2025-06-18 12:12:36,2025-06-19 20:03:00,Móvil Prepago,Regular,ASE_017,Asesor_005,Semi-Senior,Consulta plan específico región,Retención,False,,True,True,31.84,5,CLI_27060,Telefono,Media,Baja
+TKT_000247,2025-08-09 12:12:36,2025-08-10 00:52:12,Internet Móvil,Básico,ASE_018,Asesor_006,Senior,Duda promoción temporal,Técnico,True,NOC_Sur,True,False,12.66,6,CLI_03331,Telefono,Media,Baja
+TKT_000248,2025-09-09 12:12:36,2025-09-10 03:40:48,TV Cable,Regular,ASE_008,Asesor_016,Semi-Senior,Consulta plan específico región,Retención,True,NOC_Sur,True,True,15.47,7,CLI_49017,Telefono,Alta,Alta
+TKT_000249,2025-07-07 12:12:36,2025-07-08 12:45:36,Móvil Prepago,Regular,ASE_019,Asesor_006,Junior,Problema VoIP corporativa,Comercial,True,NOC_Sur,True,True,24.55,3,CLI_29995,App,Media,Media
+TKT_000250,2025-06-30 12:12:36,2025-06-30 19:44:24,Móvil Postpago,Regular,ASE_015,Asesor_003,Senior,Consulta plan específico región,Técnico,False,,False,True,7.53,9,CLI_03077,Web,Alta,Alta
+TKT_000251,2025-08-07 12:12:36,2025-08-09 09:39:36,TV Cable,Regular,ASE_040,Asesor_005,Semi-Senior,Corte intermitente fibra,Soporte,True,NOC_Sur,False,False,45.45,3,CLI_14405,App,Baja,Alta
+TKT_000252,2025-07-01 12:12:36,2025-07-01 23:53:24,Internet Hogar,Regular,ASE_017,Asesor_001,Senior,Lentitud navegación específica,Técnico,False,,True,True,11.68,1,CLI_13353,Web,Baja,Media
+TKT_000253,2025-09-12 12:12:36,2025-09-14 10:54:36,Móvil Prepago,Premium,ASE_025,Asesor_033,Semi-Senior,Corte intermitente fibra,Técnico,True,NOC_Este,True,False,46.7,5,CLI_31670,Presencial,Baja,Baja
+TKT_000254,2025-08-09 12:12:36,2025-08-09 23:19:12,TV Cable,Básico,ASE_045,Asesor_007,Senior,Lentitud navegación específica,Comercial,False,,False,False,11.11,9,CLI_21376,Telefono,Media,Media
+TKT_000255,2025-08-31 12:12:36,2025-09-01 09:55:12,Móvil Prepago,Básico,ASE_013,Asesor_032,Semi-Senior,Sin señal TV canal específico,Soporte,True,NOC_Oeste,True,False,21.71,7,CLI_30970,Web,Baja,Alta
+TKT_000256,2025-07-28 12:12:36,2025-07-28 19:42:00,Telefonía Fija,Premium,ASE_030,Asesor_005,Senior,Corte intermitente fibra,Soporte,False,,True,True,7.49,1,CLI_11529,Telefono,Alta,Baja
+TKT_000257,2025-07-11 12:12:36,2025-07-12 15:48:36,Móvil Prepago,Premium,ASE_024,Asesor_025,Junior,Cambio email contacto,Comercial,False,,False,False,27.6,3,CLI_08429,Web,Baja,Media
+TKT_000258,2025-08-27 12:12:36,2025-08-28 10:20:24,TV Cable,VIP,ASE_002,Asesor_030,Semi-Senior,Falla WiFi 5GHz específica,Retención,False,,False,True,22.13,9,CLI_30172,Telefono,Media,Baja
+TKT_000259,2025-09-10 12:12:36,2025-09-11 15:18:36,Móvil Postpago,Regular,ASE_029,Asesor_048,Semi-Senior,Corte intermitente fibra,Técnico,True,NOC_Central,False,False,27.1,7,CLI_05152,Presencial,Baja,Alta
+TKT_000260,2025-07-07 12:12:36,2025-07-07 14:40:12,Internet Hogar,Básico,ASE_004,Asesor_037,Senior,Sin señal TV canal específico,Retención,True,NOC_Norte,True,False,2.46,10,CLI_09757,App,Alta,Baja
+TKT_000261,2025-08-23 12:12:36,2025-08-24 08:38:24,Telefonía Fija,Básico,ASE_010,Asesor_008,Semi-Senior,Actualización datos personales,Retención,False,,False,True,20.43,7,CLI_35432,Presencial,Alta,Media
+TKT_000262,2025-07-23 12:12:36,2025-07-23 15:12:00,Móvil Postpago,Premium,ASE_005,Asesor_033,Senior,Problema VoIP corporativa,Comercial,False,,True,True,2.99,6,CLI_45968,Presencial,Alta,Media
+TKT_000263,2025-07-11 12:12:36,2025-07-11 14:53:24,Móvil Prepago,Regular,ASE_037,Asesor_037,Semi-Senior,Actualización datos personales,Soporte,True,NOC_Oeste,False,True,2.68,7,CLI_32154,App,Alta,Media
+TKT_000264,2025-07-11 12:12:36,2025-07-13 03:43:48,Telefonía Fija,Básico,ASE_026,Asesor_040,Junior,Cambio plan mayor capacidad,Soporte,False,,False,True,39.52,9,CLI_47097,App,Media,Alta
+TKT_000265,2025-06-27 12:12:36,2025-06-28 16:48:00,Móvil Prepago,Premium,ASE_034,Asesor_011,Semi-Senior,Solicitud certificado ingresos,Técnico,False,,False,True,28.59,10,CLI_38910,Web,Baja,Baja
+TKT_000266,2025-07-28 12:12:36,2025-07-28 13:28:48,Internet Hogar,Premium,ASE_041,Asesor_009,Junior,Consulta plan específico región,Retención,True,NOC_Este,False,False,1.27,8,CLI_17279,Telefono,Alta,Media
+TKT_000267,2025-08-06 12:12:36,2025-08-07 13:02:24,Móvil Postpago,VIP,ASE_033,Asesor_007,Senior,Error configuración router,Comercial,True,NOC_Este,True,True,24.83,3,CLI_13089,Web,Baja,Media
+TKT_000268,2025-08-27 12:12:36,2025-08-28 01:40:48,TV Cable,Básico,ASE_011,Asesor_049,Senior,Error configuración router,Soporte,False,,False,True,13.47,8,CLI_05616,Telefono,Media,Media
+TKT_000269,2025-09-08 12:12:36,2025-09-09 10:54:36,TV Cable,Premium,ASE_026,Asesor_040,Semi-Senior,Sin señal TV canal específico,Soporte,False,,True,False,22.7,6,CLI_43799,Web,Media,Media
+TKT_000270,2025-07-20 12:12:36,2025-07-21 17:54:36,Móvil Prepago,Regular,ASE_033,Asesor_021,Senior,Lentitud navegación específica,Técnico,False,,True,True,29.7,8,CLI_49573,Web,Alta,Media
+TKT_000271,2025-07-18 12:12:36,2025-07-20 06:07:12,Internet Móvil,Regular,ASE_007,Asesor_014,Junior,Duda promoción temporal,Retención,False,,True,False,41.91,1,CLI_13264,App,Alta,Baja
+TKT_000272,2025-07-12 12:12:36,2025-07-12 13:42:00,Móvil Prepago,Premium,ASE_034,Asesor_015,Junior,Corte intermitente fibra,Soporte,False,,False,True,1.49,7,CLI_22310,App,Media,Media
+TKT_000273,2025-06-26 12:12:36,2025-06-26 20:44:24,TV Cable,VIP,ASE_041,Asesor_045,Senior,Consulta plan específico región,Retención,True,NOC_Central,True,False,8.53,7,CLI_34762,App,Media,Alta
+TKT_000274,2025-07-31 12:12:36,2025-07-31 17:22:12,Internet Hogar,Premium,ASE_019,Asesor_050,Semi-Senior,Lentitud navegación específica,Retención,False,,True,False,5.16,10,CLI_24742,Presencial,Alta,Media
+TKT_000275,2025-07-14 12:12:36,2025-07-15 10:59:24,Móvil Postpago,Básico,ASE_031,Asesor_018,Semi-Senior,Sin señal TV canal específico,Soporte,True,NOC_Sur,True,False,22.78,10,CLI_12512,App,Media,Baja
+TKT_000276,2025-06-28 12:12:36,2025-06-29 02:45:36,Móvil Postpago,Premium,ASE_019,Asesor_003,Junior,Actualización datos personales,Técnico,True,NOC_Este,True,False,14.55,6,CLI_24833,Web,Media,Media
+TKT_000277,2025-07-10 12:12:36,2025-07-11 07:36:36,Móvil Prepago,Premium,ASE_048,Asesor_036,Semi-Senior,Problema VoIP corporativa,Técnico,False,,True,True,19.4,6,CLI_45954,Web,Media,Media
+TKT_000278,2025-06-18 12:12:36,2025-06-18 23:30:36,Internet Hogar,VIP,ASE_020,Asesor_023,Junior,Consulta plan específico región,Comercial,True,NOC_Sur,True,False,11.3,10,CLI_12872,Telefono,Baja,Media
+TKT_000279,2025-07-16 12:12:36,2025-07-18 00:39:00,Empresarial,VIP,ASE_003,Asesor_047,Semi-Senior,Solicitud certificado ingresos,Técnico,True,NOC_Norte,True,False,36.44,5,CLI_18979,Presencial,Media,Media
+TKT_000280,2025-07-10 12:12:36,2025-07-12 04:57:00,Internet Móvil,Básico,ASE_039,Asesor_001,Semi-Senior,Duda promoción temporal,Retención,True,NOC_Central,False,False,40.74,2,CLI_00122,Telefono,Media,Baja
+TKT_000281,2025-09-09 12:12:36,2025-09-09 19:19:12,Móvil Postpago,Premium,ASE_028,Asesor_027,Semi-Senior,Actualización datos personales,Técnico,True,NOC_Este,True,True,7.11,7,CLI_45016,Web,Alta,Alta
+TKT_000282,2025-07-06 12:12:36,2025-07-08 08:40:48,Móvil Prepago,Básico,ASE_017,Asesor_045,Senior,Solicitud certificado ingresos,Soporte,False,,False,False,44.47,5,CLI_29137,Telefono,Baja,Alta
+TKT_000283,2025-08-05 12:12:36,2025-08-05 14:16:48,Móvil Postpago,Básico,ASE_048,Asesor_034,Senior,Problema VoIP corporativa,Técnico,False,,False,True,2.07,10,CLI_34268,Telefono,Baja,Baja
+TKT_000284,2025-07-18 12:12:36,2025-07-20 09:52:48,Internet Hogar,VIP,ASE_040,Asesor_009,Semi-Senior,Solicitud certificado ingresos,Técnico,False,,False,False,45.67,9,CLI_38201,Telefono,Baja,Media
+TKT_000285,2025-06-25 12:12:36,2025-06-27 05:08:24,Móvil Postpago,Premium,ASE_015,Asesor_047,Semi-Senior,Consulta plan específico región,Soporte,True,NOC_Sur,False,True,40.93,8,CLI_27177,App,Alta,Alta
+TKT_000286,2025-07-10 12:12:36,2025-07-10 16:17:24,Empresarial,VIP,ASE_050,Asesor_047,Senior,Cambio plan mayor capacidad,Retención,True,NOC_Oeste,True,False,4.08,1,CLI_23034,App,Baja,Baja
+TKT_000287,2025-09-01 12:12:36,2025-09-01 12:59:24,TV Cable,Regular,ASE_021,Asesor_049,Semi-Senior,Cambio email contacto,Comercial,True,NOC_Central,False,False,0.78,9,CLI_30894,Web,Media,Media
+TKT_000288,2025-07-18 12:12:36,2025-07-20 10:40:48,Empresarial,VIP,ASE_031,Asesor_025,Senior,Actualización datos personales,Comercial,True,NOC_Sur,False,True,46.47,2,CLI_31895,Telefono,Alta,Baja
+TKT_000289,2025-09-05 12:12:36,2025-09-07 09:46:12,Empresarial,Premium,ASE_038,Asesor_048,Junior,Falla WiFi 5GHz específica,Técnico,True,NOC_Norte,False,True,45.56,9,CLI_07242,Telefono,Media,Media
+TKT_000290,2025-09-07 12:12:36,2025-09-09 07:47:24,Móvil Prepago,Básico,ASE_005,Asesor_031,Semi-Senior,Sin señal TV canal específico,Técnico,False,,False,True,43.58,4,CLI_27023,Telefono,Media,Alta
+TKT_000291,2025-07-10 12:12:36,2025-07-10 12:55:48,Empresarial,Regular,ASE_012,Asesor_022,Semi-Senior,Corte intermitente fibra,Comercial,True,NOC_Este,True,False,0.72,7,CLI_44546,Web,Media,Alta
+TKT_000292,2025-07-30 12:12:36,2025-07-30 12:46:48,Móvil Postpago,Premium,ASE_009,Asesor_038,Junior,Error configuración router,Retención,False,,True,True,0.57,8,CLI_22184,App,Baja,Baja
+TKT_000293,2025-09-06 12:12:36,2025-09-07 23:24:00,Móvil Prepago,Regular,ASE_032,Asesor_025,Semi-Senior,Falla WiFi 5GHz específica,Comercial,False,,True,False,35.19,8,CLI_09144,Presencial,Baja,Media
+TKT_000294,2025-07-21 12:12:36,2025-07-22 02:04:48,Internet Hogar,Premium,ASE_002,Asesor_027,Senior,Problema VoIP corporativa,Retención,True,NOC_Oeste,False,True,13.87,8,CLI_38585,Telefono,Alta,Media
+TKT_000295,2025-07-03 12:12:36,2025-07-04 05:42:00,Móvil Postpago,Premium,ASE_015,Asesor_029,Junior,Consulta plan específico región,Retención,True,NOC_Norte,True,True,17.49,2,CLI_36254,Web,Media,Baja
+TKT_000296,2025-08-03 12:12:36,2025-08-04 14:43:12,Móvil Postpago,Regular,ASE_011,Asesor_024,Senior,Consulta plan específico región,Retención,False,,False,False,26.51,10,CLI_40721,App,Alta,Alta
+TKT_000297,2025-07-09 12:12:36,2025-07-09 17:56:24,Internet Móvil,Premium,ASE_009,Asesor_048,Semi-Senior,Lentitud navegación específica,Técnico,True,NOC_Este,True,False,5.73,1,CLI_18426,App,Baja,Baja
+TKT_000298,2025-07-09 12:12:36,2025-07-10 09:33:36,TV Cable,Básico,ASE_031,Asesor_027,Senior,Cambio email contacto,Soporte,False,,True,True,21.35,8,CLI_39878,App,Alta,Alta
+TKT_000299,2025-07-15 12:12:36,2025-07-15 14:04:48,Telefonía Fija,Regular,ASE_047,Asesor_046,Junior,Error configuración router,Técnico,False,,True,True,1.87,1,CLI_16638,App,Alta,Media
+TKT_000300,2025-07-16 12:12:36,2025-07-16 19:37:12,TV Cable,Premium,ASE_006,Asesor_047,Junior,Cambio email contacto,Comercial,False,,False,True,7.41,4,CLI_31475,App,Media,Alta
+TKT_000301,2025-07-30 12:12:36,2025-07-31 01:43:48,Internet Móvil,Básico,ASE_034,Asesor_004,Senior,Cambio email contacto,Retención,False,,False,True,13.52,7,CLI_46679,Presencial,Baja,Alta
+TKT_000302,2025-07-22 12:12:36,2025-07-24 01:48:36,Móvil Postpago,Premium,ASE_047,Asesor_037,Junior,Consulta plan específico región,Técnico,True,NOC_Central,True,True,37.6,2,CLI_40245,Presencial,Media,Alta
+TKT_000303,2025-07-01 12:12:36,2025-07-01 16:21:00,TV Cable,VIP,ASE_033,Asesor_022,Semi-Senior,Falla WiFi 5GHz específica,Técnico,False,,False,True,4.14,2,CLI_11943,App,Media,Media
+TKT_000304,2025-09-09 12:12:36,2025-09-09 20:29:24,Móvil Prepago,Regular,ASE_022,Asesor_012,Semi-Senior,Problema VoIP corporativa,Comercial,False,,True,False,8.28,5,CLI_20123,Presencial,Baja,Alta
+TKT_000305,2025-08-29 12:12:36,2025-08-31 01:31:48,Internet Móvil,Premium,ASE_046,Asesor_044,Junior,Falla WiFi 5GHz específica,Técnico,True,NOC_Norte,True,False,37.32,8,CLI_11344,Telefono,Baja,Media
+TKT_000306,2025-06-26 12:12:36,2025-06-28 10:10:48,Internet Hogar,Premium,ASE_011,Asesor_015,Senior,Error configuración router,Comercial,True,NOC_Norte,True,True,45.97,10,CLI_45301,Presencial,Baja,Alta
+TKT_000307,2025-08-16 12:12:36,2025-08-16 15:36:36,Móvil Postpago,VIP,ASE_039,Asesor_012,Semi-Senior,Cambio plan mayor capacidad,Técnico,False,,False,True,3.4,3,CLI_49265,Presencial,Baja,Alta
+TKT_000308,2025-09-06 12:12:36,2025-09-06 16:37:48,Móvil Prepago,Premium,ASE_038,Asesor_038,Senior,Consulta plan específico región,Retención,False,,False,True,4.42,5,CLI_04736,App,Alta,Media
+TKT_000309,2025-06-19 12:12:36,2025-06-19 16:22:12,Internet Hogar,Regular,ASE_050,Asesor_001,Junior,Duda promoción temporal,Comercial,True,NOC_Norte,True,True,4.16,5,CLI_39081,App,Media,Alta
+TKT_000310,2025-06-29 12:12:36,2025-06-29 14:02:24,Internet Hogar,Premium,ASE_019,Asesor_012,Senior,Lentitud navegación específica,Comercial,True,NOC_Norte,True,True,1.83,8,CLI_01778,Web,Alta,Alta
+TKT_000311,2025-06-23 12:12:36,2025-06-24 21:10:12,Internet Móvil,Premium,ASE_016,Asesor_023,Junior,Corte intermitente fibra,Técnico,False,,False,False,32.96,1,CLI_02127,Presencial,Alta,Media
+TKT_000312,2025-08-21 12:12:36,2025-08-21 18:58:12,TV Cable,Regular,ASE_046,Asesor_043,Senior,Falla WiFi 5GHz específica,Técnico,True,NOC_Sur,True,False,6.76,3,CLI_47980,Presencial,Baja,Media
+TKT_000313,2025-07-13 12:12:36,2025-07-15 07:39:00,TV Cable,Regular,ASE_012,Asesor_031,Semi-Senior,Sin señal TV canal específico,Comercial,False,,True,True,43.44,9,CLI_39259,Telefono,Media,Baja
+TKT_000314,2025-07-29 12:12:36,2025-07-31 08:04:12,Móvil Postpago,Premium,ASE_030,Asesor_022,Junior,Sin señal TV canal específico,Soporte,False,,False,False,43.86,7,CLI_24363,Presencial,Media,Baja
+TKT_000315,2025-09-09 12:12:36,2025-09-09 13:06:36,Empresarial,Premium,ASE_040,Asesor_033,Junior,Corte intermitente fibra,Retención,True,NOC_Sur,True,True,0.9,6,CLI_42431,App,Media,Alta
+TKT_000316,2025-06-22 12:12:36,2025-06-22 23:28:12,Empresarial,VIP,ASE_048,Asesor_028,Junior,Cambio email contacto,Técnico,True,NOC_Sur,True,False,11.26,10,CLI_10412,Telefono,Baja,Alta
+TKT_000317,2025-08-09 12:12:36,2025-08-11 09:05:24,Telefonía Fija,Básico,ASE_010,Asesor_045,Semi-Senior,Duda promoción temporal,Soporte,False,,False,True,44.88,5,CLI_06596,Web,Media,Baja
+TKT_000318,2025-09-09 12:12:36,2025-09-11 08:19:12,Móvil Prepago,Premium,ASE_032,Asesor_048,Senior,Duda promoción temporal,Técnico,True,NOC_Norte,True,False,44.11,6,CLI_43555,Web,Baja,Alta
+TKT_000319,2025-08-01 12:12:36,2025-08-01 20:10:48,TV Cable,Básico,ASE_032,Asesor_043,Senior,Error configuración router,Retención,False,,True,True,7.97,10,CLI_07555,App,Baja,Media
+TKT_000320,2025-08-01 12:12:36,2025-08-01 20:58:12,Telefonía Fija,Regular,ASE_045,Asesor_027,Junior,Duda promoción temporal,Retención,False,,False,True,8.76,4,CLI_46374,Presencial,Media,Alta
+TKT_000321,2025-07-02 12:12:36,2025-07-03 10:25:48,Internet Hogar,VIP,ASE_007,Asesor_041,Semi-Senior,Problema VoIP corporativa,Soporte,False,,False,True,22.22,2,CLI_25909,Web,Baja,Media
+TKT_000322,2025-09-10 12:12:36,2025-09-11 06:52:12,TV Cable,Premium,ASE_032,Asesor_034,Semi-Senior,Cambio plan mayor capacidad,Comercial,False,,False,True,18.66,9,CLI_13219,Presencial,Media,Media
+TKT_000323,2025-08-03 12:12:36,2025-08-04 05:36:36,Móvil Prepago,Regular,ASE_044,Asesor_048,Junior,Error configuración router,Retención,True,NOC_Este,False,False,17.4,9,CLI_08499,App,Media,Baja
+TKT_000324,2025-08-09 12:12:36,2025-08-10 01:39:00,Internet Hogar,Regular,ASE_023,Asesor_039,Semi-Senior,Error configuración router,Técnico,False,,False,True,13.44,10,CLI_08984,Telefono,Alta,Baja
+TKT_000325,2025-08-31 12:12:36,2025-09-01 15:31:12,Móvil Postpago,VIP,ASE_028,Asesor_047,Junior,Cambio email contacto,Técnico,False,,True,False,27.31,1,CLI_37408,Web,Media,Baja
+TKT_000326,2025-07-06 12:12:36,2025-07-07 14:04:48,Móvil Prepago,Regular,ASE_046,Asesor_041,Semi-Senior,Cambio email contacto,Retención,False,,True,False,25.87,9,CLI_21846,App,Baja,Alta
+TKT_000327,2025-09-15 12:12:36,2025-09-16 11:26:24,Empresarial,Regular,ASE_040,Asesor_049,Senior,Error configuración router,Soporte,False,,False,False,23.23,9,CLI_13498,Web,Media,Media
+TKT_000328,2025-08-29 12:12:36,2025-08-30 15:06:00,Telefonía Fija,Básico,ASE_007,Asesor_014,Junior,Consulta plan específico región,Técnico,False,,True,False,26.89,10,CLI_42714,Presencial,Baja,Alta
+TKT_000329,2025-06-19 12:12:36,2025-06-20 10:18:36,Internet Móvil,VIP,ASE_020,Asesor_027,Junior,Sin señal TV canal específico,Comercial,True,NOC_Sur,False,True,22.1,2,CLI_41443,Presencial,Media,Alta
+TKT_000330,2025-09-10 12:12:36,2025-09-12 04:40:48,Móvil Postpago,Premium,ASE_011,Asesor_020,Senior,Solicitud certificado ingresos,Técnico,False,,False,True,40.47,8,CLI_03343,Presencial,Media,Alta
+TKT_000331,2025-08-18 12:12:36,2025-08-19 20:44:24,Móvil Prepago,Premium,ASE_044,Asesor_015,Semi-Senior,Falla WiFi 5GHz específica,Comercial,True,NOC_Sur,False,True,32.53,7,CLI_41432,Telefono,Alta,Alta
+TKT_000332,2025-08-15 12:12:36,2025-08-16 05:58:48,Móvil Prepago,Regular,ASE_013,Asesor_050,Semi-Senior,Consulta plan específico región,Retención,True,NOC_Central,True,True,17.77,2,CLI_10691,Presencial,Alta,Baja
+TKT_000333,2025-09-10 12:12:36,2025-09-12 11:24:00,Empresarial,Básico,ASE_021,Asesor_008,Senior,Corte intermitente fibra,Técnico,True,NOC_Sur,True,True,47.19,3,CLI_35247,Web,Alta,Alta
+TKT_000334,2025-07-25 12:12:36,2025-07-25 21:13:12,Empresarial,Premium,ASE_033,Asesor_025,Semi-Senior,Lentitud navegación específica,Técnico,False,,True,False,9.01,2,CLI_12022,Telefono,Alta,Baja
+TKT_000335,2025-06-21 12:12:36,2025-06-22 06:20:24,Internet Hogar,Regular,ASE_048,Asesor_006,Junior,Lentitud navegación específica,Soporte,False,,True,False,18.13,10,CLI_40781,Presencial,Alta,Media
+TKT_000336,2025-08-01 12:12:36,2025-08-01 14:58:48,Internet Hogar,Premium,ASE_036,Asesor_001,Semi-Senior,Problema VoIP corporativa,Técnico,True,NOC_Norte,True,True,2.77,2,CLI_42459,Presencial,Baja,Baja
+TKT_000337,2025-06-26 12:12:36,2025-06-28 09:14:24,Internet Hogar,Regular,ASE_030,Asesor_007,Senior,Actualización datos personales,Soporte,False,,False,False,45.03,4,CLI_17958,Presencial,Alta,Media
+TKT_000338,2025-07-09 12:12:36,2025-07-09 18:00:00,Internet Hogar,Premium,ASE_009,Asesor_012,Junior,Sin señal TV canal específico,Comercial,True,NOC_Central,False,False,5.79,6,CLI_35549,Telefono,Alta,Media
+TKT_000339,2025-08-09 12:12:36,2025-08-10 12:58:12,TV Cable,Regular,ASE_021,Asesor_049,Semi-Senior,Duda promoción temporal,Retención,True,NOC_Sur,False,True,24.76,1,CLI_17763,Web,Media,Media
+TKT_000340,2025-07-08 12:12:36,2025-07-09 00:29:24,Empresarial,VIP,ASE_011,Asesor_038,Semi-Senior,Solicitud certificado ingresos,Retención,False,,True,True,12.28,7,CLI_07382,Telefono,Media,Baja
+TKT_000341,2025-08-20 12:12:36,2025-08-21 23:39:36,Internet Móvil,Regular,ASE_017,Asesor_036,Junior,Solicitud certificado ingresos,Comercial,False,,True,False,35.45,9,CLI_37143,Web,Baja,Alta
+TKT_000342,2025-08-11 12:12:36,2025-08-12 08:29:24,Móvil Prepago,Básico,ASE_005,Asesor_018,Senior,Consulta plan específico región,Retención,False,,False,True,20.28,5,CLI_26221,Web,Media,Media
+TKT_000343,2025-09-09 12:12:36,2025-09-10 06:41:24,Internet Hogar,Regular,ASE_014,Asesor_039,Senior,Corte intermitente fibra,Retención,False,,False,False,18.48,4,CLI_42757,Presencial,Media,Media
+TKT_000344,2025-07-06 12:12:36,2025-07-08 10:46:48,Empresarial,Básico,ASE_015,Asesor_042,Senior,Sin señal TV canal específico,Técnico,True,NOC_Central,True,True,46.57,5,CLI_39488,App,Baja,Media
+TKT_000345,2025-08-06 12:12:36,2025-08-06 15:49:48,Móvil Postpago,VIP,ASE_008,Asesor_014,Semi-Senior,Consulta plan específico región,Comercial,True,NOC_Oeste,True,False,3.62,4,CLI_05710,Telefono,Media,Media
+TKT_000346,2025-08-13 12:12:36,2025-08-14 16:57:36,Empresarial,Básico,ASE_009,Asesor_011,Senior,Lentitud navegación específica,Soporte,False,,False,True,28.75,5,CLI_33795,App,Baja,Alta
+TKT_000347,2025-08-13 12:12:36,2025-08-14 06:11:24,Internet Hogar,Básico,ASE_037,Asesor_024,Semi-Senior,Duda promoción temporal,Comercial,True,NOC_Norte,False,False,17.98,4,CLI_13957,Telefono,Alta,Baja
+TKT_000348,2025-08-27 12:12:36,2025-08-28 11:15:36,Móvil Prepago,Regular,ASE_016,Asesor_042,Semi-Senior,Lentitud navegación específica,Comercial,True,NOC_Central,True,False,23.05,6,CLI_10003,App,Media,Alta
+TKT_000349,2025-06-22 12:12:36,2025-06-24 00:19:48,Móvil Postpago,Regular,ASE_001,Asesor_045,Senior,Error configuración router,Comercial,False,,True,True,36.12,2,CLI_33469,Presencial,Media,Media
+TKT_000350,2025-09-11 12:12:36,2025-09-13 10:53:24,Móvil Prepago,VIP,ASE_005,Asesor_035,Senior,Problema VoIP corporativa,Soporte,False,,False,False,46.68,8,CLI_34221,App,Baja,Baja
+TKT_000351,2025-07-12 12:12:36,2025-07-12 13:50:24,Móvil Prepago,Premium,ASE_046,Asesor_030,Semi-Senior,Solicitud certificado ingresos,Técnico,True,NOC_Central,False,False,1.63,4,CLI_24116,Telefono,Alta,Alta
+TKT_000352,2025-06-23 12:12:36,2025-06-25 10:36:00,Internet Móvil,VIP,ASE_012,Asesor_014,Semi-Senior,Cambio plan mayor capacidad,Comercial,False,,True,False,46.39,1,CLI_49231,Telefono,Baja,Media
+TKT_000353,2025-09-15 12:12:36,2025-09-15 18:24:00,Internet Móvil,Premium,ASE_026,Asesor_021,Senior,Solicitud certificado ingresos,Comercial,False,,False,False,6.19,7,CLI_14245,Telefono,Media,Alta
+TKT_000354,2025-08-19 12:12:36,2025-08-20 19:57:00,Empresarial,Básico,ASE_013,Asesor_033,Semi-Senior,Lentitud navegación específica,Soporte,True,NOC_Central,False,False,31.74,6,CLI_11468,Web,Baja,Alta
+TKT_000355,2025-06-22 12:12:36,2025-06-23 22:49:12,Móvil Postpago,Premium,ASE_040,Asesor_029,Junior,Sin señal TV canal específico,Soporte,True,NOC_Norte,False,False,34.61,3,CLI_19797,Telefono,Media,Alta
+TKT_000356,2025-07-26 12:12:36,2025-07-28 11:45:00,Internet Móvil,Básico,ASE_023,Asesor_011,Junior,Cambio email contacto,Soporte,False,,False,True,47.54,2,CLI_42922,Web,Alta,Media
+TKT_000357,2025-08-12 12:12:36,2025-08-12 23:45:00,Móvil Postpago,VIP,ASE_027,Asesor_031,Junior,Error configuración router,Soporte,True,NOC_Central,True,False,11.54,7,CLI_35824,Presencial,Alta,Alta
+TKT_000358,2025-07-23 12:12:36,2025-07-24 18:41:24,Empresarial,Básico,ASE_042,Asesor_032,Semi-Senior,Error configuración router,Soporte,False,,False,False,30.48,6,CLI_10955,Presencial,Baja,Alta
+TKT_000359,2025-09-02 12:12:36,2025-09-02 21:29:24,Telefonía Fija,Básico,ASE_046,Asesor_035,Semi-Senior,Solicitud certificado ingresos,Comercial,True,NOC_Este,True,True,9.28,3,CLI_47669,Presencial,Alta,Alta
+TKT_000360,2025-07-15 12:12:36,2025-07-17 07:49:48,Telefonía Fija,Básico,ASE_016,Asesor_005,Senior,Consulta plan específico región,Comercial,False,,False,True,43.62,1,CLI_13523,Telefono,Media,Baja
+TKT_000361,2025-08-31 12:12:36,2025-08-31 19:08:24,TV Cable,VIP,ASE_027,Asesor_032,Senior,Lentitud navegación específica,Técnico,False,,False,True,6.93,1,CLI_38633,App,Alta,Media
+TKT_000362,2025-07-22 12:12:36,2025-07-22 16:09:36,Telefonía Fija,Regular,ASE_036,Asesor_015,Semi-Senior,Duda promoción temporal,Técnico,False,,True,False,3.95,1,CLI_23012,App,Baja,Baja
+TKT_000363,2025-06-30 12:12:36,2025-07-02 09:37:12,Internet Hogar,Regular,ASE_014,Asesor_010,Senior,Duda promoción temporal,Retención,True,NOC_Norte,False,True,45.41,10,CLI_25826,Telefono,Baja,Alta
+TKT_000364,2025-07-11 12:12:36,2025-07-13 04:37:12,Empresarial,VIP,ASE_046,Asesor_006,Senior,Consulta plan específico región,Técnico,False,,False,True,40.41,1,CLI_47241,Web,Media,Baja
+TKT_000365,2025-06-30 12:12:36,2025-06-30 23:58:12,Telefonía Fija,Básico,ASE_023,Asesor_026,Senior,Cambio email contacto,Comercial,False,,False,True,11.76,6,CLI_08163,Presencial,Media,Media
+TKT_000366,2025-08-09 12:12:36,2025-08-09 13:42:00,Internet Hogar,Premium,ASE_022,Asesor_019,Semi-Senior,Solicitud certificado ingresos,Técnico,False,,False,False,1.49,3,CLI_32288,App,Alta,Alta
+TKT_000367,2025-07-03 12:12:36,2025-07-04 02:55:48,Internet Móvil,VIP,ASE_029,Asesor_014,Junior,Corte intermitente fibra,Soporte,False,,True,False,14.72,6,CLI_36003,Telefono,Baja,Media
+TKT_000368,2025-09-02 12:12:36,2025-09-02 18:16:12,TV Cable,VIP,ASE_029,Asesor_036,Semi-Senior,Cambio email contacto,Soporte,False,,False,True,6.06,9,CLI_34114,Telefono,Alta,Baja
+TKT_000369,2025-07-10 12:12:36,2025-07-11 01:25:48,Internet Móvil,Básico,ASE_021,Asesor_048,Senior,Lentitud navegación específica,Comercial,True,NOC_Oeste,False,True,13.22,4,CLI_10634,Presencial,Baja,Media
+TKT_000370,2025-09-02 12:12:36,2025-09-02 18:16:12,Internet Hogar,Básico,ASE_002,Asesor_033,Semi-Senior,Lentitud navegación específica,Técnico,False,,False,True,6.06,2,CLI_38066,Telefono,Baja,Alta
+TKT_000371,2025-09-01 12:12:36,2025-09-02 23:01:48,Internet Hogar,Regular,ASE_032,Asesor_017,Senior,Duda promoción temporal,Retención,False,,True,False,34.82,6,CLI_19264,Telefono,Baja,Alta
+TKT_000372,2025-07-23 12:12:36,2025-07-24 10:48:36,Móvil Prepago,Básico,ASE_042,Asesor_027,Senior,Sin señal TV canal específico,Comercial,True,NOC_Este,True,True,22.6,6,CLI_14703,Telefono,Baja,Media
+TKT_000373,2025-09-02 12:12:36,2025-09-04 09:10:48,Móvil Prepago,Regular,ASE_026,Asesor_018,Junior,Duda promoción temporal,Técnico,False,,False,False,44.97,3,CLI_06158,Web,Alta,Alta
+TKT_000374,2025-08-20 12:12:36,2025-08-21 01:18:00,Móvil Postpago,Básico,ASE_035,Asesor_049,Senior,Consulta plan específico región,Soporte,False,,False,False,13.09,10,CLI_11077,Web,Baja,Media
+TKT_000375,2025-07-23 12:12:36,2025-07-23 17:35:24,TV Cable,VIP,ASE_037,Asesor_032,Junior,Problema VoIP corporativa,Retención,True,NOC_Este,True,False,5.38,1,CLI_13491,Presencial,Baja,Alta
+TKT_000376,2025-06-28 12:12:36,2025-06-29 20:11:24,Internet Móvil,Básico,ASE_008,Asesor_019,Senior,Lentitud navegación específica,Técnico,False,,True,True,31.98,1,CLI_18954,Telefono,Media,Media
+TKT_000377,2025-08-07 12:12:36,2025-08-08 12:40:12,Empresarial,Premium,ASE_042,Asesor_019,Junior,Error configuración router,Comercial,False,,False,True,24.46,3,CLI_04969,Web,Media,Alta
+TKT_000378,2025-08-28 12:12:36,2025-08-29 10:38:24,Móvil Postpago,Premium,ASE_024,Asesor_049,Senior,Problema VoIP corporativa,Técnico,True,NOC_Central,False,True,22.43,10,CLI_43231,Web,Baja,Alta
+TKT_000379,2025-08-19 12:12:36,2025-08-20 02:07:48,Internet Móvil,Básico,ASE_010,Asesor_029,Semi-Senior,Problema VoIP corporativa,Retención,False,,False,False,13.92,9,CLI_17258,Presencial,Alta,Baja
+TKT_000380,2025-09-07 12:12:36,2025-09-08 03:03:36,Móvil Postpago,Regular,ASE_023,Asesor_013,Semi-Senior,Error configuración router,Soporte,True,NOC_Central,True,False,14.85,1,CLI_07598,App,Media,Alta
+TKT_000381,2025-09-10 12:12:36,2025-09-11 08:34:12,Internet Móvil,Básico,ASE_032,Asesor_011,Junior,Cambio plan mayor capacidad,Técnico,False,,False,False,20.36,10,CLI_15116,Web,Media,Baja
+TKT_000382,2025-08-23 12:12:36,2025-08-23 16:16:12,Empresarial,Básico,ASE_014,Asesor_030,Semi-Senior,Solicitud certificado ingresos,Comercial,True,NOC_Central,False,False,4.06,9,CLI_11100,Telefono,Media,Baja
+TKT_000383,2025-08-26 12:12:36,2025-08-27 17:10:12,Internet Hogar,Regular,ASE_037,Asesor_030,Senior,Error configuración router,Comercial,False,,False,False,28.96,1,CLI_04152,Web,Alta,Baja
+TKT_000384,2025-07-17 12:12:36,2025-07-18 14:55:48,Móvil Postpago,Básico,ASE_036,Asesor_018,Semi-Senior,Problema VoIP corporativa,Soporte,False,,False,True,26.72,9,CLI_32947,Telefono,Baja,Baja
+TKT_000385,2025-07-16 12:12:36,2025-07-17 11:57:00,Móvil Postpago,VIP,ASE_001,Asesor_048,Semi-Senior,Lentitud navegación específica,Soporte,True,NOC_Este,False,True,23.74,6,CLI_00874,Presencial,Baja,Media
+TKT_000386,2025-08-01 12:12:36,2025-08-03 09:33:36,Móvil Prepago,VIP,ASE_038,Asesor_008,Senior,Cambio plan mayor capacidad,Soporte,True,NOC_Este,False,True,45.35,1,CLI_17610,Presencial,Baja,Alta
+TKT_000387,2025-08-29 12:12:36,2025-08-29 23:00:00,Móvil Prepago,Básico,ASE_046,Asesor_047,Junior,Consulta plan específico región,Retención,False,,False,False,10.79,9,CLI_00139,Web,Alta,Baja
+TKT_000388,2025-07-30 12:12:36,2025-07-30 13:33:36,Empresarial,Premium,ASE_027,Asesor_043,Semi-Senior,Actualización datos personales,Técnico,False,,False,True,1.35,8,CLI_32065,Web,Baja,Baja
+TKT_000389,2025-07-02 12:12:36,2025-07-04 03:16:12,Empresarial,Regular,ASE_036,Asesor_026,Senior,Consulta plan específico región,Técnico,True,NOC_Sur,True,True,39.06,7,CLI_32264,App,Alta,Baja
+TKT_000390,2025-06-23 12:12:36,2025-06-23 18:36:00,Empresarial,Premium,ASE_011,Asesor_001,Senior,Duda promoción temporal,Comercial,True,NOC_Norte,False,False,6.39,9,CLI_27019,Web,Media,Media
+TKT_000391,2025-09-11 12:12:36,2025-09-13 05:16:12,Empresarial,Básico,ASE_021,Asesor_015,Junior,Actualización datos personales,Comercial,False,,True,True,41.06,6,CLI_31505,Web,Media,Baja
+TKT_000392,2025-08-27 12:12:36,2025-08-29 09:08:24,TV Cable,Básico,ASE_017,Asesor_046,Senior,Lentitud navegación específica,Retención,False,,True,True,44.93,2,CLI_49315,App,Media,Media
+TKT_000393,2025-06-24 12:12:36,2025-06-25 21:49:48,Internet Móvil,Regular,ASE_008,Asesor_009,Senior,Duda promoción temporal,Comercial,False,,True,False,33.62,1,CLI_44154,App,Media,Media
+TKT_000394,2025-07-14 12:12:36,2025-07-15 18:27:36,Internet Hogar,VIP,ASE_039,Asesor_009,Semi-Senior,Falla WiFi 5GHz específica,Soporte,True,NOC_Este,True,True,30.25,4,CLI_05633,Telefono,Alta,Baja
+TKT_000395,2025-07-13 12:12:36,2025-07-15 07:01:12,Móvil Postpago,Premium,ASE_036,Asesor_048,Semi-Senior,Corte intermitente fibra,Comercial,True,NOC_Este,False,False,42.81,1,CLI_32789,App,Media,Media
+TKT_000396,2025-08-11 12:12:36,2025-08-11 18:13:48,Internet Móvil,Regular,ASE_029,Asesor_021,Junior,Error configuración router,Técnico,True,NOC_Oeste,True,True,6.02,6,CLI_25843,App,Alta,Media
+TKT_000397,2025-07-01 12:12:36,2025-07-02 05:03:36,TV Cable,Básico,ASE_023,Asesor_029,Junior,Falla WiFi 5GHz específica,Retención,False,,False,True,16.85,2,CLI_05793,Web,Media,Media
+TKT_000398,2025-08-18 12:12:36,2025-08-19 19:49:48,Móvil Postpago,VIP,ASE_004,Asesor_020,Junior,Cambio plan mayor capacidad,Comercial,False,,True,True,31.62,8,CLI_13866,Telefono,Alta,Alta
+TKT_000399,2025-07-11 12:12:36,2025-07-13 08:45:36,Internet Hogar,Premium,ASE_038,Asesor_023,Senior,Problema VoIP corporativa,Soporte,True,NOC_Este,False,True,44.55,6,CLI_29733,Presencial,Baja,Media
+TKT_000400,2025-06-25 12:12:36,2025-06-25 13:19:12,Móvil Postpago,Regular,ASE_045,Asesor_044,Junior,Corte intermitente fibra,Retención,True,NOC_Este,True,True,1.11,10,CLI_38725,App,Media,Alta
+TKT_000401,2025-07-16 12:12:36,2025-07-17 01:39:00,Internet Hogar,VIP,ASE_011,Asesor_019,Semi-Senior,Cambio email contacto,Técnico,True,NOC_Oeste,True,False,13.44,7,CLI_35409,Presencial,Baja,Alta
+TKT_000402,2025-09-14 12:12:36,2025-09-15 23:59:24,Telefonía Fija,Regular,ASE_028,Asesor_024,Semi-Senior,Falla WiFi 5GHz específica,Soporte,True,NOC_Central,True,False,35.78,10,CLI_34439,Web,Media,Baja
+TKT_000403,2025-07-03 12:12:36,2025-07-04 17:22:48,Móvil Postpago,Básico,ASE_007,Asesor_022,Senior,Actualización datos personales,Comercial,False,,True,False,29.17,9,CLI_26893,Telefono,Alta,Baja
+TKT_000404,2025-08-26 12:12:36,2025-08-28 03:28:12,Internet Hogar,VIP,ASE_003,Asesor_032,Senior,Lentitud navegación específica,Soporte,False,,False,True,39.26,6,CLI_09246,Presencial,Baja,Baja
+TKT_000405,2025-06-27 12:12:36,2025-06-28 01:16:12,Internet Hogar,Regular,ASE_039,Asesor_049,Senior,Cambio email contacto,Comercial,True,NOC_Este,True,True,13.06,3,CLI_40315,App,Alta,Media
+TKT_000406,2025-09-10 12:12:36,2025-09-10 20:06:36,Móvil Prepago,Básico,ASE_049,Asesor_031,Semi-Senior,Cambio plan mayor capacidad,Técnico,False,,True,False,7.9,3,CLI_41586,Telefono,Alta,Alta
+TKT_000407,2025-09-05 12:12:36,2025-09-06 22:42:36,Internet Hogar,Básico,ASE_025,Asesor_010,Semi-Senior,Consulta plan específico región,Comercial,False,,False,True,34.5,3,CLI_17008,Presencial,Alta,Baja
+TKT_000408,2025-07-13 12:12:36,2025-07-15 04:12:00,TV Cable,Regular,ASE_043,Asesor_012,Junior,Error configuración router,Técnico,True,NOC_Sur,False,True,39.99,2,CLI_48627,Web,Alta,Alta
+TKT_000409,2025-07-14 12:12:36,2025-07-16 05:33:36,TV Cable,VIP,ASE_011,Asesor_002,Semi-Senior,Solicitud certificado ingresos,Soporte,False,,True,True,41.35,9,CLI_04176,App,Alta,Media
+TKT_000410,2025-09-05 12:12:36,2025-09-07 06:06:00,Empresarial,VIP,ASE_050,Asesor_013,Semi-Senior,Sin señal TV canal específico,Soporte,False,,True,True,41.89,6,CLI_10403,App,Alta,Media
+TKT_000411,2025-07-19 12:12:36,2025-07-20 15:32:24,Empresarial,VIP,ASE_013,Asesor_002,Senior,Falla WiFi 5GHz específica,Soporte,False,,True,False,27.33,7,CLI_45537,Telefono,Baja,Media
+TKT_000412,2025-06-24 12:12:36,2025-06-24 13:51:36,Telefonía Fija,Básico,ASE_014,Asesor_005,Junior,Corte intermitente fibra,Soporte,False,,True,False,1.65,5,CLI_27571,Web,Media,Baja
+TKT_000413,2025-07-03 12:12:36,2025-07-03 21:49:12,Móvil Postpago,Regular,ASE_048,Asesor_011,Semi-Senior,Solicitud certificado ingresos,Retención,True,NOC_Norte,True,False,9.61,10,CLI_30129,App,Media,Alta
+TKT_000414,2025-07-10 12:12:36,2025-07-11 23:13:48,Empresarial,VIP,ASE_049,Asesor_046,Junior,Cambio plan mayor capacidad,Técnico,False,,False,False,35.02,1,CLI_29275,App,Baja,Baja
+TKT_000415,2025-07-22 12:12:36,2025-07-23 15:13:48,Móvil Prepago,Básico,ASE_041,Asesor_042,Semi-Senior,Falla WiFi 5GHz específica,Soporte,False,,False,False,27.02,8,CLI_45317,Presencial,Media,Baja
+TKT_000416,2025-07-07 12:12:36,2025-07-07 18:42:36,Empresarial,Básico,ASE_030,Asesor_048,Semi-Senior,Corte intermitente fibra,Comercial,True,NOC_Sur,True,True,6.5,1,CLI_06893,App,Media,Alta
+TKT_000417,2025-06-30 12:12:36,2025-06-30 21:49:12,Internet Móvil,VIP,ASE_032,Asesor_048,Junior,Cambio email contacto,Comercial,True,NOC_Norte,False,False,9.61,9,CLI_35955,App,Baja,Baja
+TKT_000418,2025-08-13 12:12:36,2025-08-13 23:06:36,Telefonía Fija,Premium,ASE_035,Asesor_047,Semi-Senior,Cambio plan mayor capacidad,Técnico,True,NOC_Oeste,True,True,10.9,6,CLI_02725,Telefono,Alta,Baja
+TKT_000419,2025-06-23 12:12:36,2025-06-24 04:51:36,Internet Móvil,Básico,ASE_047,Asesor_031,Senior,Cambio email contacto,Retención,True,NOC_Oeste,False,True,16.65,1,CLI_34195,Web,Alta,Media
+TKT_000420,2025-08-01 12:12:36,2025-08-02 07:19:12,Móvil Postpago,Básico,ASE_029,Asesor_033,Junior,Consulta plan específico región,Retención,False,,True,False,19.11,1,CLI_02196,Web,Alta,Media
+TKT_000421,2025-06-20 12:12:36,2025-06-20 12:44:24,Internet Móvil,Regular,ASE_004,Asesor_012,Junior,Duda promoción temporal,Técnico,False,,True,True,0.53,8,CLI_33710,Telefono,Media,Media
+TKT_000422,2025-07-21 12:12:36,2025-07-21 22:26:24,Internet Móvil,VIP,ASE_006,Asesor_031,Senior,Sin señal TV canal específico,Comercial,True,NOC_Oeste,True,False,10.23,9,CLI_12905,Presencial,Baja,Alta
+TKT_000423,2025-07-17 12:12:36,2025-07-18 13:28:48,Internet Hogar,Regular,ASE_039,Asesor_045,Junior,Sin señal TV canal específico,Soporte,True,NOC_Central,True,False,25.27,3,CLI_04769,Web,Baja,Alta
+TKT_000424,2025-06-29 12:12:36,2025-06-30 12:48:36,Móvil Prepago,Regular,ASE_024,Asesor_027,Semi-Senior,Falla WiFi 5GHz específica,Técnico,False,,False,False,24.6,10,CLI_14218,Telefono,Alta,Media
+TKT_000425,2025-07-18 12:12:36,2025-07-20 05:04:12,Móvil Postpago,VIP,ASE_025,Asesor_043,Junior,Consulta plan específico región,Técnico,True,NOC_Norte,True,True,40.86,1,CLI_19536,Telefono,Alta,Baja
+TKT_000426,2025-06-24 12:12:36,2025-06-25 22:55:12,Internet Hogar,Básico,ASE_013,Asesor_041,Semi-Senior,Corte intermitente fibra,Técnico,True,NOC_Este,False,True,34.71,7,CLI_10235,Telefono,Alta,Alta
+TKT_000427,2025-06-20 12:12:36,2025-06-22 00:11:24,Empresarial,Básico,ASE_041,Asesor_016,Senior,Duda promoción temporal,Retención,True,NOC_Oeste,True,True,35.98,3,CLI_29981,Telefono,Alta,Baja
+TKT_000428,2025-07-11 12:12:36,2025-07-13 05:24:36,Móvil Postpago,Básico,ASE_014,Asesor_018,Junior,Solicitud certificado ingresos,Técnico,True,NOC_Norte,False,False,41.2,8,CLI_47270,Telefono,Media,Media
+TKT_000429,2025-07-31 12:12:36,2025-08-01 17:37:48,TV Cable,VIP,ASE_002,Asesor_031,Senior,Duda promoción temporal,Retención,True,NOC_Norte,True,True,29.42,8,CLI_33934,Telefono,Baja,Baja
+TKT_000430,2025-08-27 12:12:36,2025-08-27 18:34:12,Internet Hogar,Premium,ASE_035,Asesor_005,Senior,Corte intermitente fibra,Técnico,False,,False,False,6.36,3,CLI_28367,App,Alta,Media
+TKT_000431,2025-08-23 12:12:36,2025-08-24 09:46:48,Telefonía Fija,Básico,ASE_032,Asesor_036,Senior,Consulta plan específico región,Técnico,True,NOC_Oeste,True,True,21.57,7,CLI_43417,Telefono,Alta,Alta
+TKT_000432,2025-06-27 12:12:36,2025-06-28 02:52:12,Internet Hogar,Regular,ASE_012,Asesor_023,Junior,Actualización datos personales,Comercial,False,,False,False,14.66,4,CLI_38648,Presencial,Baja,Alta
+TKT_000433,2025-09-13 12:12:36,2025-09-13 17:22:12,Internet Hogar,Básico,ASE_033,Asesor_035,Junior,Lentitud navegación específica,Técnico,True,NOC_Central,True,True,5.16,2,CLI_16159,Presencial,Baja,Baja
+TKT_000434,2025-08-12 12:12:36,2025-08-12 16:39:36,Móvil Postpago,Básico,ASE_047,Asesor_015,Senior,Sin señal TV canal específico,Técnico,True,NOC_Sur,False,False,4.45,2,CLI_39759,Web,Media,Baja
+TKT_000435,2025-06-23 12:12:36,2025-06-25 00:28:48,Móvil Prepago,Regular,ASE_047,Asesor_031,Junior,Error configuración router,Técnico,True,NOC_Este,False,True,36.27,9,CLI_45133,Presencial,Alta,Alta
+TKT_000436,2025-07-03 12:12:36,2025-07-04 17:27:36,Internet Hogar,Premium,ASE_031,Asesor_021,Semi-Senior,Corte intermitente fibra,Comercial,True,NOC_Este,True,True,29.25,9,CLI_00218,Web,Alta,Baja
+TKT_000437,2025-08-30 12:12:36,2025-08-31 08:16:48,Móvil Prepago,Regular,ASE_030,Asesor_026,Junior,Problema VoIP corporativa,Técnico,False,,True,True,20.07,8,CLI_04091,App,Media,Media
+TKT_000438,2025-06-28 12:12:36,2025-06-30 11:52:48,Telefonía Fija,Premium,ASE_002,Asesor_024,Junior,Solicitud certificado ingresos,Técnico,False,,False,False,47.67,3,CLI_44621,Telefono,Baja,Baja
+TKT_000439,2025-09-07 12:12:36,2025-09-08 11:40:48,TV Cable,VIP,ASE_006,Asesor_009,Senior,Duda promoción temporal,Técnico,False,,True,True,23.47,1,CLI_15714,Telefono,Baja,Media
+TKT_000440,2025-06-19 12:12:36,2025-06-21 10:20:24,Internet Móvil,VIP,ASE_049,Asesor_045,Senior,Problema VoIP corporativa,Retención,False,,False,False,46.13,6,CLI_13304,Web,Media,Media
+TKT_000441,2025-08-07 12:12:36,2025-08-07 20:32:24,Móvil Prepago,Regular,ASE_023,Asesor_016,Semi-Senior,Problema VoIP corporativa,Técnico,False,,False,False,8.33,10,CLI_28543,Presencial,Media,Media
+TKT_000442,2025-06-30 12:12:36,2025-07-01 01:06:36,TV Cable,Premium,ASE_031,Asesor_027,Junior,Actualización datos personales,Comercial,False,,False,False,12.9,2,CLI_10433,Web,Media,Media
+TKT_000443,2025-09-12 12:12:36,2025-09-13 16:36:00,Telefonía Fija,Premium,ASE_023,Asesor_034,Senior,Cambio email contacto,Comercial,True,NOC_Norte,False,False,28.39,4,CLI_05666,Telefono,Baja,Baja
+TKT_000444,2025-08-02 12:12:36,2025-08-02 21:17:24,TV Cable,VIP,ASE_016,Asesor_045,Senior,Sin señal TV canal específico,Soporte,False,,True,False,9.08,1,CLI_43916,Telefono,Alta,Baja
+TKT_000445,2025-08-02 12:12:36,2025-08-04 08:18:00,TV Cable,VIP,ASE_006,Asesor_032,Junior,Actualización datos personales,Comercial,True,NOC_Este,False,False,44.09,9,CLI_40586,App,Alta,Media
+TKT_000446,2025-08-29 12:12:36,2025-08-31 11:06:00,Empresarial,Básico,ASE_015,Asesor_023,Senior,Error configuración router,Soporte,False,,True,False,46.89,8,CLI_00578,App,Baja,Alta
+TKT_000447,2025-08-16 12:12:36,2025-08-18 01:28:48,Internet Hogar,VIP,ASE_013,Asesor_044,Semi-Senior,Duda promoción temporal,Retención,False,,True,True,37.27,1,CLI_43956,Presencial,Alta,Baja
+TKT_000448,2025-07-30 12:12:36,2025-07-31 13:11:24,Móvil Prepago,Premium,ASE_022,Asesor_032,Semi-Senior,Problema VoIP corporativa,Soporte,False,,True,True,24.98,8,CLI_41922,Presencial,Media,Alta
+TKT_000449,2025-06-19 12:12:36,2025-06-21 11:33:36,Telefonía Fija,Regular,ASE_001,Asesor_029,Semi-Senior,Consulta plan específico región,Retención,True,NOC_Norte,False,False,47.35,5,CLI_23953,Web,Baja,Baja
+TKT_000450,2025-08-20 12:12:36,2025-08-22 11:13:12,Internet Hogar,Premium,ASE_025,Asesor_026,Senior,Actualización datos personales,Soporte,False,,False,False,47.01,5,CLI_07350,Presencial,Media,Baja
+TKT_000451,2025-08-18 12:12:36,2025-08-20 00:34:12,Internet Móvil,Regular,ASE_001,Asesor_045,Semi-Senior,Solicitud certificado ingresos,Retención,False,,True,True,36.36,4,CLI_33694,Presencial,Baja,Baja
+TKT_000452,2025-08-28 12:12:36,2025-08-28 19:52:48,Móvil Prepago,VIP,ASE_040,Asesor_038,Junior,Lentitud navegación específica,Retención,False,,False,True,7.67,4,CLI_05958,Telefono,Media,Alta
+TKT_000453,2025-09-08 12:12:36,2025-09-09 17:46:48,TV Cable,VIP,ASE_027,Asesor_021,Semi-Senior,Solicitud certificado ingresos,Retención,False,,True,False,29.57,3,CLI_21191,Web,Media,Media
+TKT_000454,2025-07-11 12:12:36,2025-07-12 08:52:12,Móvil Prepago,VIP,ASE_021,Asesor_034,Junior,Lentitud navegación específica,Soporte,False,,False,True,20.66,6,CLI_39294,App,Baja,Alta
+TKT_000455,2025-06-29 12:12:36,2025-07-01 10:42:00,Telefonía Fija,Básico,ASE_008,Asesor_031,Junior,Cambio plan mayor capacidad,Retención,True,NOC_Sur,True,False,46.49,7,CLI_36002,App,Baja,Media
+TKT_000456,2025-08-01 12:12:36,2025-08-02 13:31:12,Telefonía Fija,VIP,ASE_025,Asesor_020,Junior,Actualización datos personales,Retención,False,,False,False,25.31,6,CLI_09936,Telefono,Baja,Media
+TKT_000457,2025-06-30 12:12:36,2025-07-01 13:27:36,TV Cable,Básico,ASE_047,Asesor_028,Semi-Senior,Error configuración router,Soporte,True,NOC_Central,False,False,25.25,7,CLI_23896,Web,Media,Baja
+TKT_000458,2025-09-06 12:12:36,2025-09-06 23:45:36,Telefonía Fija,Premium,ASE_041,Asesor_041,Senior,Solicitud certificado ingresos,Soporte,False,,True,True,11.55,9,CLI_27944,Telefono,Baja,Baja
+TKT_000459,2025-06-30 12:12:36,2025-06-30 20:14:24,Empresarial,Premium,ASE_001,Asesor_029,Semi-Senior,Actualización datos personales,Retención,True,NOC_Oeste,True,False,8.03,3,CLI_10988,Web,Media,Media
+TKT_000460,2025-07-24 12:12:36,2025-07-26 10:10:48,Empresarial,Regular,ASE_018,Asesor_020,Semi-Senior,Solicitud certificado ingresos,Comercial,False,,False,True,45.97,5,CLI_46619,Presencial,Baja,Media
+TKT_000461,2025-09-08 12:12:36,2025-09-08 16:50:24,TV Cable,Premium,ASE_043,Asesor_026,Semi-Senior,Falla WiFi 5GHz específica,Soporte,False,,True,False,4.63,6,CLI_20185,App,Baja,Alta
+TKT_000462,2025-07-01 12:12:36,2025-07-01 21:22:48,Internet Hogar,Regular,ASE_035,Asesor_035,Junior,Corte intermitente fibra,Técnico,False,,True,True,9.17,7,CLI_09142,App,Baja,Baja
+TKT_000463,2025-07-13 12:12:36,2025-07-13 21:01:12,Internet Hogar,Básico,ASE_007,Asesor_038,Senior,Sin señal TV canal específico,Técnico,True,NOC_Sur,True,False,8.81,2,CLI_17282,Telefono,Alta,Media
+TKT_000464,2025-09-07 12:12:36,2025-09-07 19:30:36,Móvil Prepago,Premium,ASE_023,Asesor_005,Semi-Senior,Solicitud certificado ingresos,Comercial,True,NOC_Sur,False,False,7.3,2,CLI_24239,Web,Alta,Media
+TKT_000465,2025-08-14 12:12:36,2025-08-16 05:07:12,Internet Hogar,Regular,ASE_028,Asesor_044,Junior,Duda promoción temporal,Soporte,False,,True,True,40.91,1,CLI_33285,Telefono,Media,Media
+TKT_000466,2025-08-21 12:12:36,2025-08-23 06:01:12,Empresarial,Regular,ASE_032,Asesor_012,Senior,Lentitud navegación específica,Técnico,True,NOC_Central,True,False,41.81,5,CLI_02053,Presencial,Media,Baja
+TKT_000467,2025-08-02 12:12:36,2025-08-04 00:50:24,Móvil Prepago,Regular,ASE_025,Asesor_031,Junior,Actualización datos personales,Soporte,False,,False,True,36.63,8,CLI_42536,App,Media,Media
+TKT_000468,2025-07-26 12:12:36,2025-07-27 19:20:24,Empresarial,Regular,ASE_048,Asesor_025,Semi-Senior,Lentitud navegación específica,Retención,True,NOC_Central,False,False,31.13,8,CLI_45756,Presencial,Media,Baja
+TKT_000469,2025-07-29 12:12:36,2025-07-30 21:18:36,Telefonía Fija,VIP,ASE_010,Asesor_047,Junior,Cambio plan mayor capacidad,Técnico,True,NOC_Central,False,False,33.1,9,CLI_33569,Presencial,Media,Baja
+TKT_000470,2025-07-07 12:12:36,2025-07-08 20:52:12,Móvil Postpago,Premium,ASE_002,Asesor_024,Semi-Senior,Lentitud navegación específica,Comercial,True,NOC_Norte,True,False,32.66,9,CLI_04566,Presencial,Alta,Media
+TKT_000471,2025-08-22 12:12:36,2025-08-22 23:52:48,Internet Móvil,Básico,ASE_029,Asesor_032,Semi-Senior,Problema VoIP corporativa,Soporte,False,,False,False,11.67,10,CLI_04274,Web,Media,Baja
+TKT_000472,2025-08-04 12:12:36,2025-08-05 19:15:36,Móvil Prepago,Premium,ASE_001,Asesor_038,Junior,Cambio plan mayor capacidad,Técnico,False,,False,False,31.05,10,CLI_46082,Telefono,Alta,Alta
+TKT_000473,2025-08-28 12:12:36,2025-08-29 12:28:12,Telefonía Fija,VIP,ASE_001,Asesor_017,Semi-Senior,Cambio email contacto,Técnico,True,NOC_Sur,True,False,24.26,2,CLI_00770,App,Baja,Media
+TKT_000474,2025-06-22 12:12:36,2025-06-23 05:13:12,Telefonía Fija,Básico,ASE_028,Asesor_029,Junior,Problema VoIP corporativa,Técnico,False,,True,False,17.01,9,CLI_07493,App,Baja,Media
+TKT_000475,2025-09-09 12:12:36,2025-09-10 19:09:00,Móvil Prepago,VIP,ASE_048,Asesor_047,Junior,Falla WiFi 5GHz específica,Comercial,False,,True,False,30.94,7,CLI_16491,Telefono,Baja,Baja
+TKT_000476,2025-08-31 12:12:36,2025-09-02 00:25:48,TV Cable,VIP,ASE_014,Asesor_009,Junior,Corte intermitente fibra,Técnico,True,NOC_Sur,True,False,36.22,6,CLI_48732,Web,Baja,Alta
+TKT_000477,2025-06-26 12:12:36,2025-06-27 00:18:36,Móvil Prepago,VIP,ASE_027,Asesor_003,Senior,Lentitud navegación específica,Retención,True,NOC_Oeste,True,False,12.1,8,CLI_18861,Web,Media,Alta
+TKT_000478,2025-08-23 12:12:36,2025-08-24 10:21:00,Empresarial,VIP,ASE_032,Asesor_031,Semi-Senior,Solicitud certificado ingresos,Comercial,False,,False,False,22.14,3,CLI_32621,App,Alta,Alta
+TKT_000479,2025-08-28 12:12:36,2025-08-28 19:44:24,TV Cable,Premium,ASE_006,Asesor_047,Senior,Consulta plan específico región,Retención,False,,True,True,7.53,9,CLI_33034,Presencial,Media,Baja
+TKT_000480,2025-07-15 12:12:36,2025-07-16 15:34:12,Internet Hogar,Básico,ASE_014,Asesor_015,Senior,Solicitud certificado ingresos,Retención,True,NOC_Central,True,False,27.36,2,CLI_03487,Web,Media,Alta
+TKT_000481,2025-06-30 12:12:36,2025-07-02 09:32:24,Internet Hogar,VIP,ASE_023,Asesor_019,Semi-Senior,Problema VoIP corporativa,Comercial,True,NOC_Norte,True,False,45.33,2,CLI_19325,Presencial,Media,Baja
+TKT_000482,2025-08-13 12:12:36,2025-08-14 04:49:12,Internet Móvil,Premium,ASE_041,Asesor_022,Senior,Cambio email contacto,Técnico,False,,True,False,16.61,2,CLI_09380,Telefono,Baja,Baja
+TKT_000483,2025-07-10 12:12:36,2025-07-10 18:26:24,Internet Hogar,VIP,ASE_010,Asesor_043,Junior,Solicitud certificado ingresos,Técnico,True,NOC_Este,False,False,6.23,5,CLI_31062,Web,Baja,Media
+TKT_000484,2025-08-10 12:12:36,2025-08-11 17:26:24,Internet Móvil,VIP,ASE_036,Asesor_003,Senior,Sin señal TV canal específico,Retención,False,,True,False,29.23,4,CLI_30293,App,Media,Baja
+TKT_000485,2025-08-05 12:12:36,2025-08-06 06:45:00,Internet Hogar,VIP,ASE_016,Asesor_042,Senior,Sin señal TV canal específico,Soporte,False,,False,False,18.54,3,CLI_47119,App,Alta,Alta
+TKT_000486,2025-07-16 12:12:36,2025-07-16 23:01:48,Empresarial,Premium,ASE_030,Asesor_020,Senior,Actualización datos personales,Retención,False,,False,True,10.82,6,CLI_12255,Telefono,Alta,Baja
+TKT_000487,2025-08-11 12:12:36,2025-08-12 01:41:24,Internet Hogar,Premium,ASE_017,Asesor_003,Senior,Actualización datos personales,Soporte,False,,False,False,13.48,4,CLI_39439,Telefono,Media,Baja
+TKT_000488,2025-07-03 12:12:36,2025-07-04 23:22:12,TV Cable,Premium,ASE_016,Asesor_020,Semi-Senior,Consulta plan específico región,Soporte,False,,False,False,35.16,1,CLI_45237,Presencial,Baja,Alta
+TKT_000489,2025-06-27 12:12:36,2025-06-28 01:01:48,Telefonía Fija,Premium,ASE_049,Asesor_033,Junior,Sin señal TV canal específico,Soporte,False,,False,True,12.82,5,CLI_26058,App,Baja,Baja
+TKT_000490,2025-06-29 12:12:36,2025-07-01 02:55:12,Internet Hogar,VIP,ASE_027,Asesor_011,Senior,Solicitud certificado ingresos,Comercial,True,NOC_Este,True,False,38.71,1,CLI_33934,App,Baja,Alta
+TKT_000491,2025-07-26 12:12:36,2025-07-26 19:35:24,Internet Hogar,VIP,ASE_024,Asesor_033,Semi-Senior,Cambio email contacto,Soporte,False,,True,True,7.38,2,CLI_41687,Telefono,Media,Alta
+TKT_000492,2025-08-04 12:12:36,2025-08-05 03:29:24,Empresarial,Regular,ASE_037,Asesor_006,Junior,Cambio plan mayor capacidad,Soporte,False,,False,True,15.28,4,CLI_33847,App,Media,Baja
+TKT_000493,2025-08-07 12:12:36,2025-08-09 04:28:12,Telefonía Fija,Premium,ASE_047,Asesor_027,Senior,Error configuración router,Soporte,False,,True,True,40.26,5,CLI_27348,Telefono,Baja,Media
+TKT_000494,2025-08-21 12:12:36,2025-08-22 16:52:48,Móvil Prepago,Regular,ASE_009,Asesor_016,Senior,Cambio plan mayor capacidad,Soporte,False,,True,True,28.67,5,CLI_45065,Web,Alta,Alta
+TKT_000495,2025-07-28 12:12:36,2025-07-29 20:55:48,Internet Móvil,Regular,ASE_030,Asesor_038,Senior,Solicitud certificado ingresos,Técnico,True,NOC_Oeste,True,True,32.72,2,CLI_48203,App,Media,Media
+TKT_000496,2025-08-02 12:12:36,2025-08-03 01:32:24,Móvil Prepago,VIP,ASE_048,Asesor_042,Semi-Senior,Problema VoIP corporativa,Comercial,True,NOC_Este,True,False,13.33,3,CLI_47498,Web,Media,Media
+TKT_000497,2025-07-14 12:12:36,2025-07-15 17:46:12,TV Cable,VIP,ASE_014,Asesor_024,Semi-Senior,Solicitud certificado ingresos,Técnico,False,,True,True,29.56,7,CLI_47164,App,Media,Alta
+TKT_000498,2025-09-15 12:12:36,2025-09-16 16:50:24,Internet Hogar,VIP,ASE_036,Asesor_025,Semi-Senior,Actualización datos personales,Comercial,True,NOC_Sur,False,True,28.63,2,CLI_14609,App,Baja,Media
+TKT_000499,2025-07-08 12:12:36,2025-07-10 03:17:24,Internet Hogar,Regular,ASE_028,Asesor_048,Senior,Consulta plan específico región,Técnico,False,,False,True,39.08,4,CLI_48266,Telefono,Alta,Media
+TKT_000500,2025-08-28 12:12:36,2025-08-28 20:27:36,Internet Hogar,VIP,ASE_031,Asesor_006,Junior,Sin señal TV canal específico,Soporte,False,,True,False,8.25,6,CLI_47137,Presencial,Baja,Baja
+TKT_000501,2025-07-10 12:12:36,2025-07-12 09:45:36,Internet Móvil,Premium,ASE_003,Asesor_016,Senior,Problema VoIP corporativa,Retención,True,NOC_Oeste,False,True,45.55,2,CLI_24830,Web,Alta,Alta
+TKT_000502,2025-07-06 12:12:36,2025-07-07 14:40:48,Empresarial,Regular,ASE_022,Asesor_033,Senior,Cambio email contacto,Retención,False,,True,True,26.47,3,CLI_11170,Telefono,Media,Alta
+TKT_000503,2025-09-10 12:12:36,2025-09-11 10:02:24,Móvil Prepago,Regular,ASE_048,Asesor_049,Semi-Senior,Cambio email contacto,Retención,False,,True,False,21.83,2,CLI_04450,Telefono,Baja,Alta
+TKT_000504,2025-06-27 12:12:36,2025-06-29 05:33:00,TV Cable,Regular,ASE_043,Asesor_027,Semi-Senior,Cambio plan mayor capacidad,Retención,True,NOC_Este,True,False,41.34,3,CLI_45943,Web,Alta,Alta
+TKT_000505,2025-09-12 12:12:36,2025-09-13 14:58:12,Móvil Prepago,Premium,ASE_029,Asesor_019,Junior,Cambio plan mayor capacidad,Retención,False,,False,True,26.76,5,CLI_33813,App,Media,Baja
+TKT_000506,2025-08-04 12:12:36,2025-08-05 21:24:00,Internet Móvil,Premium,ASE_044,Asesor_005,Junior,Problema VoIP corporativa,Retención,False,,False,True,33.19,4,CLI_16186,App,Alta,Baja
+TKT_000507,2025-09-07 12:12:36,2025-09-08 15:52:12,Telefonía Fija,Premium,ASE_017,Asesor_025,Junior,Lentitud navegación específica,Retención,False,,True,False,27.66,9,CLI_14666,Telefono,Media,Baja
+TKT_000508,2025-07-01 12:12:36,2025-07-03 01:09:00,Internet Hogar,Regular,ASE_028,Asesor_044,Semi-Senior,Cambio plan mayor capacidad,Técnico,False,,True,True,36.94,7,CLI_42980,App,Media,Baja
+TKT_000509,2025-08-21 12:12:36,2025-08-22 07:16:12,Móvil Prepago,VIP,ASE_010,Asesor_011,Junior,Sin señal TV canal específico,Técnico,True,NOC_Norte,True,True,19.06,10,CLI_10399,Presencial,Alta,Alta
+TKT_000510,2025-07-04 12:12:36,2025-07-05 04:51:00,Telefonía Fija,Regular,ASE_022,Asesor_046,Semi-Senior,Sin señal TV canal específico,Comercial,True,NOC_Central,False,True,16.64,1,CLI_40044,Telefono,Media,Media
+TKT_000511,2025-07-21 12:12:36,2025-07-22 22:29:24,Internet Hogar,Regular,ASE_039,Asesor_023,Semi-Senior,Problema VoIP corporativa,Soporte,False,,False,False,34.28,1,CLI_02863,Presencial,Alta,Baja
+TKT_000512,2025-07-24 12:12:36,2025-07-24 21:41:24,Internet Hogar,Premium,ASE_005,Asesor_016,Semi-Senior,Sin señal TV canal específico,Soporte,False,,False,True,9.48,5,CLI_12898,Telefono,Baja,Baja
+TKT_000513,2025-07-17 12:12:36,2025-07-18 01:33:00,Empresarial,Regular,ASE_035,Asesor_029,Junior,Lentitud navegación específica,Retención,True,NOC_Este,True,False,13.34,1,CLI_40110,Telefono,Baja,Baja
+TKT_000514,2025-08-26 12:12:36,2025-08-27 09:52:12,Móvil Prepago,VIP,ASE_050,Asesor_043,Semi-Senior,Problema VoIP corporativa,Técnico,True,NOC_Oeste,False,False,21.66,9,CLI_48082,Presencial,Alta,Alta
+TKT_000515,2025-07-26 12:12:36,2025-07-26 18:58:12,Móvil Prepago,Básico,ASE_033,Asesor_042,Semi-Senior,Error configuración router,Técnico,True,NOC_Este,True,True,6.76,7,CLI_04373,Web,Media,Alta
+TKT_000516,2025-08-15 12:12:36,2025-08-17 03:58:48,Internet Hogar,Básico,ASE_015,Asesor_036,Senior,Falla WiFi 5GHz específica,Retención,True,NOC_Sur,False,False,39.77,1,CLI_23823,Web,Media,Alta
+TKT_000517,2025-08-19 12:12:36,2025-08-21 11:30:00,Telefonía Fija,VIP,ASE_002,Asesor_001,Semi-Senior,Cambio email contacto,Técnico,True,NOC_Central,True,False,47.29,5,CLI_45664,Presencial,Media,Alta
+TKT_000518,2025-08-23 12:12:36,2025-08-24 13:54:36,Móvil Postpago,Regular,ASE_009,Asesor_045,Semi-Senior,Lentitud navegación específica,Soporte,False,,True,False,25.7,1,CLI_39821,Presencial,Baja,Media
+TKT_000519,2025-06-24 12:12:36,2025-06-25 23:53:24,Empresarial,Premium,ASE_011,Asesor_006,Semi-Senior,Corte intermitente fibra,Retención,False,,True,True,35.68,7,CLI_03329,Telefono,Alta,Media
+TKT_000520,2025-06-30 12:12:36,2025-06-30 18:40:12,Telefonía Fija,VIP,ASE_029,Asesor_019,Junior,Falla WiFi 5GHz específica,Soporte,True,NOC_Oeste,False,False,6.46,10,CLI_15391,App,Alta,Baja
+TKT_000521,2025-07-09 12:12:36,2025-07-10 02:57:36,Telefonía Fija,VIP,ASE_038,Asesor_042,Semi-Senior,Solicitud certificado ingresos,Retención,False,,True,True,14.75,3,CLI_46817,App,Media,Alta
+TKT_000522,2025-08-22 12:12:36,2025-08-23 05:57:36,Telefonía Fija,Premium,ASE_041,Asesor_017,Semi-Senior,Sin señal TV canal específico,Soporte,True,NOC_Oeste,True,True,17.75,4,CLI_31739,Web,Alta,Alta
+TKT_000523,2025-07-08 12:12:36,2025-07-09 12:57:00,Móvil Prepago,Regular,ASE_050,Asesor_014,Senior,Consulta plan específico región,Comercial,True,NOC_Sur,True,True,24.74,6,CLI_23944,Web,Media,Baja
+TKT_000524,2025-07-16 12:12:36,2025-07-17 00:47:24,Empresarial,Premium,ASE_027,Asesor_039,Senior,Solicitud certificado ingresos,Retención,True,NOC_Norte,True,False,12.58,9,CLI_36617,Telefono,Baja,Alta
+TKT_000525,2025-08-11 12:12:36,2025-08-13 10:04:12,Internet Móvil,Premium,ASE_033,Asesor_002,Senior,Lentitud navegación específica,Técnico,True,NOC_Este,False,False,45.86,3,CLI_43921,Presencial,Media,Alta
+TKT_000526,2025-08-10 12:12:36,2025-08-12 06:07:48,Móvil Postpago,Premium,ASE_022,Asesor_012,Senior,Error configuración router,Comercial,True,NOC_Este,False,True,41.92,4,CLI_33168,Presencial,Alta,Baja
+TKT_000527,2025-07-09 12:12:36,2025-07-10 01:45:36,Móvil Prepago,Regular,ASE_029,Asesor_012,Semi-Senior,Lentitud navegación específica,Técnico,True,NOC_Sur,False,False,13.55,8,CLI_07879,App,Alta,Baja
+TKT_000528,2025-07-19 12:12:36,2025-07-19 13:11:24,Internet Móvil,Premium,ASE_015,Asesor_042,Senior,Cambio plan mayor capacidad,Técnico,False,,True,True,0.98,9,CLI_19171,Telefono,Media,Alta
+TKT_000529,2025-07-19 12:12:36,2025-07-20 00:38:24,Empresarial,Básico,ASE_029,Asesor_021,Semi-Senior,Problema VoIP corporativa,Retención,False,,False,True,12.43,5,CLI_38136,Web,Baja,Alta
+TKT_000530,2025-07-28 12:12:36,2025-07-29 09:01:12,Internet Móvil,Básico,ASE_047,Asesor_047,Semi-Senior,Consulta plan específico región,Soporte,True,NOC_Norte,False,False,20.81,8,CLI_27786,Web,Baja,Alta
+TKT_000531,2025-06-26 12:12:36,2025-06-27 07:34:48,Internet Móvil,VIP,ASE_042,Asesor_017,Junior,Problema VoIP corporativa,Soporte,True,NOC_Central,False,False,19.37,6,CLI_08213,App,Alta,Baja
+TKT_000532,2025-07-13 12:12:36,2025-07-15 00:16:48,Internet Hogar,VIP,ASE_021,Asesor_029,Senior,Duda promoción temporal,Técnico,False,,False,False,36.07,2,CLI_12785,App,Media,Alta
+TKT_000533,2025-06-30 12:12:36,2025-07-02 02:10:12,Internet Hogar,Regular,ASE_037,Asesor_025,Semi-Senior,Problema VoIP corporativa,Comercial,False,,True,True,37.96,2,CLI_11410,App,Media,Baja
+TKT_000534,2025-07-21 12:12:36,2025-07-23 06:12:00,TV Cable,Premium,ASE_001,Asesor_029,Semi-Senior,Problema VoIP corporativa,Retención,False,,False,True,41.99,10,CLI_33894,Web,Baja,Baja
+TKT_000535,2025-07-25 12:12:36,2025-07-26 09:27:00,Móvil Prepago,Regular,ASE_030,Asesor_050,Senior,Error configuración router,Técnico,False,,False,True,21.24,5,CLI_17247,Telefono,Media,Alta
+TKT_000536,2025-06-25 12:12:36,2025-06-26 08:27:00,Empresarial,Premium,ASE_042,Asesor_015,Junior,Consulta plan específico región,Soporte,False,,False,False,20.24,5,CLI_35971,Web,Media,Media
+TKT_000537,2025-07-28 12:12:36,2025-07-30 09:28:12,Móvil Postpago,VIP,ASE_021,Asesor_034,Junior,Problema VoIP corporativa,Retención,False,,False,False,45.26,4,CLI_22129,Web,Media,Media
+TKT_000538,2025-07-25 12:12:36,2025-07-26 16:15:00,Móvil Postpago,Básico,ASE_029,Asesor_050,Junior,Actualización datos personales,Soporte,False,,True,False,28.04,7,CLI_28259,App,Media,Baja
+TKT_000539,2025-07-19 12:12:36,2025-07-19 16:36:36,Internet Hogar,Premium,ASE_007,Asesor_043,Junior,Duda promoción temporal,Retención,True,NOC_Este,True,False,4.4,5,CLI_20017,Telefono,Alta,Media
+TKT_000540,2025-08-04 12:12:36,2025-08-05 16:39:36,Móvil Postpago,Premium,ASE_001,Asesor_003,Senior,Consulta plan específico región,Soporte,False,,True,False,28.45,7,CLI_04076,Telefono,Baja,Baja
+TKT_000541,2025-08-01 12:12:36,2025-08-02 20:45:36,Internet Móvil,Regular,ASE_040,Asesor_034,Junior,Problema VoIP corporativa,Soporte,False,,False,True,32.55,2,CLI_38454,Telefono,Baja,Media
+TKT_000542,2025-08-16 12:12:36,2025-08-17 22:27:36,Internet Móvil,Premium,ASE_016,Asesor_015,Junior,Consulta plan específico región,Comercial,False,,True,False,34.25,10,CLI_16401,Web,Alta,Media
+TKT_000543,2025-07-11 12:12:36,2025-07-12 12:39:36,Empresarial,Premium,ASE_047,Asesor_028,Junior,Sin señal TV canal específico,Soporte,False,,True,False,24.45,8,CLI_33592,Web,Alta,Alta
+TKT_000544,2025-08-19 12:12:36,2025-08-21 07:30:36,Internet Móvil,Básico,ASE_014,Asesor_023,Semi-Senior,Lentitud navegación específica,Retención,False,,False,True,43.3,2,CLI_40959,Web,Alta,Baja
+TKT_000545,2025-09-11 12:12:36,2025-09-13 04:43:12,Empresarial,Premium,ASE_006,Asesor_011,Junior,Consulta plan específico región,Retención,False,,False,True,40.51,3,CLI_18151,App,Baja,Baja
+TKT_000546,2025-08-16 12:12:36,2025-08-16 13:58:12,Empresarial,Premium,ASE_027,Asesor_012,Junior,Problema VoIP corporativa,Soporte,False,,False,True,1.76,4,CLI_33228,Web,Baja,Baja
+TKT_000547,2025-08-26 12:12:36,2025-08-28 03:27:36,Internet Móvil,Básico,ASE_044,Asesor_006,Semi-Senior,Falla WiFi 5GHz específica,Retención,True,NOC_Este,False,True,39.25,6,CLI_18134,App,Alta,Baja
+TKT_000548,2025-08-25 12:12:36,2025-08-26 03:48:00,Móvil Prepago,Premium,ASE_036,Asesor_001,Junior,Lentitud navegación específica,Retención,False,,True,False,15.59,10,CLI_22237,Telefono,Alta,Media
+TKT_000549,2025-06-20 12:12:36,2025-06-21 14:45:00,Internet Móvil,VIP,ASE_008,Asesor_006,Junior,Actualización datos personales,Técnico,True,NOC_Sur,True,True,26.54,4,CLI_00152,Telefono,Alta,Baja
+TKT_000550,2025-07-16 12:12:36,2025-07-17 03:21:36,Móvil Postpago,Regular,ASE_012,Asesor_011,Senior,Duda promoción temporal,Técnico,False,,False,False,15.15,8,CLI_12090,Web,Media,Media
+TKT_000551,2025-06-24 12:12:36,2025-06-26 02:33:36,Móvil Postpago,Básico,ASE_012,Asesor_035,Senior,Consulta plan específico región,Técnico,False,,False,True,38.35,3,CLI_04726,App,Media,Media
+TKT_000552,2025-08-02 12:12:36,2025-08-03 12:18:00,Móvil Prepago,Premium,ASE_029,Asesor_020,Senior,Lentitud navegación específica,Comercial,True,NOC_Oeste,True,True,24.09,2,CLI_17202,Presencial,Media,Baja
+TKT_000553,2025-06-29 12:12:36,2025-06-30 03:49:12,Internet Móvil,Premium,ASE_013,Asesor_023,Semi-Senior,Duda promoción temporal,Soporte,True,NOC_Central,False,True,15.61,5,CLI_35170,Telefono,Alta,Alta
+TKT_000554,2025-06-27 12:12:36,2025-06-28 00:22:48,TV Cable,VIP,ASE_026,Asesor_014,Senior,Solicitud certificado ingresos,Técnico,False,,False,True,12.17,5,CLI_25474,App,Baja,Media
+TKT_000555,2025-07-17 12:12:36,2025-07-18 03:10:48,Móvil Prepago,Básico,ASE_006,Asesor_021,Senior,Lentitud navegación específica,Comercial,True,NOC_Central,False,False,14.97,1,CLI_16751,Presencial,Baja,Baja
+TKT_000556,2025-09-07 12:12:36,2025-09-08 19:01:48,Telefonía Fija,Regular,ASE_025,Asesor_044,Junior,Falla WiFi 5GHz específica,Soporte,False,,True,True,30.82,4,CLI_26461,Web,Media,Alta
+TKT_000557,2025-08-17 12:12:36,2025-08-19 08:25:12,Móvil Postpago,Básico,ASE_023,Asesor_028,Junior,Sin señal TV canal específico,Técnico,True,NOC_Central,True,False,44.21,3,CLI_17384,Presencial,Media,Baja
+TKT_000558,2025-09-06 12:12:36,2025-09-06 16:34:12,Internet Móvil,Regular,ASE_026,Asesor_045,Junior,Falla WiFi 5GHz específica,Comercial,False,,True,True,4.36,9,CLI_45386,Telefono,Media,Alta
+TKT_000559,2025-09-12 12:12:36,2025-09-12 18:28:12,Móvil Postpago,Básico,ASE_009,Asesor_044,Senior,Cambio email contacto,Técnico,False,,False,True,6.26,8,CLI_17721,Telefono,Media,Media
+TKT_000560,2025-07-20 12:12:36,2025-07-20 19:09:00,Telefonía Fija,Básico,ASE_039,Asesor_025,Semi-Senior,Consulta plan específico región,Comercial,True,NOC_Sur,False,False,6.94,10,CLI_04907,App,Baja,Baja
+TKT_000561,2025-08-19 12:12:36,2025-08-20 15:48:36,Móvil Prepago,Básico,ASE_041,Asesor_024,Senior,Corte intermitente fibra,Técnico,True,NOC_Norte,True,True,27.6,3,CLI_44914,Telefono,Alta,Media
+TKT_000562,2025-08-06 12:12:36,2025-08-08 09:38:24,Móvil Postpago,Regular,ASE_007,Asesor_002,Semi-Senior,Cambio email contacto,Comercial,False,,True,True,45.43,5,CLI_39942,App,Alta,Baja
+TKT_000563,2025-08-25 12:12:36,2025-08-25 21:04:12,Móvil Postpago,VIP,ASE_034,Asesor_005,Junior,Corte intermitente fibra,Técnico,False,,False,False,8.86,4,CLI_00552,Telefono,Alta,Media
+TKT_000564,2025-07-02 12:12:36,2025-07-04 11:54:36,TV Cable,Regular,ASE_004,Asesor_014,Senior,Falla WiFi 5GHz específica,Retención,True,NOC_Este,False,True,47.7,10,CLI_33712,App,Alta,Media
+TKT_000565,2025-06-28 12:12:36,2025-06-29 21:18:36,Empresarial,Regular,ASE_045,Asesor_019,Semi-Senior,Corte intermitente fibra,Técnico,True,NOC_Este,True,True,33.1,3,CLI_16541,Web,Media,Baja
+TKT_000566,2025-06-18 12:12:36,2025-06-19 16:13:12,Móvil Postpago,VIP,ASE_045,Asesor_005,Semi-Senior,Consulta plan específico región,Técnico,False,,True,True,28.01,7,CLI_04414,Web,Alta,Media
+TKT_000567,2025-07-11 12:12:36,2025-07-12 21:42:36,Internet Móvil,Premium,ASE_026,Asesor_024,Junior,Consulta plan específico región,Retención,False,,True,False,33.5,6,CLI_47855,Telefono,Alta,Baja
+TKT_000568,2025-08-31 12:12:36,2025-09-01 14:34:12,Telefonía Fija,Básico,ASE_014,Asesor_018,Senior,Cambio email contacto,Técnico,True,NOC_Este,True,False,26.36,7,CLI_41227,Telefono,Media,Alta
+TKT_000569,2025-08-09 12:12:36,2025-08-10 05:16:12,Internet Móvil,VIP,ASE_015,Asesor_026,Senior,Actualización datos personales,Técnico,True,NOC_Oeste,False,True,17.06,3,CLI_01207,App,Alta,Media
+TKT_000570,2025-07-09 12:12:36,2025-07-10 18:26:24,Internet Hogar,Premium,ASE_028,Asesor_037,Senior,Actualización datos personales,Soporte,True,NOC_Sur,True,False,30.23,6,CLI_33561,App,Alta,Baja
+TKT_000571,2025-08-22 12:12:36,2025-08-23 15:57:36,Internet Móvil,VIP,ASE_036,Asesor_017,Senior,Solicitud certificado ingresos,Retención,True,NOC_Sur,True,False,27.75,3,CLI_29230,Web,Baja,Alta
+TKT_000572,2025-07-23 12:12:36,2025-07-25 08:34:48,Móvil Postpago,Premium,ASE_032,Asesor_032,Junior,Cambio plan mayor capacidad,Comercial,True,NOC_Central,True,False,44.37,4,CLI_07537,Telefono,Alta,Media
+TKT_000573,2025-09-13 12:12:36,2025-09-15 01:42:00,Móvil Postpago,Regular,ASE_046,Asesor_004,Semi-Senior,Falla WiFi 5GHz específica,Soporte,False,,False,True,37.49,8,CLI_25344,Telefono,Baja,Media
+TKT_000574,2025-08-25 12:12:36,2025-08-25 17:36:00,Telefonía Fija,Premium,ASE_020,Asesor_029,Junior,Error configuración router,Comercial,False,,True,False,5.39,6,CLI_18872,Telefono,Alta,Baja
+TKT_000575,2025-08-03 12:12:36,2025-08-04 13:45:00,Empresarial,Regular,ASE_018,Asesor_004,Semi-Senior,Error configuración router,Técnico,True,NOC_Oeste,False,False,25.54,2,CLI_14094,Presencial,Baja,Baja
+TKT_000576,2025-09-15 12:12:36,2025-09-16 08:42:36,TV Cable,VIP,ASE_003,Asesor_037,Semi-Senior,Problema VoIP corporativa,Técnico,True,NOC_Central,True,True,20.5,5,CLI_41459,Presencial,Baja,Alta
+TKT_000577,2025-06-30 12:12:36,2025-06-30 13:39:00,Móvil Postpago,Premium,ASE_016,Asesor_004,Junior,Problema VoIP corporativa,Técnico,False,,True,True,1.44,2,CLI_49119,Telefono,Alta,Alta
+TKT_000578,2025-07-27 12:12:36,2025-07-29 06:51:00,Telefonía Fija,Regular,ASE_005,Asesor_048,Senior,Problema VoIP corporativa,Retención,False,,False,True,42.64,7,CLI_17917,Presencial,Alta,Media
+TKT_000579,2025-06-18 12:12:36,2025-06-20 11:10:12,Móvil Postpago,VIP,ASE_031,Asesor_048,Senior,Solicitud certificado ingresos,Comercial,True,NOC_Central,True,True,46.96,5,CLI_17382,App,Media,Baja
+TKT_000580,2025-07-11 12:12:36,2025-07-13 08:13:12,Empresarial,Regular,ASE_041,Asesor_001,Semi-Senior,Cambio email contacto,Técnico,False,,False,True,44.01,5,CLI_15377,App,Media,Baja
+TKT_000581,2025-07-18 12:12:36,2025-07-20 03:00:00,Móvil Prepago,VIP,ASE_045,Asesor_019,Semi-Senior,Problema VoIP corporativa,Soporte,True,NOC_Central,True,False,38.79,8,CLI_18220,Telefono,Alta,Baja
+TKT_000582,2025-08-09 12:12:36,2025-08-11 00:00:00,Internet Hogar,Premium,ASE_047,Asesor_044,Junior,Solicitud certificado ingresos,Comercial,False,,False,True,35.79,10,CLI_01193,App,Alta,Alta
+TKT_000583,2025-09-05 12:12:36,2025-09-07 11:44:24,Empresarial,Premium,ASE_013,Asesor_037,Junior,Falla WiFi 5GHz específica,Soporte,True,NOC_Sur,False,True,47.53,6,CLI_03959,App,Alta,Baja
+TKT_000584,2025-09-10 12:12:36,2025-09-11 18:13:12,Telefonía Fija,VIP,ASE_004,Asesor_026,Junior,Solicitud certificado ingresos,Comercial,True,NOC_Oeste,True,False,30.01,3,CLI_37520,Web,Baja,Baja
+TKT_000585,2025-08-06 12:12:36,2025-08-07 23:30:36,TV Cable,VIP,ASE_032,Asesor_046,Junior,Duda promoción temporal,Soporte,True,NOC_Norte,False,True,35.3,10,CLI_04489,App,Baja,Alta
+TKT_000586,2025-09-05 12:12:36,2025-09-05 19:12:00,Empresarial,VIP,ASE_037,Asesor_038,Senior,Falla WiFi 5GHz específica,Comercial,False,,True,False,6.99,2,CLI_13785,Web,Baja,Media
+TKT_000587,2025-06-24 12:12:36,2025-06-24 18:22:12,Telefonía Fija,VIP,ASE_037,Asesor_047,Junior,Solicitud certificado ingresos,Técnico,True,NOC_Sur,True,False,6.16,6,CLI_48684,Web,Baja,Media
+TKT_000588,2025-06-30 12:12:36,2025-07-02 00:31:48,Móvil Prepago,VIP,ASE_023,Asesor_017,Semi-Senior,Error configuración router,Técnico,False,,True,False,36.32,7,CLI_48784,App,Alta,Media
+TKT_000589,2025-09-04 12:12:36,2025-09-05 23:52:12,Internet Hogar,VIP,ASE_033,Asesor_023,Semi-Senior,Corte intermitente fibra,Retención,True,NOC_Sur,True,True,35.66,9,CLI_15188,App,Media,Baja
+TKT_000590,2025-08-24 12:12:36,2025-08-25 21:09:36,Internet Hogar,Premium,ASE_009,Asesor_007,Senior,Cambio plan mayor capacidad,Retención,True,NOC_Sur,False,False,32.95,9,CLI_39778,App,Media,Alta
+TKT_000591,2025-08-21 12:12:36,2025-08-21 14:25:12,Telefonía Fija,Premium,ASE_028,Asesor_039,Senior,Error configuración router,Comercial,False,,True,True,2.21,2,CLI_23022,App,Media,Alta
+TKT_000592,2025-07-08 12:12:36,2025-07-10 05:35:24,Móvil Prepago,Regular,ASE_049,Asesor_034,Semi-Senior,Cambio email contacto,Técnico,False,,True,False,41.38,10,CLI_03735,Web,Alta,Media
+TKT_000593,2025-08-21 12:12:36,2025-08-21 15:55:12,Empresarial,VIP,ASE_018,Asesor_035,Junior,Falla WiFi 5GHz específica,Comercial,False,,True,False,3.71,4,CLI_28634,Presencial,Alta,Media
+TKT_000594,2025-08-05 12:12:36,2025-08-07 03:29:24,Internet Móvil,VIP,ASE_017,Asesor_048,Semi-Senior,Cambio plan mayor capacidad,Comercial,True,NOC_Este,False,True,39.28,4,CLI_42247,Web,Baja,Media
+TKT_000595,2025-08-07 12:12:36,2025-08-08 06:49:12,Internet Móvil,VIP,ASE_017,Asesor_010,Senior,Duda promoción temporal,Técnico,False,,True,True,18.61,5,CLI_30976,Presencial,Media,Media
+TKT_000596,2025-08-09 12:12:36,2025-08-11 04:15:00,Empresarial,Premium,ASE_045,Asesor_031,Semi-Senior,Falla WiFi 5GHz específica,Comercial,True,NOC_Oeste,True,True,40.04,1,CLI_15409,Presencial,Media,Baja
+TKT_000597,2025-07-08 12:12:36,2025-07-09 18:21:00,Móvil Prepago,Básico,ASE_048,Asesor_017,Semi-Senior,Corte intermitente fibra,Comercial,True,NOC_Este,False,True,30.14,3,CLI_48649,Presencial,Baja,Media
+TKT_000598,2025-08-03 12:12:36,2025-08-05 07:03:36,Telefonía Fija,Regular,ASE_013,Asesor_007,Senior,Falla WiFi 5GHz específica,Soporte,False,,False,False,42.85,10,CLI_40553,Web,Baja,Media
+TKT_000599,2025-09-13 12:12:36,2025-09-13 16:57:36,Móvil Prepago,Premium,ASE_039,Asesor_021,Junior,Cambio plan mayor capacidad,Soporte,False,,True,True,4.75,2,CLI_14201,Telefono,Alta,Alta
+TKT_000600,2025-07-27 12:12:36,2025-07-27 20:08:24,Internet Móvil,Regular,ASE_032,Asesor_025,Senior,Lentitud navegación específica,Comercial,True,NOC_Sur,False,False,7.93,1,CLI_28021,App,Media,Media
+TKT_000601,2025-08-06 12:12:36,2025-08-06 18:33:00,Internet Móvil,Premium,ASE_001,Asesor_041,Semi-Senior,Cambio email contacto,Soporte,True,NOC_Central,False,False,6.34,7,CLI_37198,App,Alta,Baja
+TKT_000602,2025-06-29 12:12:36,2025-07-01 10:51:36,Telefonía Fija,Premium,ASE_022,Asesor_010,Semi-Senior,Falla WiFi 5GHz específica,Soporte,False,,False,False,46.65,10,CLI_20982,Web,Media,Media
+TKT_000603,2025-06-29 12:12:36,2025-06-29 20:01:48,Empresarial,Básico,ASE_042,Asesor_025,Senior,Duda promoción temporal,Retención,False,,True,True,7.82,7,CLI_17437,App,Media,Alta
+TKT_000604,2025-09-02 12:12:36,2025-09-02 16:34:12,Telefonía Fija,Premium,ASE_008,Asesor_027,Junior,Corte intermitente fibra,Técnico,False,,True,False,4.36,1,CLI_15031,Presencial,Media,Baja
+TKT_000605,2025-08-09 12:12:36,2025-08-10 13:37:48,Internet Hogar,Premium,ASE_002,Asesor_010,Senior,Sin señal TV canal específico,Comercial,True,NOC_Sur,False,True,25.42,10,CLI_22863,Telefono,Media,Alta
+TKT_000606,2025-07-20 12:12:36,2025-07-21 20:23:24,Móvil Postpago,Premium,ASE_035,Asesor_020,Junior,Consulta plan específico región,Soporte,True,NOC_Oeste,False,True,32.18,8,CLI_47530,Web,Media,Alta
+TKT_000607,2025-07-19 12:12:36,2025-07-20 05:36:36,Telefonía Fija,Regular,ASE_043,Asesor_010,Senior,Sin señal TV canal específico,Técnico,False,,False,False,17.4,3,CLI_49419,App,Baja,Media
+TKT_000608,2025-06-28 12:12:36,2025-06-28 20:32:24,Móvil Prepago,VIP,ASE_035,Asesor_037,Junior,Solicitud certificado ingresos,Comercial,False,,False,False,8.33,3,CLI_18952,Web,Media,Media
+TKT_000609,2025-07-30 12:12:36,2025-07-31 21:06:36,Internet Móvil,Premium,ASE_007,Asesor_006,Junior,Falla WiFi 5GHz específica,Soporte,False,,False,False,32.9,4,CLI_00629,Presencial,Media,Media
+TKT_000610,2025-08-20 12:12:36,2025-08-22 08:16:12,Empresarial,VIP,ASE_029,Asesor_011,Junior,Consulta plan específico región,Retención,True,NOC_Oeste,False,True,44.06,7,CLI_46320,Telefono,Alta,Media
+TKT_000611,2025-08-31 12:12:36,2025-08-31 17:10:48,Empresarial,Básico,ASE_046,Asesor_015,Junior,Lentitud navegación específica,Soporte,True,NOC_Norte,False,True,4.97,9,CLI_26911,Web,Baja,Alta
+TKT_000612,2025-06-25 12:12:36,2025-06-25 14:46:12,Móvil Postpago,Regular,ASE_021,Asesor_017,Junior,Cambio email contacto,Soporte,False,,True,False,2.56,2,CLI_35248,Telefono,Alta,Alta
+TKT_000613,2025-09-03 12:12:36,2025-09-04 06:37:12,Móvil Postpago,VIP,ASE_021,Asesor_002,Senior,Corte intermitente fibra,Soporte,False,,False,True,18.41,3,CLI_15309,Web,Media,Alta
+TKT_000614,2025-07-19 12:12:36,2025-07-20 15:10:48,Internet Hogar,Regular,ASE_026,Asesor_018,Senior,Falla WiFi 5GHz específica,Soporte,False,,False,True,26.97,2,CLI_38217,Telefono,Baja,Media
+TKT_000615,2025-07-18 12:12:36,2025-07-19 00:35:24,Internet Móvil,Regular,ASE_008,Asesor_022,Junior,Error configuración router,Técnico,True,NOC_Norte,True,True,12.38,1,CLI_44376,App,Baja,Alta
+TKT_000616,2025-07-31 12:12:36,2025-08-01 12:29:24,Móvil Postpago,Básico,ASE_034,Asesor_028,Senior,Corte intermitente fibra,Técnico,True,NOC_Sur,False,True,24.28,3,CLI_17691,App,Baja,Baja
+TKT_000617,2025-09-10 12:12:36,2025-09-11 05:11:24,Internet Hogar,Regular,ASE_046,Asesor_030,Junior,Error configuración router,Retención,False,,False,False,16.98,3,CLI_45018,App,Alta,Media
+TKT_000618,2025-07-25 12:12:36,2025-07-26 19:11:24,Telefonía Fija,VIP,ASE_031,Asesor_026,Semi-Senior,Sin señal TV canal específico,Retención,False,,False,False,30.98,9,CLI_05759,Telefono,Alta,Media
+TKT_000619,2025-08-06 12:12:36,2025-08-07 09:00:00,Internet Hogar,Básico,ASE_034,Asesor_025,Junior,Actualización datos personales,Soporte,True,NOC_Central,True,True,20.79,9,CLI_38553,Presencial,Media,Alta
+TKT_000620,2025-07-05 12:12:36,2025-07-06 20:40:12,Móvil Postpago,VIP,ASE_024,Asesor_016,Junior,Falla WiFi 5GHz específica,Retención,True,NOC_Este,True,True,32.46,4,CLI_12960,App,Baja,Media
+TKT_000621,2025-07-03 12:12:36,2025-07-04 23:12:36,TV Cable,VIP,ASE_049,Asesor_030,Junior,Problema VoIP corporativa,Retención,False,,False,True,35.0,8,CLI_32152,Presencial,Baja,Alta
+TKT_000622,2025-08-14 12:12:36,2025-08-15 01:27:00,Empresarial,Premium,ASE_018,Asesor_047,Semi-Senior,Duda promoción temporal,Comercial,True,NOC_Este,True,False,13.24,9,CLI_34157,Presencial,Baja,Media
+TKT_000623,2025-06-20 12:12:36,2025-06-20 20:43:12,Móvil Postpago,VIP,ASE_025,Asesor_010,Senior,Cambio email contacto,Soporte,True,NOC_Oeste,False,True,8.51,4,CLI_13724,Telefono,Baja,Baja
+TKT_000624,2025-09-08 12:12:36,2025-09-09 07:38:24,Telefonía Fija,Regular,ASE_010,Asesor_045,Senior,Cambio email contacto,Retención,True,NOC_Sur,True,True,19.43,3,CLI_03567,Presencial,Alta,Alta
+TKT_000625,2025-07-26 12:12:36,2025-07-28 07:10:48,Telefonía Fija,Premium,ASE_007,Asesor_040,Senior,Cambio email contacto,Retención,True,NOC_Este,True,False,42.97,10,CLI_33231,App,Media,Media
+TKT_000626,2025-06-25 12:12:36,2025-06-25 17:08:24,TV Cable,VIP,ASE_011,Asesor_044,Junior,Solicitud certificado ingresos,Soporte,True,NOC_Central,False,True,4.93,8,CLI_35818,Presencial,Media,Baja
+TKT_000627,2025-08-04 12:12:36,2025-08-05 12:24:36,Empresarial,Básico,ASE_026,Asesor_008,Semi-Senior,Actualización datos personales,Técnico,False,,True,True,24.2,10,CLI_26042,Presencial,Media,Baja
+TKT_000628,2025-09-13 12:12:36,2025-09-14 22:03:36,Internet Hogar,Básico,ASE_011,Asesor_045,Senior,Corte intermitente fibra,Soporte,True,NOC_Sur,False,True,33.85,9,CLI_41683,Web,Alta,Baja
+TKT_000629,2025-07-08 12:12:36,2025-07-08 16:30:00,Internet Móvil,Básico,ASE_022,Asesor_047,Junior,Solicitud certificado ingresos,Soporte,False,,True,True,4.29,1,CLI_05316,App,Media,Baja
+TKT_000630,2025-07-01 12:12:36,2025-07-02 21:52:48,Empresarial,Básico,ASE_027,Asesor_010,Junior,Duda promoción temporal,Retención,True,NOC_Norte,True,False,33.67,6,CLI_48795,Web,Alta,Alta
+TKT_000631,2025-06-30 12:12:36,2025-07-02 10:52:12,Empresarial,VIP,ASE_050,Asesor_034,Junior,Error configuración router,Soporte,True,NOC_Oeste,False,False,46.66,3,CLI_15299,App,Media,Alta
+TKT_000632,2025-09-11 12:12:36,2025-09-12 21:28:12,Móvil Postpago,Premium,ASE_011,Asesor_012,Semi-Senior,Solicitud certificado ingresos,Comercial,True,NOC_Norte,False,True,33.26,10,CLI_03747,Telefono,Baja,Media
+TKT_000633,2025-09-02 12:12:36,2025-09-02 17:28:48,Empresarial,VIP,ASE_034,Asesor_024,Semi-Senior,Duda promoción temporal,Soporte,True,NOC_Sur,False,False,5.27,9,CLI_44688,Web,Baja,Media
+TKT_000634,2025-08-25 12:12:36,2025-08-26 16:42:00,TV Cable,Básico,ASE_002,Asesor_035,Junior,Consulta plan específico región,Retención,False,,False,False,28.49,1,CLI_07748,Presencial,Media,Media
+TKT_000635,2025-07-13 12:12:36,2025-07-15 11:12:36,Telefonía Fija,VIP,ASE_014,Asesor_024,Junior,Lentitud navegación específica,Comercial,False,,False,True,47.0,5,CLI_38946,Telefono,Media,Media
+TKT_000636,2025-07-01 12:12:36,2025-07-02 07:42:36,Empresarial,VIP,ASE_009,Asesor_035,Semi-Senior,Error configuración router,Técnico,True,NOC_Este,False,False,19.5,5,CLI_35773,Web,Alta,Baja
+TKT_000637,2025-08-09 12:12:36,2025-08-09 13:29:24,Telefonía Fija,Básico,ASE_014,Asesor_002,Semi-Senior,Lentitud navegación específica,Retención,False,,True,True,1.28,7,CLI_07464,Web,Media,Baja
+TKT_000638,2025-08-28 12:12:36,2025-08-28 15:43:48,Internet Hogar,Regular,ASE_035,Asesor_011,Semi-Senior,Cambio email contacto,Retención,False,,False,True,3.52,8,CLI_09047,App,Baja,Media
+TKT_000639,2025-06-29 12:12:36,2025-06-29 14:08:24,TV Cable,Básico,ASE_048,Asesor_049,Junior,Error configuración router,Técnico,False,,True,True,1.93,7,CLI_15587,App,Baja,Media
+TKT_000640,2025-07-18 12:12:36,2025-07-19 10:31:12,Telefonía Fija,VIP,ASE_035,Asesor_023,Semi-Senior,Duda promoción temporal,Comercial,False,,False,True,22.31,3,CLI_33658,App,Alta,Alta
+TKT_000641,2025-07-29 12:12:36,2025-07-30 22:51:36,Telefonía Fija,VIP,ASE_033,Asesor_041,Junior,Cambio plan mayor capacidad,Técnico,True,NOC_Oeste,False,False,34.65,4,CLI_28288,App,Media,Media
+TKT_000642,2025-06-23 12:12:36,2025-06-24 11:17:24,Empresarial,Regular,ASE_019,Asesor_041,Semi-Senior,Cambio email contacto,Retención,True,NOC_Sur,False,False,23.08,6,CLI_30864,Telefono,Alta,Media
+TKT_000643,2025-07-23 12:12:36,2025-07-23 15:31:12,Móvil Prepago,VIP,ASE_026,Asesor_041,Senior,Problema VoIP corporativa,Técnico,False,,True,True,3.31,4,CLI_44135,App,Alta,Media
+TKT_000644,2025-08-12 12:12:36,2025-08-12 19:44:24,Móvil Postpago,VIP,ASE_039,Asesor_007,Junior,Lentitud navegación específica,Soporte,True,NOC_Este,True,True,7.53,1,CLI_29361,Telefono,Media,Baja
+TKT_000645,2025-08-30 12:12:36,2025-08-30 12:55:48,Internet Móvil,Premium,ASE_022,Asesor_044,Junior,Error configuración router,Soporte,False,,True,False,0.72,8,CLI_12348,Presencial,Alta,Alta
+TKT_000646,2025-08-06 12:12:36,2025-08-06 21:37:12,Empresarial,Básico,ASE_041,Asesor_036,Senior,Duda promoción temporal,Retención,False,,True,False,9.41,10,CLI_46114,Telefono,Alta,Alta
+TKT_000647,2025-07-14 12:12:36,2025-07-15 06:52:12,Internet Móvil,Regular,ASE_042,Asesor_031,Semi-Senior,Actualización datos personales,Soporte,True,NOC_Central,False,False,18.66,3,CLI_39597,Telefono,Media,Alta
+TKT_000648,2025-06-30 12:12:36,2025-07-02 11:23:24,TV Cable,Regular,ASE_029,Asesor_025,Junior,Lentitud navegación específica,Soporte,True,NOC_Este,True,True,47.18,5,CLI_18857,App,Baja,Media
+TKT_000649,2025-08-19 12:12:36,2025-08-21 07:30:36,TV Cable,Premium,ASE_013,Asesor_038,Semi-Senior,Corte intermitente fibra,Comercial,True,NOC_Oeste,True,True,43.3,3,CLI_27539,Telefono,Alta,Media
+TKT_000650,2025-06-23 12:12:36,2025-06-24 08:08:24,Telefonía Fija,Básico,ASE_012,Asesor_042,Senior,Error configuración router,Comercial,True,NOC_Este,True,True,19.93,6,CLI_29285,App,Baja,Baja
+TKT_000651,2025-08-05 12:12:36,2025-08-06 10:19:12,TV Cable,Básico,ASE_035,Asesor_013,Junior,Cambio plan mayor capacidad,Técnico,False,,False,True,22.11,3,CLI_18326,Presencial,Media,Media
+TKT_000652,2025-07-07 12:12:36,2025-07-08 13:07:12,TV Cable,VIP,ASE_021,Asesor_029,Semi-Senior,Solicitud certificado ingresos,Comercial,False,,True,False,24.91,2,CLI_35712,Web,Alta,Baja
+TKT_000653,2025-07-02 12:12:36,2025-07-02 17:51:36,TV Cable,Básico,ASE_007,Asesor_032,Senior,Solicitud certificado ingresos,Comercial,False,,False,True,5.65,6,CLI_45063,Telefono,Baja,Alta
+TKT_000654,2025-08-24 12:12:36,2025-08-25 23:27:00,Empresarial,VIP,ASE_044,Asesor_010,Senior,Problema VoIP corporativa,Retención,False,,False,False,35.24,3,CLI_48925,App,Baja,Media
+TKT_000655,2025-06-18 12:12:36,2025-06-20 09:01:12,Móvil Prepago,Regular,ASE_011,Asesor_032,Semi-Senior,Error configuración router,Comercial,False,,True,True,44.81,7,CLI_38052,App,Baja,Baja
+TKT_000656,2025-08-14 12:12:36,2025-08-16 07:10:12,Empresarial,Básico,ASE_006,Asesor_032,Semi-Senior,Sin señal TV canal específico,Soporte,True,NOC_Sur,False,False,42.96,7,CLI_02725,Presencial,Media,Baja
+TKT_000657,2025-07-13 12:12:36,2025-07-15 01:54:00,Internet Móvil,Premium,ASE_022,Asesor_040,Junior,Duda promoción temporal,Retención,False,,True,False,37.69,3,CLI_00626,Presencial,Baja,Baja
+TKT_000658,2025-07-09 12:12:36,2025-07-09 23:55:12,TV Cable,VIP,ASE_025,Asesor_039,Junior,Problema VoIP corporativa,Soporte,True,NOC_Este,True,True,11.71,6,CLI_37949,App,Alta,Media
+TKT_000659,2025-08-26 12:12:36,2025-08-27 03:38:24,Telefonía Fija,Premium,ASE_035,Asesor_010,Senior,Actualización datos personales,Técnico,False,,True,True,15.43,9,CLI_18046,Telefono,Alta,Media
+TKT_000660,2025-08-01 12:12:36,2025-08-02 08:33:00,Empresarial,Premium,ASE_042,Asesor_044,Semi-Senior,Sin señal TV canal específico,Soporte,False,,False,False,20.34,2,CLI_33570,Telefono,Media,Media
+TKT_000661,2025-07-22 12:12:36,2025-07-23 22:28:12,Empresarial,Premium,ASE_050,Asesor_004,Semi-Senior,Consulta plan específico región,Soporte,True,NOC_Central,True,True,34.26,8,CLI_28813,App,Media,Baja
+TKT_000662,2025-08-01 12:12:36,2025-08-01 14:02:24,Móvil Postpago,VIP,ASE_015,Asesor_049,Semi-Senior,Cambio plan mayor capacidad,Comercial,True,NOC_Central,True,True,1.83,4,CLI_13670,Presencial,Baja,Baja
+TKT_000663,2025-09-12 12:12:36,2025-09-13 19:01:48,Internet Hogar,VIP,ASE_012,Asesor_025,Semi-Senior,Consulta plan específico región,Comercial,False,,False,False,30.82,4,CLI_21449,Web,Media,Media
+TKT_000664,2025-08-24 12:12:36,2025-08-25 22:34:12,Internet Móvil,Premium,ASE_018,Asesor_027,Semi-Senior,Actualización datos personales,Técnico,True,NOC_Norte,False,False,34.36,8,CLI_34227,Web,Baja,Alta
+TKT_000665,2025-07-30 12:12:36,2025-07-31 19:01:48,Móvil Prepago,Premium,ASE_043,Asesor_023,Junior,Falla WiFi 5GHz específica,Comercial,False,,True,True,30.82,7,CLI_28572,Presencial,Media,Baja
+TKT_000666,2025-08-02 12:12:36,2025-08-02 23:07:48,Empresarial,Premium,ASE_036,Asesor_019,Semi-Senior,Falla WiFi 5GHz específica,Soporte,True,NOC_Este,False,True,10.92,10,CLI_44706,App,Alta,Baja
+TKT_000667,2025-06-26 12:12:36,2025-06-27 18:30:00,Móvil Prepago,Premium,ASE_021,Asesor_043,Junior,Lentitud navegación específica,Comercial,True,NOC_Oeste,True,False,30.29,4,CLI_42961,Telefono,Media,Media
+TKT_000668,2025-09-14 12:12:36,2025-09-14 18:36:00,Empresarial,VIP,ASE_031,Asesor_048,Junior,Error configuración router,Retención,False,,False,False,6.39,3,CLI_31641,Presencial,Baja,Baja
+TKT_000669,2025-06-24 12:12:36,2025-06-24 16:16:12,TV Cable,VIP,ASE_042,Asesor_049,Semi-Senior,Lentitud navegación específica,Técnico,False,,True,True,4.06,4,CLI_43779,App,Baja,Alta
+TKT_000670,2025-08-02 12:12:36,2025-08-02 17:38:24,Internet Hogar,VIP,ASE_030,Asesor_010,Junior,Error configuración router,Retención,False,,False,True,5.43,3,CLI_44701,App,Baja,Baja
+TKT_000671,2025-08-05 12:12:36,2025-08-06 06:20:24,Telefonía Fija,Regular,ASE_001,Asesor_038,Junior,Corte intermitente fibra,Retención,True,NOC_Sur,False,False,18.13,1,CLI_06479,App,Media,Alta
+TKT_000672,2025-08-31 12:12:36,2025-09-01 11:13:12,Internet Hogar,Premium,ASE_023,Asesor_040,Senior,Corte intermitente fibra,Soporte,True,NOC_Central,True,False,23.01,2,CLI_39098,Telefono,Media,Media
+TKT_000673,2025-07-28 12:12:36,2025-07-29 07:24:00,Telefonía Fija,VIP,ASE_029,Asesor_048,Junior,Cambio email contacto,Técnico,True,NOC_Central,True,True,19.19,1,CLI_34410,App,Media,Media
+TKT_000674,2025-09-02 12:12:36,2025-09-03 00:03:00,TV Cable,Regular,ASE_001,Asesor_031,Semi-Senior,Actualización datos personales,Soporte,True,NOC_Sur,True,True,11.84,1,CLI_03687,App,Baja,Alta
+TKT_000675,2025-08-30 12:12:36,2025-08-31 00:07:48,Móvil Postpago,Regular,ASE_004,Asesor_031,Semi-Senior,Duda promoción temporal,Técnico,True,NOC_Este,True,False,11.92,1,CLI_06076,Telefono,Baja,Media
+TKT_000676,2025-09-09 12:12:36,2025-09-10 16:59:24,Móvil Postpago,VIP,ASE_033,Asesor_022,Senior,Corte intermitente fibra,Retención,False,,False,True,28.78,5,CLI_40314,Web,Baja,Baja
+TKT_000677,2025-08-19 12:12:36,2025-08-20 00:51:36,Internet Móvil,Básico,ASE_006,Asesor_046,Junior,Cambio email contacto,Retención,True,NOC_Central,True,True,12.65,5,CLI_28680,Presencial,Media,Media
+TKT_000678,2025-09-03 12:12:36,2025-09-03 21:16:48,Empresarial,VIP,ASE_049,Asesor_006,Junior,Cambio email contacto,Retención,True,NOC_Este,True,False,9.07,9,CLI_27291,Telefono,Alta,Media
+TKT_000679,2025-08-02 12:12:36,2025-08-02 17:42:36,Internet Móvil,Básico,ASE_011,Asesor_004,Junior,Error configuración router,Técnico,False,,True,False,5.5,5,CLI_30553,Web,Media,Media
+TKT_000680,2025-06-27 12:12:36,2025-06-27 15:13:12,Empresarial,Básico,ASE_027,Asesor_036,Junior,Error configuración router,Comercial,False,,True,False,3.01,2,CLI_35961,Presencial,Media,Alta
+TKT_000681,2025-07-02 12:12:36,2025-07-04 06:01:12,Telefonía Fija,Regular,ASE_011,Asesor_012,Semi-Senior,Actualización datos personales,Técnico,True,NOC_Norte,True,True,41.81,5,CLI_48255,Web,Alta,Baja
+TKT_000682,2025-07-21 12:12:36,2025-07-21 14:55:48,Móvil Prepago,VIP,ASE_022,Asesor_017,Junior,Sin señal TV canal específico,Soporte,False,,False,False,2.72,10,CLI_27823,Presencial,Baja,Alta
+TKT_000683,2025-09-02 12:12:36,2025-09-03 21:35:24,Móvil Prepago,Básico,ASE_017,Asesor_011,Junior,Cambio email contacto,Técnico,True,NOC_Este,True,True,33.38,4,CLI_28922,Presencial,Baja,Media
+TKT_000684,2025-08-14 12:12:36,2025-08-14 21:16:48,Telefonía Fija,Premium,ASE_017,Asesor_016,Senior,Consulta plan específico región,Retención,False,,False,True,9.07,5,CLI_11578,App,Baja,Baja
+TKT_000685,2025-08-09 12:12:36,2025-08-11 04:08:24,Empresarial,Premium,ASE_026,Asesor_025,Junior,Error configuración router,Técnico,False,,False,False,39.93,6,CLI_24966,App,Media,Media
+TKT_000686,2025-08-16 12:12:36,2025-08-16 20:34:12,Internet Móvil,VIP,ASE_024,Asesor_009,Senior,Consulta plan específico región,Soporte,True,NOC_Oeste,True,False,8.36,8,CLI_01386,Telefono,Alta,Baja
+TKT_000687,2025-08-12 12:12:36,2025-08-13 18:01:48,Móvil Postpago,Básico,ASE_042,Asesor_043,Junior,Lentitud navegación específica,Comercial,False,,True,True,29.82,6,CLI_03612,App,Media,Media
+TKT_000688,2025-07-24 12:12:36,2025-07-25 03:41:24,Empresarial,Básico,ASE_028,Asesor_037,Senior,Sin señal TV canal específico,Soporte,True,NOC_Oeste,False,False,15.48,3,CLI_48672,Presencial,Baja,Media
+TKT_000689,2025-08-20 12:12:36,2025-08-21 21:09:00,Telefonía Fija,VIP,ASE_018,Asesor_045,Semi-Senior,Problema VoIP corporativa,Técnico,True,NOC_Central,False,True,32.94,1,CLI_43546,Presencial,Media,Baja
+TKT_000690,2025-08-19 12:12:36,2025-08-19 22:19:12,Empresarial,VIP,ASE_008,Asesor_023,Senior,Consulta plan específico región,Comercial,True,NOC_Norte,False,False,10.11,10,CLI_40169,Web,Alta,Baja
+TKT_000691,2025-09-13 12:12:36,2025-09-14 08:54:36,Móvil Prepago,Regular,ASE_003,Asesor_017,Junior,Cambio plan mayor capacidad,Comercial,False,,True,True,20.7,9,CLI_33353,Presencial,Media,Alta
+TKT_000692,2025-06-27 12:12:36,2025-06-28 16:18:00,TV Cable,Premium,ASE_021,Asesor_042,Junior,Duda promoción temporal,Soporte,True,NOC_Oeste,True,True,28.09,7,CLI_41482,Web,Baja,Media
+TKT_000693,2025-08-03 12:12:36,2025-08-04 06:29:24,TV Cable,VIP,ASE_030,Asesor_015,Semi-Senior,Solicitud certificado ingresos,Técnico,False,,True,True,18.28,10,CLI_40370,Web,Baja,Alta
+TKT_000694,2025-08-09 12:12:36,2025-08-10 15:44:24,Empresarial,Básico,ASE_036,Asesor_021,Semi-Senior,Cambio plan mayor capacidad,Soporte,True,NOC_Oeste,True,False,27.53,8,CLI_32087,Presencial,Alta,Alta
+TKT_000695,2025-06-27 12:12:36,2025-06-28 23:00:36,Móvil Postpago,Premium,ASE_047,Asesor_046,Senior,Cambio plan mayor capacidad,Comercial,False,,True,False,34.8,5,CLI_48878,App,Media,Baja
+TKT_000696,2025-07-21 12:12:36,2025-07-22 21:21:00,Empresarial,Regular,ASE_044,Asesor_012,Senior,Duda promoción temporal,Comercial,False,,True,False,33.14,1,CLI_02600,Web,Alta,Alta
+TKT_000697,2025-08-16 12:12:36,2025-08-17 03:36:00,Móvil Postpago,Básico,ASE_037,Asesor_026,Junior,Duda promoción temporal,Retención,False,,False,True,15.39,6,CLI_19467,Web,Media,Baja
+TKT_000698,2025-08-25 12:12:36,2025-08-26 06:49:12,TV Cable,Regular,ASE_043,Asesor_043,Semi-Senior,Falla WiFi 5GHz específica,Técnico,True,NOC_Oeste,True,True,18.61,9,CLI_48591,Presencial,Alta,Baja
+TKT_000699,2025-07-13 12:12:36,2025-07-13 15:22:12,Móvil Prepago,Básico,ASE_007,Asesor_032,Semi-Senior,Problema VoIP corporativa,Técnico,False,,True,False,3.16,6,CLI_15850,Web,Media,Baja
+TKT_000700,2025-08-07 12:12:36,2025-08-09 02:25:12,Empresarial,VIP,ASE_023,Asesor_034,Senior,Cambio plan mayor capacidad,Comercial,True,NOC_Central,True,False,38.21,6,CLI_43259,Web,Media,Media
+TKT_000701,2025-09-12 12:12:36,2025-09-13 11:01:48,Móvil Postpago,Regular,ASE_009,Asesor_006,Junior,Duda promoción temporal,Comercial,False,,True,False,22.82,9,CLI_25092,Presencial,Alta,Media
+TKT_000702,2025-08-18 12:12:36,2025-08-18 23:21:36,Empresarial,Regular,ASE_035,Asesor_014,Semi-Senior,Falla WiFi 5GHz específica,Soporte,True,NOC_Central,True,False,11.15,4,CLI_18498,Presencial,Baja,Media
+TKT_000703,2025-08-28 12:12:36,2025-08-29 03:52:48,Internet Hogar,Regular,ASE_025,Asesor_009,Senior,Solicitud certificado ingresos,Técnico,True,NOC_Sur,True,True,15.67,4,CLI_32433,Telefono,Media,Baja
+TKT_000704,2025-07-10 12:12:36,2025-07-10 22:02:24,TV Cable,VIP,ASE_014,Asesor_015,Semi-Senior,Actualización datos personales,Comercial,True,NOC_Central,False,False,9.83,7,CLI_14949,Presencial,Media,Media
+TKT_000705,2025-08-11 12:12:36,2025-08-12 09:09:00,TV Cable,Regular,ASE_049,Asesor_035,Semi-Senior,Falla WiFi 5GHz específica,Comercial,False,,False,True,20.94,10,CLI_05255,Web,Alta,Baja
+TKT_000706,2025-08-08 12:12:36,2025-08-09 14:38:24,TV Cable,Básico,ASE_050,Asesor_031,Senior,Sin señal TV canal específico,Técnico,False,,True,True,26.43,10,CLI_24992,Web,Media,Baja
+TKT_000707,2025-07-17 12:12:36,2025-07-18 17:27:36,TV Cable,Regular,ASE_046,Asesor_024,Junior,Error configuración router,Técnico,True,NOC_Oeste,True,False,29.25,7,CLI_23906,Web,Baja,Alta
+TKT_000708,2025-07-15 12:12:36,2025-07-15 18:12:00,Internet Móvil,Premium,ASE_046,Asesor_041,Senior,Consulta plan específico región,Retención,True,NOC_Sur,False,True,5.99,8,CLI_18834,Presencial,Alta,Alta
+TKT_000709,2025-08-10 12:12:36,2025-08-11 17:57:36,Empresarial,Básico,ASE_029,Asesor_044,Semi-Senior,Cambio email contacto,Técnico,True,NOC_Este,False,False,29.75,4,CLI_22115,Telefono,Alta,Media
+TKT_000710,2025-07-29 12:12:36,2025-07-30 11:42:36,Móvil Postpago,Regular,ASE_010,Asesor_046,Semi-Senior,Actualización datos personales,Comercial,False,,True,True,23.5,7,CLI_24814,Web,Alta,Alta
+TKT_000711,2025-07-13 12:12:36,2025-07-14 04:36:36,Telefonía Fija,VIP,ASE_038,Asesor_027,Junior,Lentitud navegación específica,Soporte,False,,False,True,16.4,4,CLI_17747,Presencial,Baja,Baja
+TKT_000712,2025-07-27 12:12:36,2025-07-29 07:58:12,Móvil Prepago,Regular,ASE_029,Asesor_006,Semi-Senior,Cambio plan mayor capacidad,Retención,False,,False,True,43.76,10,CLI_41601,Presencial,Media,Alta
+TKT_000713,2025-09-13 12:12:36,2025-09-14 09:39:36,Telefonía Fija,Básico,ASE_017,Asesor_025,Senior,Corte intermitente fibra,Comercial,False,,True,True,21.45,8,CLI_36807,Web,Baja,Baja
+TKT_000714,2025-07-03 12:12:36,2025-07-05 06:13:12,Internet Hogar,VIP,ASE_007,Asesor_014,Junior,Actualización datos personales,Comercial,True,NOC_Oeste,False,True,42.01,6,CLI_40925,App,Baja,Alta
+TKT_000715,2025-09-13 12:12:36,2025-09-13 16:33:36,Telefonía Fija,Regular,ASE_030,Asesor_037,Semi-Senior,Error configuración router,Comercial,True,NOC_Este,False,False,4.35,5,CLI_24257,App,Alta,Alta
+TKT_000716,2025-08-10 12:12:36,2025-08-11 06:00:36,Internet Hogar,VIP,ASE_015,Asesor_021,Semi-Senior,Solicitud certificado ingresos,Comercial,True,NOC_Norte,True,False,17.8,5,CLI_49440,Presencial,Media,Baja
+TKT_000717,2025-07-31 12:12:36,2025-07-31 20:43:12,Empresarial,Regular,ASE_048,Asesor_030,Junior,Corte intermitente fibra,Soporte,True,NOC_Sur,False,True,8.51,3,CLI_13671,Telefono,Baja,Media
+TKT_000718,2025-07-20 12:12:36,2025-07-21 15:52:48,Telefonía Fija,Regular,ASE_023,Asesor_036,Junior,Cambio plan mayor capacidad,Retención,False,,False,False,27.67,3,CLI_41265,Web,Baja,Media
+TKT_000719,2025-08-29 12:12:36,2025-08-30 22:04:48,Internet Móvil,Básico,ASE_028,Asesor_023,Junior,Error configuración router,Soporte,True,NOC_Sur,True,False,33.87,9,CLI_03347,Telefono,Media,Media
+TKT_000720,2025-08-12 12:12:36,2025-08-13 01:48:36,Telefonía Fija,Regular,ASE_049,Asesor_042,Junior,Lentitud navegación específica,Retención,True,NOC_Sur,False,False,13.6,7,CLI_34664,Presencial,Media,Baja
+TKT_000721,2025-08-29 12:12:36,2025-08-29 22:43:48,Internet Móvil,Premium,ASE_005,Asesor_029,Semi-Senior,Falla WiFi 5GHz específica,Técnico,True,NOC_Oeste,False,False,10.52,8,CLI_48341,Web,Alta,Media
+TKT_000722,2025-09-07 12:12:36,2025-09-09 00:30:36,Internet Móvil,Básico,ASE_011,Asesor_036,Junior,Consulta plan específico región,Técnico,False,,True,True,36.3,8,CLI_29987,App,Alta,Alta
+TKT_000723,2025-09-10 12:12:36,2025-09-12 08:16:12,Internet Móvil,Regular,ASE_039,Asesor_013,Senior,Problema VoIP corporativa,Comercial,False,,False,False,44.06,8,CLI_32010,Presencial,Alta,Alta
+TKT_000724,2025-09-06 12:12:36,2025-09-08 05:30:00,Telefonía Fija,Premium,ASE_024,Asesor_001,Junior,Corte intermitente fibra,Comercial,True,NOC_Oeste,False,False,41.29,10,CLI_37654,Web,Baja,Baja
+TKT_000725,2025-09-09 12:12:36,2025-09-09 23:02:24,Móvil Prepago,VIP,ASE_013,Asesor_005,Semi-Senior,Problema VoIP corporativa,Comercial,False,,True,True,10.83,6,CLI_26899,Web,Media,Media
+TKT_000726,2025-06-25 12:12:36,2025-06-27 08:49:48,Internet Móvil,VIP,ASE_026,Asesor_029,Junior,Falla WiFi 5GHz específica,Retención,False,,True,False,44.62,1,CLI_25486,Presencial,Baja,Baja
+TKT_000727,2025-07-10 12:12:36,2025-07-11 11:51:36,Internet Hogar,Básico,ASE_018,Asesor_048,Junior,Sin señal TV canal específico,Técnico,False,,True,False,23.65,7,CLI_36859,App,Alta,Media
+TKT_000728,2025-09-09 12:12:36,2025-09-11 03:34:48,TV Cable,Premium,ASE_024,Asesor_001,Junior,Duda promoción temporal,Retención,False,,False,True,39.37,1,CLI_08773,Presencial,Alta,Media
+TKT_000729,2025-09-13 12:12:36,2025-09-14 01:39:36,Móvil Prepago,VIP,ASE_031,Asesor_024,Semi-Senior,Error configuración router,Retención,False,,False,False,13.45,9,CLI_15630,App,Alta,Media
+TKT_000730,2025-06-23 12:12:36,2025-06-24 20:20:24,Internet Hogar,Básico,ASE_031,Asesor_031,Senior,Consulta plan específico región,Soporte,True,NOC_Central,False,False,32.13,1,CLI_08476,App,Alta,Media
+TKT_000731,2025-07-25 12:12:36,2025-07-27 10:55:48,TV Cable,Premium,ASE_029,Asesor_019,Semi-Senior,Actualización datos personales,Soporte,True,NOC_Sur,False,True,46.72,9,CLI_07570,Web,Alta,Baja
+TKT_000732,2025-07-19 12:12:36,2025-07-20 19:15:00,Móvil Prepago,Premium,ASE_031,Asesor_030,Senior,Duda promoción temporal,Técnico,False,,False,False,31.04,3,CLI_31791,Presencial,Alta,Baja
+TKT_000733,2025-09-05 12:12:36,2025-09-06 06:27:36,Internet Móvil,Básico,ASE_037,Asesor_032,Junior,Cambio email contacto,Técnico,False,,False,True,18.25,1,CLI_48108,App,Baja,Media
+TKT_000734,2025-07-21 12:12:36,2025-07-22 14:14:24,Internet Móvil,Regular,ASE_031,Asesor_031,Junior,Lentitud navegación específica,Soporte,True,NOC_Este,True,False,26.03,6,CLI_31240,App,Media,Alta
+TKT_000735,2025-08-14 12:12:36,2025-08-15 01:36:00,Telefonía Fija,Regular,ASE_004,Asesor_013,Senior,Consulta plan específico región,Soporte,True,NOC_Sur,True,True,13.39,8,CLI_31123,Presencial,Baja,Media
+TKT_000736,2025-07-19 12:12:36,2025-07-20 01:20:24,Internet Móvil,Regular,ASE_016,Asesor_021,Junior,Problema VoIP corporativa,Técnico,False,,False,False,13.13,2,CLI_15878,App,Baja,Media
+TKT_000737,2025-08-25 12:12:36,2025-08-27 06:43:48,Internet Móvil,Regular,ASE_025,Asesor_033,Semi-Senior,Cambio email contacto,Retención,False,,False,False,42.52,2,CLI_31306,Telefono,Alta,Baja
+TKT_000738,2025-08-23 12:12:36,2025-08-24 16:51:36,Empresarial,Premium,ASE_039,Asesor_011,Junior,Corte intermitente fibra,Comercial,True,NOC_Norte,False,False,28.65,9,CLI_44193,Presencial,Media,Baja
+TKT_000739,2025-07-23 12:12:36,2025-07-24 20:36:00,TV Cable,Premium,ASE_004,Asesor_037,Junior,Solicitud certificado ingresos,Soporte,False,,True,False,32.39,10,CLI_35518,App,Baja,Alta
+TKT_000740,2025-07-03 12:12:36,2025-07-04 10:31:48,TV Cable,Premium,ASE_044,Asesor_038,Senior,Cambio email contacto,Retención,True,NOC_Sur,True,True,22.32,8,CLI_12770,Telefono,Media,Baja
+TKT_000741,2025-08-03 12:12:36,2025-08-03 15:45:36,TV Cable,Regular,ASE_009,Asesor_036,Junior,Sin señal TV canal específico,Comercial,False,,False,False,3.55,8,CLI_34399,Telefono,Baja,Media
+TKT_000742,2025-09-13 12:12:36,2025-09-14 16:48:00,Empresarial,Premium,ASE_002,Asesor_013,Semi-Senior,Actualización datos personales,Técnico,False,,False,True,28.59,8,CLI_08890,Presencial,Media,Baja
+TKT_000743,2025-09-07 12:12:36,2025-09-09 00:02:24,Internet Hogar,Básico,ASE_048,Asesor_002,Semi-Senior,Lentitud navegación específica,Retención,True,NOC_Sur,True,True,35.83,4,CLI_45882,Presencial,Alta,Media
+TKT_000744,2025-06-20 12:12:36,2025-06-21 07:12:36,Internet Hogar,Regular,ASE_003,Asesor_048,Senior,Consulta plan específico región,Comercial,False,,True,False,19.0,7,CLI_04114,Telefono,Alta,Baja
+TKT_000745,2025-08-04 12:12:36,2025-08-04 20:02:24,Móvil Postpago,Básico,ASE_012,Asesor_014,Semi-Senior,Problema VoIP corporativa,Comercial,False,,True,True,7.83,4,CLI_17391,Presencial,Media,Media
+TKT_000746,2025-08-03 12:12:36,2025-08-05 08:51:36,Internet Hogar,Premium,ASE_019,Asesor_005,Semi-Senior,Lentitud navegación específica,Técnico,False,,True,True,44.65,4,CLI_23214,Telefono,Media,Alta
+TKT_000747,2025-06-25 12:12:36,2025-06-26 16:28:12,Internet Hogar,Básico,ASE_004,Asesor_029,Senior,Consulta plan específico región,Técnico,False,,False,False,28.26,3,CLI_21276,App,Baja,Alta
+TKT_000748,2025-09-11 12:12:36,2025-09-13 06:24:00,TV Cable,Regular,ASE_005,Asesor_007,Semi-Senior,Problema VoIP corporativa,Retención,True,NOC_Central,False,True,42.19,7,CLI_34149,Web,Media,Media
+TKT_000749,2025-08-03 12:12:36,2025-08-04 09:48:00,Internet Móvil,Básico,ASE_028,Asesor_038,Senior,Corte intermitente fibra,Comercial,False,,True,True,21.59,1,CLI_27479,Web,Baja,Baja
+TKT_000750,2025-07-20 12:12:36,2025-07-22 01:58:12,Empresarial,Premium,ASE_020,Asesor_029,Junior,Lentitud navegación específica,Retención,False,,False,False,37.76,1,CLI_26945,Presencial,Media,Alta
+TKT_000751,2025-06-26 12:12:36,2025-06-28 09:20:24,Internet Hogar,VIP,ASE_010,Asesor_015,Junior,Cambio plan mayor capacidad,Retención,True,NOC_Sur,False,False,45.13,7,CLI_41334,App,Alta,Media
+TKT_000752,2025-07-01 12:12:36,2025-07-02 16:40:12,TV Cable,Premium,ASE_044,Asesor_011,Semi-Senior,Consulta plan específico región,Soporte,False,,False,True,28.46,5,CLI_30855,Telefono,Alta,Alta
+TKT_000753,2025-06-27 12:12:36,2025-06-27 22:29:24,TV Cable,VIP,ASE_012,Asesor_050,Senior,Error configuración router,Comercial,True,NOC_Norte,True,True,10.28,1,CLI_15481,Web,Media,Baja
+TKT_000754,2025-07-22 12:12:36,2025-07-22 16:44:24,Telefonía Fija,VIP,ASE_007,Asesor_016,Junior,Falla WiFi 5GHz específica,Soporte,False,,True,False,4.53,6,CLI_03214,Telefono,Alta,Alta
+TKT_000755,2025-07-23 12:12:36,2025-07-24 04:46:12,Internet Móvil,Básico,ASE_050,Asesor_042,Semi-Senior,Error configuración router,Retención,False,,True,False,16.56,6,CLI_38506,Web,Alta,Baja
+TKT_000756,2025-08-24 12:12:36,2025-08-25 08:57:36,TV Cable,Básico,ASE_039,Asesor_043,Junior,Consulta plan específico región,Comercial,False,,False,True,20.75,2,CLI_34788,App,Media,Alta
+TKT_000757,2025-07-05 12:12:36,2025-07-06 00:45:36,Empresarial,Premium,ASE_025,Asesor_035,Junior,Error configuración router,Retención,False,,True,True,12.55,8,CLI_34473,Web,Baja,Baja
+TKT_000758,2025-07-06 12:12:36,2025-07-07 03:28:48,Internet Hogar,Regular,ASE_015,Asesor_050,Senior,Cambio email contacto,Comercial,True,NOC_Oeste,True,True,15.27,4,CLI_22806,Web,Alta,Baja
+TKT_000759,2025-08-08 12:12:36,2025-08-08 19:52:12,Móvil Postpago,Regular,ASE_007,Asesor_002,Senior,Solicitud certificado ingresos,Comercial,False,,True,True,7.66,1,CLI_05547,Telefono,Media,Alta
+TKT_000760,2025-08-11 12:12:36,2025-08-12 18:38:24,TV Cable,Regular,ASE_027,Asesor_046,Semi-Senior,Corte intermitente fibra,Comercial,False,,False,True,30.43,5,CLI_22053,Telefono,Baja,Baja
+TKT_000761,2025-07-25 12:12:36,2025-07-27 10:03:00,Móvil Prepago,Premium,ASE_031,Asesor_030,Semi-Senior,Duda promoción temporal,Comercial,True,NOC_Norte,False,False,45.84,4,CLI_40580,Presencial,Alta,Baja
+TKT_000762,2025-07-22 12:12:36,2025-07-24 00:24:36,Móvil Postpago,Premium,ASE_047,Asesor_034,Senior,Consulta plan específico región,Retención,False,,True,False,36.2,8,CLI_14608,Web,Baja,Alta
+TKT_000763,2025-07-18 12:12:36,2025-07-18 16:04:12,Móvil Postpago,Básico,ASE_028,Asesor_011,Junior,Cambio email contacto,Soporte,False,,True,False,3.86,7,CLI_16718,Telefono,Alta,Media
+TKT_000764,2025-06-25 12:12:36,2025-06-26 19:51:36,Móvil Prepago,Premium,ASE_004,Asesor_023,Semi-Senior,Corte intermitente fibra,Soporte,False,,False,False,31.65,10,CLI_22071,Presencial,Baja,Alta
+TKT_000765,2025-08-11 12:12:36,2025-08-12 02:30:36,Empresarial,VIP,ASE_035,Asesor_047,Senior,Solicitud certificado ingresos,Retención,False,,False,False,14.3,4,CLI_21642,Web,Baja,Baja
+TKT_000766,2025-08-05 12:12:36,2025-08-06 02:35:24,Móvil Prepago,VIP,ASE_016,Asesor_045,Junior,Falla WiFi 5GHz específica,Soporte,True,NOC_Oeste,False,False,14.38,8,CLI_26158,Web,Baja,Alta
+TKT_000767,2025-08-23 12:12:36,2025-08-25 09:00:36,Internet Móvil,Premium,ASE_014,Asesor_044,Semi-Senior,Cambio email contacto,Retención,False,,True,True,44.8,5,CLI_11735,Web,Alta,Media
+TKT_000768,2025-09-05 12:12:36,2025-09-06 18:03:36,TV Cable,Básico,ASE_050,Asesor_045,Semi-Senior,Problema VoIP corporativa,Soporte,False,,False,False,29.85,6,CLI_34791,Telefono,Media,Baja
+TKT_000769,2025-09-06 12:12:36,2025-09-08 05:28:12,Móvil Postpago,Básico,ASE_024,Asesor_020,Senior,Problema VoIP corporativa,Soporte,False,,False,True,41.26,5,CLI_32591,App,Baja,Alta
+TKT_000770,2025-06-27 12:12:36,2025-06-28 10:09:00,Telefonía Fija,VIP,ASE_003,Asesor_009,Senior,Corte intermitente fibra,Soporte,True,NOC_Este,True,False,21.94,1,CLI_13575,Telefono,Alta,Alta
+TKT_000771,2025-08-16 12:12:36,2025-08-16 21:50:24,Móvil Prepago,Premium,ASE_020,Asesor_016,Senior,Consulta plan específico región,Retención,True,NOC_Norte,False,False,9.63,3,CLI_44058,Telefono,Alta,Alta
+TKT_000772,2025-08-26 12:12:36,2025-08-27 07:41:24,Móvil Prepago,Premium,ASE_044,Asesor_041,Semi-Senior,Corte intermitente fibra,Técnico,True,NOC_Norte,True,False,19.48,3,CLI_11218,App,Media,Media
+TKT_000773,2025-07-22 12:12:36,2025-07-23 01:49:12,TV Cable,Regular,ASE_022,Asesor_048,Semi-Senior,Cambio email contacto,Soporte,True,NOC_Este,True,False,13.61,8,CLI_16199,Web,Alta,Alta
+TKT_000774,2025-07-12 12:12:36,2025-07-13 16:35:24,Internet Móvil,Premium,ASE_044,Asesor_002,Senior,Falla WiFi 5GHz específica,Técnico,True,NOC_Este,False,False,28.38,8,CLI_41498,App,Baja,Alta
+TKT_000775,2025-08-13 12:12:36,2025-08-15 04:49:48,Móvil Prepago,Básico,ASE_010,Asesor_005,Semi-Senior,Falla WiFi 5GHz específica,Soporte,True,NOC_Oeste,True,False,40.62,10,CLI_36995,Presencial,Media,Baja
+TKT_000776,2025-08-10 12:12:36,2025-08-10 19:55:12,Móvil Prepago,Básico,ASE_020,Asesor_040,Junior,Falla WiFi 5GHz específica,Técnico,False,,True,True,7.71,5,CLI_29674,Telefono,Media,Media
+TKT_000777,2025-07-07 12:12:36,2025-07-07 17:53:24,Móvil Prepago,Regular,ASE_024,Asesor_011,Senior,Sin señal TV canal específico,Retención,True,NOC_Este,False,False,5.68,7,CLI_38763,Presencial,Baja,Media
+TKT_000778,2025-07-24 12:12:36,2025-07-24 20:09:00,Móvil Postpago,Básico,ASE_008,Asesor_022,Junior,Consulta plan específico región,Soporte,True,NOC_Este,False,True,7.94,4,CLI_49161,Web,Baja,Baja
+TKT_000779,2025-07-03 12:12:36,2025-07-03 22:57:00,TV Cable,Regular,ASE_009,Asesor_016,Senior,Solicitud certificado ingresos,Técnico,False,,False,True,10.74,8,CLI_44635,Telefono,Media,Alta
+TKT_000780,2025-07-15 12:12:36,2025-07-16 15:27:36,Telefonía Fija,Básico,ASE_012,Asesor_010,Senior,Duda promoción temporal,Soporte,False,,True,True,27.25,4,CLI_12593,Web,Baja,Baja
+TKT_000781,2025-08-10 12:12:36,2025-08-11 19:03:00,Internet Móvil,Premium,ASE_013,Asesor_029,Semi-Senior,Problema VoIP corporativa,Comercial,True,NOC_Central,True,True,30.84,4,CLI_24941,App,Media,Alta
+TKT_000782,2025-07-15 12:12:36,2025-07-16 01:21:00,TV Cable,Premium,ASE_033,Asesor_029,Junior,Falla WiFi 5GHz específica,Comercial,True,NOC_Oeste,True,False,13.14,2,CLI_34559,Presencial,Baja,Media
+TKT_000783,2025-09-03 12:12:36,2025-09-03 17:20:24,Móvil Postpago,Premium,ASE_034,Asesor_049,Semi-Senior,Consulta plan específico región,Comercial,True,NOC_Central,False,True,5.13,2,CLI_23042,Telefono,Baja,Media
+TKT_000784,2025-08-03 12:12:36,2025-08-04 03:46:48,Móvil Postpago,Regular,ASE_019,Asesor_035,Junior,Falla WiFi 5GHz específica,Retención,False,,True,False,15.57,8,CLI_20496,Presencial,Alta,Alta
+TKT_000785,2025-08-15 12:12:36,2025-08-15 22:28:48,TV Cable,Básico,ASE_031,Asesor_013,Semi-Senior,Cambio plan mayor capacidad,Retención,True,NOC_Norte,True,True,10.27,10,CLI_03411,Telefono,Media,Alta
+TKT_000786,2025-07-15 12:12:36,2025-07-15 12:45:00,TV Cable,VIP,ASE_024,Asesor_018,Junior,Corte intermitente fibra,Soporte,True,NOC_Norte,False,True,0.54,4,CLI_37714,Telefono,Alta,Media
+TKT_000787,2025-07-20 12:12:36,2025-07-21 22:55:48,Telefonía Fija,VIP,ASE_028,Asesor_044,Junior,Lentitud navegación específica,Retención,False,,False,True,34.72,7,CLI_13113,App,Media,Baja
+TKT_000788,2025-07-19 12:12:36,2025-07-20 23:52:48,Empresarial,Premium,ASE_001,Asesor_014,Junior,Sin señal TV canal específico,Comercial,True,NOC_Central,True,False,35.67,3,CLI_13246,App,Media,Alta
+TKT_000789,2025-07-15 12:12:36,2025-07-16 13:01:12,Empresarial,VIP,ASE_010,Asesor_029,Semi-Senior,Falla WiFi 5GHz específica,Retención,False,,False,False,24.81,4,CLI_27901,Telefono,Baja,Baja
+TKT_000790,2025-06-30 12:12:36,2025-07-01 12:55:48,Móvil Postpago,Regular,ASE_032,Asesor_043,Senior,Lentitud navegación específica,Soporte,False,,False,False,24.72,5,CLI_11052,Presencial,Baja,Alta
+TKT_000791,2025-09-11 12:12:36,2025-09-12 04:01:48,Empresarial,Premium,ASE_038,Asesor_035,Semi-Senior,Cambio email contacto,Soporte,False,,False,False,15.82,3,CLI_49650,Presencial,Media,Alta
+TKT_000792,2025-09-04 12:12:36,2025-09-06 01:09:00,Móvil Prepago,VIP,ASE_047,Asesor_016,Senior,Lentitud navegación específica,Soporte,False,,False,False,36.94,7,CLI_10950,Presencial,Alta,Alta
+TKT_000793,2025-08-20 12:12:36,2025-08-20 15:43:12,Internet Móvil,VIP,ASE_022,Asesor_027,Senior,Duda promoción temporal,Comercial,False,,False,False,3.51,4,CLI_12309,Presencial,Media,Media
+TKT_000794,2025-08-14 12:12:36,2025-08-14 23:21:00,TV Cable,VIP,ASE_016,Asesor_012,Semi-Senior,Cambio plan mayor capacidad,Comercial,True,NOC_Central,True,False,11.14,4,CLI_00746,Web,Media,Alta
+TKT_000795,2025-08-02 12:12:36,2025-08-03 10:01:12,Internet Hogar,Básico,ASE_008,Asesor_043,Senior,Consulta plan específico región,Técnico,False,,False,False,21.81,6,CLI_07812,App,Baja,Alta
+TKT_000796,2025-09-13 12:12:36,2025-09-14 00:00:00,Internet Hogar,Regular,ASE_045,Asesor_012,Senior,Duda promoción temporal,Técnico,True,NOC_Norte,True,True,11.79,2,CLI_45083,Telefono,Media,Media
+TKT_000797,2025-07-05 12:12:36,2025-07-06 17:19:12,TV Cable,Regular,ASE_023,Asesor_034,Senior,Sin señal TV canal específico,Retención,False,,False,False,29.11,7,CLI_17449,Telefono,Alta,Media
+TKT_000798,2025-09-12 12:12:36,2025-09-14 06:58:48,Internet Hogar,VIP,ASE_032,Asesor_048,Junior,Lentitud navegación específica,Soporte,False,,False,True,42.77,4,CLI_03434,App,Baja,Baja
+TKT_000799,2025-08-28 12:12:36,2025-08-29 20:52:48,Telefonía Fija,Básico,ASE_015,Asesor_023,Semi-Senior,Cambio plan mayor capacidad,Retención,False,,True,True,32.67,5,CLI_18890,Presencial,Media,Baja
+TKT_000800,2025-07-10 12:12:36,2025-07-10 17:49:12,Empresarial,Regular,ASE_032,Asesor_019,Semi-Senior,Corte intermitente fibra,Retención,True,NOC_Oeste,True,True,5.61,7,CLI_46505,Web,Alta,Media
+TKT_000801,2025-07-16 12:12:36,2025-07-17 22:19:48,Internet Móvil,Regular,ASE_030,Asesor_029,Senior,Lentitud navegación específica,Comercial,True,NOC_Oeste,True,True,34.12,8,CLI_36415,Web,Baja,Baja
+TKT_000802,2025-06-19 12:12:36,2025-06-20 08:06:36,Móvil Postpago,VIP,ASE_047,Asesor_008,Semi-Senior,Lentitud navegación específica,Retención,True,NOC_Sur,False,False,19.9,4,CLI_38932,App,Media,Media
+TKT_000803,2025-07-29 12:12:36,2025-07-31 05:38:24,Telefonía Fija,Básico,ASE_032,Asesor_049,Senior,Solicitud certificado ingresos,Técnico,True,NOC_Sur,True,True,41.43,8,CLI_37224,App,Media,Alta
+TKT_000804,2025-06-20 12:12:36,2025-06-20 19:00:00,Telefonía Fija,Básico,ASE_037,Asesor_006,Junior,Actualización datos personales,Comercial,True,NOC_Sur,False,False,6.79,7,CLI_19772,Telefono,Baja,Alta
+TKT_000805,2025-08-12 12:12:36,2025-08-13 20:54:36,Internet Hogar,Regular,ASE_012,Asesor_046,Semi-Senior,Cambio plan mayor capacidad,Comercial,True,NOC_Sur,True,False,32.7,1,CLI_44779,Telefono,Alta,Alta
+TKT_000806,2025-06-27 12:12:36,2025-06-27 20:50:24,Empresarial,Básico,ASE_022,Asesor_032,Senior,Lentitud navegación específica,Soporte,False,,True,False,8.63,2,CLI_28211,Presencial,Media,Baja
+TKT_000807,2025-06-23 12:12:36,2025-06-24 19:17:24,Internet Móvil,Básico,ASE_015,Asesor_022,Senior,Actualización datos personales,Soporte,True,NOC_Norte,False,False,31.08,6,CLI_22418,Web,Media,Media
+TKT_000808,2025-07-28 12:12:36,2025-07-30 02:57:36,Móvil Postpago,Regular,ASE_050,Asesor_009,Semi-Senior,Cambio plan mayor capacidad,Técnico,False,,False,False,38.75,10,CLI_35345,App,Alta,Alta
+TKT_000809,2025-08-13 12:12:36,2025-08-13 14:03:36,Móvil Postpago,Premium,ASE_002,Asesor_026,Junior,Falla WiFi 5GHz específica,Comercial,True,NOC_Oeste,False,True,1.85,10,CLI_18728,App,Alta,Baja
+TKT_000810,2025-07-14 12:12:36,2025-07-15 07:21:00,Internet Móvil,Básico,ASE_020,Asesor_017,Junior,Lentitud navegación específica,Retención,True,NOC_Sur,True,False,19.14,4,CLI_19205,App,Baja,Baja
+TKT_000811,2025-06-24 12:12:36,2025-06-25 21:21:00,TV Cable,VIP,ASE_032,Asesor_035,Semi-Senior,Solicitud certificado ingresos,Retención,False,,True,False,33.14,4,CLI_08157,Presencial,Baja,Baja
+TKT_000812,2025-08-25 12:12:36,2025-08-26 04:28:12,Móvil Postpago,Premium,ASE_026,Asesor_046,Semi-Senior,Corte intermitente fibra,Técnico,True,NOC_Este,True,False,16.26,10,CLI_03568,Telefono,Media,Baja
+TKT_000813,2025-07-03 12:12:36,2025-07-05 05:25:12,Internet Móvil,VIP,ASE_043,Asesor_020,Junior,Consulta plan específico región,Retención,True,NOC_Norte,False,False,41.21,2,CLI_32418,App,Media,Alta
+TKT_000814,2025-07-08 12:12:36,2025-07-08 23:33:36,Internet Móvil,VIP,ASE_034,Asesor_020,Junior,Lentitud navegación específica,Técnico,True,NOC_Oeste,True,True,11.35,1,CLI_20711,Telefono,Media,Media
+TKT_000815,2025-08-21 12:12:36,2025-08-22 00:27:36,Móvil Prepago,Regular,ASE_008,Asesor_018,Semi-Senior,Cambio email contacto,Técnico,False,,True,False,12.25,8,CLI_37381,App,Baja,Alta
+TKT_000816,2025-08-18 12:12:36,2025-08-18 21:07:48,TV Cable,VIP,ASE_046,Asesor_021,Semi-Senior,Corte intermitente fibra,Comercial,False,,True,False,8.92,7,CLI_01788,Web,Media,Alta
+TKT_000817,2025-09-08 12:12:36,2025-09-10 10:59:24,Empresarial,Básico,ASE_021,Asesor_027,Senior,Actualización datos personales,Retención,True,NOC_Oeste,True,False,46.78,8,CLI_10833,App,Alta,Baja
+TKT_000818,2025-07-17 12:12:36,2025-07-18 05:38:24,Telefonía Fija,VIP,ASE_019,Asesor_049,Junior,Sin señal TV canal específico,Soporte,True,NOC_Este,True,True,17.43,5,CLI_47754,App,Alta,Media
+TKT_000819,2025-07-18 12:12:36,2025-07-19 00:09:36,Móvil Prepago,Básico,ASE_022,Asesor_043,Semi-Senior,Falla WiFi 5GHz específica,Retención,False,,True,True,11.95,10,CLI_45167,Telefono,Baja,Media
+TKT_000820,2025-08-13 12:12:36,2025-08-14 12:19:48,Internet Hogar,Premium,ASE_022,Asesor_034,Junior,Actualización datos personales,Técnico,True,NOC_Norte,True,True,24.12,8,CLI_31387,Telefono,Media,Media
+TKT_000821,2025-07-23 12:12:36,2025-07-24 03:52:12,Móvil Prepago,Básico,ASE_036,Asesor_030,Junior,Duda promoción temporal,Retención,True,NOC_Sur,False,False,15.66,3,CLI_16475,Telefono,Media,Baja
+TKT_000822,2025-08-03 12:12:36,2025-08-05 10:03:36,Internet Móvil,VIP,ASE_020,Asesor_012,Semi-Senior,Falla WiFi 5GHz específica,Soporte,True,NOC_Central,True,False,45.85,6,CLI_35309,Telefono,Alta,Media
+TKT_000823,2025-07-31 12:12:36,2025-07-31 15:04:48,TV Cable,VIP,ASE_044,Asesor_050,Senior,Lentitud navegación específica,Soporte,True,NOC_Este,True,True,2.87,1,CLI_06383,Presencial,Media,Media
+TKT_000824,2025-06-25 12:12:36,2025-06-26 21:42:00,Internet Móvil,Premium,ASE_044,Asesor_048,Junior,Duda promoción temporal,Técnico,True,NOC_Sur,True,True,33.49,7,CLI_40929,Telefono,Media,Media
+TKT_000825,2025-06-18 12:12:36,2025-06-19 22:01:48,Internet Móvil,VIP,ASE_044,Asesor_036,Semi-Senior,Solicitud certificado ingresos,Soporte,True,NOC_Central,False,True,33.82,7,CLI_26181,Presencial,Media,Baja
+TKT_000826,2025-08-01 12:12:36,2025-08-02 07:17:24,TV Cable,Básico,ASE_021,Asesor_046,Semi-Senior,Consulta plan específico región,Soporte,False,,False,False,19.08,2,CLI_04284,Web,Media,Media
+TKT_000827,2025-07-28 12:12:36,2025-07-29 17:22:48,Telefonía Fija,Regular,ASE_018,Asesor_024,Senior,Cambio email contacto,Técnico,False,,True,False,29.17,3,CLI_21184,Web,Media,Alta
+TKT_000828,2025-08-07 12:12:36,2025-08-09 02:57:00,Telefonía Fija,VIP,ASE_048,Asesor_032,Junior,Actualización datos personales,Retención,True,NOC_Sur,True,True,38.74,4,CLI_05549,Telefono,Media,Baja
+TKT_000829,2025-08-30 12:12:36,2025-08-31 19:02:24,Telefonía Fija,Premium,ASE_009,Asesor_030,Semi-Senior,Corte intermitente fibra,Soporte,False,,False,False,30.83,4,CLI_40064,Telefono,Baja,Baja
+TKT_000830,2025-07-08 12:12:36,2025-07-10 10:31:12,Móvil Postpago,Premium,ASE_020,Asesor_031,Senior,Duda promoción temporal,Técnico,False,,False,True,46.31,6,CLI_31293,Telefono,Baja,Alta
+TKT_000831,2025-08-23 12:12:36,2025-08-25 12:12:00,Telefonía Fija,Premium,ASE_004,Asesor_021,Junior,Duda promoción temporal,Técnico,True,NOC_Este,False,False,47.99,4,CLI_45420,Telefono,Media,Alta
+TKT_000832,2025-07-24 12:12:36,2025-07-25 00:48:00,Internet Hogar,Regular,ASE_034,Asesor_050,Senior,Solicitud certificado ingresos,Retención,True,NOC_Oeste,False,True,12.59,10,CLI_18030,App,Alta,Media
+TKT_000833,2025-07-21 12:12:36,2025-07-22 11:42:00,Móvil Prepago,Básico,ASE_046,Asesor_005,Junior,Lentitud navegación específica,Técnico,False,,True,True,23.49,9,CLI_41310,Web,Media,Media
+TKT_000834,2025-07-14 12:12:36,2025-07-14 20:09:00,Internet Móvil,Premium,ASE_038,Asesor_002,Semi-Senior,Sin señal TV canal específico,Técnico,True,NOC_Este,True,True,7.94,10,CLI_05784,Web,Media,Baja
+TKT_000835,2025-07-12 12:12:36,2025-07-12 23:51:36,Móvil Postpago,Básico,ASE_040,Asesor_017,Semi-Senior,Solicitud certificado ingresos,Comercial,True,NOC_Este,True,True,11.65,8,CLI_44088,Presencial,Media,Baja
+TKT_000836,2025-08-03 12:12:36,2025-08-05 00:34:12,Móvil Prepago,VIP,ASE_015,Asesor_040,Senior,Solicitud certificado ingresos,Retención,False,,False,True,36.36,9,CLI_02946,Telefono,Baja,Alta
+TKT_000837,2025-08-06 12:12:36,2025-08-06 22:38:24,Empresarial,Premium,ASE_045,Asesor_042,Senior,Lentitud navegación específica,Retención,True,NOC_Central,False,True,10.43,3,CLI_07284,Presencial,Alta,Baja
+TKT_000838,2025-07-17 12:12:36,2025-07-18 21:01:48,Empresarial,Regular,ASE_003,Asesor_009,Senior,Consulta plan específico región,Técnico,False,,False,False,32.82,7,CLI_43226,Telefono,Media,Baja
+TKT_000839,2025-08-11 12:12:36,2025-08-13 03:39:00,TV Cable,VIP,ASE_031,Asesor_040,Junior,Cambio email contacto,Técnico,False,,True,False,39.44,10,CLI_27427,Presencial,Alta,Alta
+TKT_000840,2025-08-30 12:12:36,2025-08-31 02:37:12,Móvil Postpago,Premium,ASE_009,Asesor_029,Senior,Problema VoIP corporativa,Comercial,False,,True,True,14.41,7,CLI_41644,Web,Media,Baja
+TKT_000841,2025-06-27 12:12:36,2025-06-29 03:37:12,Móvil Prepago,Regular,ASE_031,Asesor_030,Senior,Falla WiFi 5GHz específica,Técnico,True,NOC_Este,False,False,39.41,6,CLI_21819,App,Baja,Alta
+TKT_000842,2025-07-07 12:12:36,2025-07-08 07:14:24,TV Cable,Premium,ASE_041,Asesor_033,Junior,Corte intermitente fibra,Soporte,True,NOC_Este,True,False,19.03,6,CLI_04834,App,Alta,Media
+TKT_000843,2025-06-29 12:12:36,2025-07-01 03:26:24,TV Cable,VIP,ASE_028,Asesor_045,Junior,Problema VoIP corporativa,Técnico,True,NOC_Sur,False,True,39.23,10,CLI_38226,Web,Baja,Media
+TKT_000844,2025-07-30 12:12:36,2025-07-31 21:32:24,TV Cable,Regular,ASE_042,Asesor_011,Junior,Duda promoción temporal,Técnico,True,NOC_Oeste,True,False,33.33,3,CLI_45934,App,Baja,Alta
+TKT_000845,2025-08-08 12:12:36,2025-08-10 04:42:36,TV Cable,Regular,ASE_021,Asesor_003,Senior,Solicitud certificado ingresos,Retención,False,,True,False,40.5,10,CLI_49514,App,Media,Alta
+TKT_000846,2025-09-14 12:12:36,2025-09-15 19:09:00,Internet Hogar,Premium,ASE_012,Asesor_039,Junior,Falla WiFi 5GHz específica,Retención,True,NOC_Norte,True,True,30.94,6,CLI_13152,Presencial,Alta,Baja
+TKT_000847,2025-07-11 12:12:36,2025-07-13 00:01:12,Internet Hogar,Premium,ASE_008,Asesor_018,Junior,Error configuración router,Retención,True,NOC_Central,False,False,35.81,6,CLI_42396,App,Media,Baja
+TKT_000848,2025-09-05 12:12:36,2025-09-06 19:56:24,Telefonía Fija,Regular,ASE_025,Asesor_017,Senior,Corte intermitente fibra,Técnico,True,NOC_Sur,True,True,31.73,2,CLI_05348,Web,Alta,Alta
+TKT_000849,2025-06-24 12:12:36,2025-06-25 00:44:24,TV Cable,VIP,ASE_033,Asesor_015,Semi-Senior,Actualización datos personales,Comercial,False,,False,False,12.53,1,CLI_08520,Web,Alta,Alta
+TKT_000850,2025-09-15 12:12:36,2025-09-16 10:07:12,TV Cable,Básico,ASE_017,Asesor_018,Semi-Senior,Solicitud certificado ingresos,Comercial,True,NOC_Central,False,True,21.91,4,CLI_07001,Presencial,Media,Media
+TKT_000851,2025-07-16 12:12:36,2025-07-17 19:32:24,Móvil Prepago,Básico,ASE_044,Asesor_047,Junior,Duda promoción temporal,Comercial,True,NOC_Norte,False,True,31.33,8,CLI_08924,Presencial,Alta,Media
+TKT_000852,2025-07-16 12:12:36,2025-07-17 22:30:00,Móvil Prepago,Básico,ASE_032,Asesor_010,Junior,Actualización datos personales,Retención,False,,True,True,34.29,1,CLI_13761,App,Alta,Media
+TKT_000853,2025-08-12 12:12:36,2025-08-13 12:45:36,TV Cable,Regular,ASE_040,Asesor_030,Semi-Senior,Duda promoción temporal,Comercial,False,,True,True,24.55,7,CLI_03904,App,Media,Media
+TKT_000854,2025-07-16 12:12:36,2025-07-17 02:31:48,Internet Hogar,VIP,ASE_042,Asesor_041,Semi-Senior,Falla WiFi 5GHz específica,Comercial,False,,True,True,14.32,2,CLI_40633,Web,Alta,Baja
+TKT_000855,2025-08-25 12:12:36,2025-08-25 18:27:00,Móvil Postpago,Regular,ASE_028,Asesor_017,Junior,Problema VoIP corporativa,Técnico,True,NOC_Central,False,False,6.24,3,CLI_45949,App,Alta,Baja
+TKT_000856,2025-07-01 12:12:36,2025-07-02 21:24:00,Telefonía Fija,Premium,ASE_033,Asesor_014,Semi-Senior,Cambio email contacto,Retención,False,,False,False,33.19,6,CLI_15807,Presencial,Baja,Alta
+TKT_000857,2025-08-24 12:12:36,2025-08-25 00:03:36,Empresarial,Básico,ASE_029,Asesor_041,Senior,Cambio plan mayor capacidad,Soporte,True,NOC_Central,True,False,11.85,2,CLI_39177,Telefono,Baja,Alta
+TKT_000858,2025-06-30 12:12:36,2025-07-02 07:57:00,Internet Hogar,Básico,ASE_028,Asesor_015,Semi-Senior,Sin señal TV canal específico,Retención,False,,False,True,43.74,4,CLI_10448,Web,Alta,Media
+TKT_000859,2025-07-25 12:12:36,2025-07-26 15:48:36,Internet Hogar,Regular,ASE_014,Asesor_048,Senior,Duda promoción temporal,Retención,False,,False,False,27.6,1,CLI_38164,Telefono,Media,Baja
+TKT_000860,2025-09-07 12:12:36,2025-09-07 14:03:00,Internet Hogar,Regular,ASE_023,Asesor_031,Senior,Sin señal TV canal específico,Comercial,False,,False,False,1.84,2,CLI_27895,Telefono,Baja,Media
+TKT_000861,2025-07-10 12:12:36,2025-07-10 14:54:36,Internet Móvil,Básico,ASE_029,Asesor_013,Semi-Senior,Error configuración router,Técnico,False,,False,False,2.7,9,CLI_24853,Presencial,Alta,Media
+TKT_000862,2025-07-30 12:12:36,2025-07-30 17:28:12,Móvil Prepago,Premium,ASE_049,Asesor_002,Senior,Duda promoción temporal,Retención,True,NOC_Sur,False,True,5.26,5,CLI_20255,Web,Baja,Baja
+TKT_000863,2025-08-19 12:12:36,2025-08-19 18:06:36,Móvil Postpago,Básico,ASE_019,Asesor_039,Semi-Senior,Falla WiFi 5GHz específica,Retención,True,NOC_Sur,False,True,5.9,2,CLI_16982,Telefono,Baja,Baja
+TKT_000864,2025-08-28 12:12:36,2025-08-29 14:55:48,Móvil Prepago,Premium,ASE_046,Asesor_007,Semi-Senior,Solicitud certificado ingresos,Técnico,True,NOC_Sur,False,False,26.72,5,CLI_34440,Telefono,Alta,Baja
+TKT_000865,2025-08-02 12:12:36,2025-08-02 18:16:12,Móvil Prepago,Premium,ASE_048,Asesor_033,Semi-Senior,Falla WiFi 5GHz específica,Técnico,True,NOC_Sur,True,False,6.06,3,CLI_17937,App,Baja,Media
+TKT_000866,2025-07-02 12:12:36,2025-07-04 04:55:12,TV Cable,Básico,ASE_018,Asesor_018,Semi-Senior,Falla WiFi 5GHz específica,Retención,True,NOC_Este,False,True,40.71,1,CLI_23576,Web,Alta,Media
+TKT_000867,2025-09-15 12:12:36,2025-09-16 17:49:12,Móvil Prepago,VIP,ASE_005,Asesor_008,Junior,Sin señal TV canal específico,Comercial,True,NOC_Oeste,False,False,29.61,6,CLI_15473,Presencial,Media,Baja
+TKT_000868,2025-08-21 12:12:36,2025-08-22 20:16:12,Empresarial,VIP,ASE_006,Asesor_047,Senior,Consulta plan específico región,Soporte,True,NOC_Sur,True,False,32.06,3,CLI_31803,Web,Baja,Media
+TKT_000869,2025-07-23 12:12:36,2025-07-24 20:32:24,Móvil Prepago,VIP,ASE_020,Asesor_023,Semi-Senior,Cambio email contacto,Comercial,False,,False,True,32.33,3,CLI_31961,Telefono,Media,Baja
+TKT_000870,2025-09-13 12:12:36,2025-09-14 13:25:12,TV Cable,Regular,ASE_023,Asesor_001,Senior,Consulta plan específico región,Técnico,False,,True,True,25.21,1,CLI_29159,Web,Media,Media
+TKT_000871,2025-06-26 12:12:36,2025-06-27 01:14:24,Internet Hogar,VIP,ASE_026,Asesor_025,Senior,Duda promoción temporal,Retención,True,NOC_Central,True,True,13.03,8,CLI_34972,Presencial,Baja,Media
+TKT_000872,2025-08-11 12:12:36,2025-08-11 21:03:00,TV Cable,Regular,ASE_048,Asesor_009,Semi-Senior,Falla WiFi 5GHz específica,Soporte,False,,True,True,8.84,5,CLI_25673,Web,Baja,Media
+TKT_000873,2025-08-01 12:12:36,2025-08-02 07:19:48,Móvil Prepago,VIP,ASE_047,Asesor_005,Senior,Consulta plan específico región,Técnico,True,NOC_Central,False,False,19.12,2,CLI_28571,Web,Alta,Baja
+TKT_000874,2025-07-03 12:12:36,2025-07-04 07:10:12,Móvil Prepago,VIP,ASE_018,Asesor_029,Semi-Senior,Actualización datos personales,Retención,True,NOC_Sur,False,False,18.96,4,CLI_22079,Presencial,Media,Alta
+TKT_000875,2025-09-09 12:12:36,2025-09-10 13:44:24,Internet Hogar,VIP,ASE_004,Asesor_002,Senior,Consulta plan específico región,Técnico,False,,False,True,25.53,8,CLI_18065,Presencial,Alta,Alta
+TKT_000876,2025-08-11 12:12:36,2025-08-13 11:10:48,Móvil Prepago,Premium,ASE_041,Asesor_014,Junior,Error configuración router,Comercial,True,NOC_Este,False,True,46.97,8,CLI_26676,Telefono,Alta,Media
+TKT_000877,2025-07-12 12:12:36,2025-07-14 09:43:48,Internet Hogar,Premium,ASE_044,Asesor_003,Senior,Consulta plan específico región,Técnico,False,,False,True,45.52,8,CLI_32043,Presencial,Alta,Baja
+TKT_000878,2025-08-14 12:12:36,2025-08-15 01:04:48,Empresarial,Básico,ASE_011,Asesor_044,Senior,Lentitud navegación específica,Técnico,True,NOC_Oeste,True,True,12.87,3,CLI_24186,Presencial,Alta,Media
+TKT_000879,2025-06-24 12:12:36,2025-06-25 21:41:24,TV Cable,VIP,ASE_035,Asesor_037,Semi-Senior,Actualización datos personales,Comercial,False,,False,False,33.48,5,CLI_21163,Telefono,Alta,Baja
+TKT_000880,2025-08-01 12:12:36,2025-08-02 17:49:12,Internet Hogar,Premium,ASE_009,Asesor_035,Junior,Error configuración router,Soporte,False,,True,True,29.61,1,CLI_46956,Telefono,Media,Baja
+TKT_000881,2025-07-17 12:12:36,2025-07-18 01:58:48,Internet Móvil,Básico,ASE_004,Asesor_030,Semi-Senior,Falla WiFi 5GHz específica,Técnico,False,,True,False,13.77,3,CLI_14783,Presencial,Baja,Media
+TKT_000882,2025-06-25 12:12:36,2025-06-25 18:37:48,Móvil Prepago,Regular,ASE_015,Asesor_046,Semi-Senior,Consulta plan específico región,Retención,True,NOC_Norte,True,False,6.42,1,CLI_01602,Telefono,Media,Alta
+TKT_000883,2025-09-05 12:12:36,2025-09-06 20:40:48,Móvil Prepago,Regular,ASE_017,Asesor_015,Semi-Senior,Error configuración router,Comercial,True,NOC_Norte,True,False,32.47,8,CLI_05080,Presencial,Alta,Baja
+TKT_000884,2025-06-24 12:12:36,2025-06-24 15:56:24,Internet Móvil,Regular,ASE_003,Asesor_030,Junior,Corte intermitente fibra,Retención,False,,False,True,3.73,5,CLI_02136,App,Baja,Alta
+TKT_000885,2025-08-22 12:12:36,2025-08-24 01:58:12,Telefonía Fija,Regular,ASE_047,Asesor_018,Junior,Lentitud navegación específica,Retención,True,NOC_Central,False,True,37.76,7,CLI_04417,Web,Media,Alta
+TKT_000886,2025-09-02 12:12:36,2025-09-02 13:48:00,Móvil Prepago,VIP,ASE_037,Asesor_049,Senior,Actualización datos personales,Soporte,False,,False,False,1.59,5,CLI_06633,Telefono,Baja,Media
+TKT_000887,2025-08-05 12:12:36,2025-08-06 15:22:12,Internet Móvil,Regular,ASE_011,Asesor_045,Junior,Lentitud navegación específica,Técnico,False,,True,False,27.16,4,CLI_23449,Telefono,Media,Baja
+TKT_000888,2025-07-08 12:12:36,2025-07-09 06:10:12,TV Cable,Premium,ASE_002,Asesor_040,Senior,Problema VoIP corporativa,Retención,False,,True,False,17.96,4,CLI_34382,Web,Baja,Media
+TKT_000889,2025-08-03 12:12:36,2025-08-03 23:39:00,Internet Móvil,VIP,ASE_025,Asesor_001,Semi-Senior,Corte intermitente fibra,Soporte,True,NOC_Central,False,False,11.44,1,CLI_04183,App,Baja,Media
+TKT_000890,2025-07-27 12:12:36,2025-07-28 16:45:00,Internet Hogar,Premium,ASE_005,Asesor_026,Senior,Solicitud certificado ingresos,Técnico,False,,False,True,28.54,7,CLI_20883,Presencial,Alta,Alta
+TKT_000891,2025-08-13 12:12:36,2025-08-14 02:04:48,TV Cable,Regular,ASE_047,Asesor_046,Semi-Senior,Corte intermitente fibra,Técnico,True,NOC_Sur,True,True,13.87,7,CLI_30888,Web,Baja,Alta
+TKT_000892,2025-08-19 12:12:36,2025-08-19 18:46:12,Empresarial,Premium,ASE_015,Asesor_040,Junior,Error configuración router,Comercial,False,,True,False,6.56,7,CLI_12656,Telefono,Baja,Media
+TKT_000893,2025-09-02 12:12:36,2025-09-04 05:48:36,Móvil Postpago,VIP,ASE_038,Asesor_022,Semi-Senior,Error configuración router,Retención,True,NOC_Norte,False,False,41.6,2,CLI_45981,App,Media,Baja
+TKT_000894,2025-09-14 12:12:36,2025-09-15 21:22:48,Telefonía Fija,Regular,ASE_022,Asesor_016,Senior,Lentitud navegación específica,Técnico,False,,True,False,33.17,5,CLI_19045,App,Alta,Alta
+TKT_000895,2025-07-29 12:12:36,2025-07-29 21:00:00,Empresarial,Regular,ASE_040,Asesor_008,Junior,Corte intermitente fibra,Comercial,False,,False,False,8.79,4,CLI_23734,App,Media,Baja
+TKT_000896,2025-09-15 12:12:36,2025-09-16 05:21:00,Móvil Postpago,Premium,ASE_011,Asesor_035,Semi-Senior,Corte intermitente fibra,Soporte,False,,True,True,17.14,9,CLI_23147,Presencial,Baja,Media
+TKT_000897,2025-08-20 12:12:36,2025-08-21 10:24:00,Móvil Prepago,Premium,ASE_024,Asesor_025,Senior,Falla WiFi 5GHz específica,Comercial,True,NOC_Este,True,False,22.19,1,CLI_04662,Telefono,Alta,Baja
+TKT_000898,2025-08-16 12:12:36,2025-08-16 16:20:24,Móvil Prepago,Premium,ASE_010,Asesor_003,Senior,Corte intermitente fibra,Comercial,True,NOC_Oeste,False,True,4.13,1,CLI_04248,Telefono,Baja,Media
+TKT_000899,2025-08-16 12:12:36,2025-08-16 14:42:00,Móvil Postpago,VIP,ASE_048,Asesor_043,Semi-Senior,Sin señal TV canal específico,Comercial,True,NOC_Central,False,False,2.49,10,CLI_01780,Web,Media,Alta
+TKT_000900,2025-07-21 12:12:36,2025-07-22 20:54:00,Móvil Postpago,VIP,ASE_028,Asesor_031,Senior,Consulta plan específico región,Soporte,True,NOC_Oeste,False,True,32.69,2,CLI_24112,Telefono,Baja,Alta
+TKT_000901,2025-07-11 12:12:36,2025-07-13 09:11:24,Móvil Prepago,Regular,ASE_020,Asesor_045,Junior,Cambio email contacto,Técnico,False,,True,False,44.98,2,CLI_18622,App,Media,Alta
+TKT_000902,2025-07-09 12:12:36,2025-07-11 02:57:36,Móvil Postpago,Básico,ASE_027,Asesor_046,Senior,Duda promoción temporal,Soporte,True,NOC_Este,True,False,38.75,6,CLI_21978,Presencial,Alta,Media
+TKT_000903,2025-08-12 12:12:36,2025-08-14 03:10:12,Internet Móvil,Básico,ASE_004,Asesor_039,Semi-Senior,Solicitud certificado ingresos,Soporte,True,NOC_Central,True,True,38.96,8,CLI_11799,Web,Media,Alta
+TKT_000904,2025-07-09 12:12:36,2025-07-10 19:26:24,TV Cable,Básico,ASE_047,Asesor_024,Senior,Actualización datos personales,Comercial,False,,False,True,31.23,5,CLI_05554,Web,Alta,Alta
+TKT_000905,2025-08-29 12:12:36,2025-08-30 09:30:00,Internet Hogar,VIP,ASE_035,Asesor_007,Semi-Senior,Consulta plan específico región,Retención,True,NOC_Oeste,True,True,21.29,9,CLI_03264,Telefono,Alta,Alta
+TKT_000906,2025-07-11 12:12:36,2025-07-13 08:33:36,Móvil Prepago,Premium,ASE_045,Asesor_014,Semi-Senior,Duda promoción temporal,Técnico,True,NOC_Este,False,False,44.35,10,CLI_42507,Presencial,Baja,Alta
+TKT_000907,2025-07-12 12:12:36,2025-07-13 11:30:36,Empresarial,VIP,ASE_031,Asesor_029,Junior,Sin señal TV canal específico,Técnico,False,,True,True,23.3,3,CLI_33826,App,Baja,Baja
+TKT_000908,2025-07-22 12:12:36,2025-07-24 00:55:12,Empresarial,Regular,ASE_010,Asesor_019,Junior,Error configuración router,Comercial,True,NOC_Sur,False,True,36.71,6,CLI_16444,Telefono,Media,Media
+TKT_000909,2025-08-29 12:12:36,2025-08-30 04:06:00,Móvil Prepago,Básico,ASE_043,Asesor_027,Senior,Duda promoción temporal,Soporte,True,NOC_Este,False,False,15.89,8,CLI_49767,Presencial,Baja,Alta
+TKT_000910,2025-06-23 12:12:36,2025-06-25 09:03:36,Móvil Postpago,Regular,ASE_048,Asesor_016,Semi-Senior,Solicitud certificado ingresos,Soporte,True,NOC_Norte,False,False,44.85,2,CLI_14290,Presencial,Alta,Alta
+TKT_000911,2025-08-27 12:12:36,2025-08-28 14:35:24,Telefonía Fija,Premium,ASE_013,Asesor_035,Senior,Problema VoIP corporativa,Técnico,False,,True,False,26.38,7,CLI_26432,Presencial,Baja,Baja
+TKT_000912,2025-07-14 12:12:36,2025-07-15 10:13:48,Móvil Prepago,VIP,ASE_011,Asesor_027,Junior,Cambio email contacto,Técnico,True,NOC_Este,True,True,22.02,8,CLI_24508,Web,Baja,Alta
+TKT_000913,2025-07-03 12:12:36,2025-07-05 07:12:00,TV Cable,Premium,ASE_002,Asesor_047,Junior,Falla WiFi 5GHz específica,Comercial,False,,False,False,42.99,6,CLI_35419,Presencial,Alta,Baja
+TKT_000914,2025-07-24 12:12:36,2025-07-25 08:25:12,Empresarial,Básico,ASE_035,Asesor_006,Junior,Duda promoción temporal,Retención,True,NOC_Oeste,False,False,20.21,6,CLI_09791,App,Media,Baja
+TKT_000915,2025-06-25 12:12:36,2025-06-26 11:04:12,Móvil Prepago,Premium,ASE_001,Asesor_030,Semi-Senior,Duda promoción temporal,Técnico,False,,True,False,22.86,10,CLI_34683,Presencial,Baja,Alta
+TKT_000916,2025-09-02 12:12:36,2025-09-03 17:01:12,Empresarial,Regular,ASE_015,Asesor_034,Semi-Senior,Error configuración router,Retención,False,,True,True,28.81,6,CLI_04527,Presencial,Alta,Alta
+TKT_000917,2025-06-27 12:12:36,2025-06-28 02:25:48,Internet Hogar,Básico,ASE_046,Asesor_011,Semi-Senior,Consulta plan específico región,Retención,True,NOC_Este,False,False,14.22,3,CLI_05098,Presencial,Baja,Alta
+TKT_000918,2025-07-23 12:12:36,2025-07-24 09:21:00,Telefonía Fija,Básico,ASE_030,Asesor_050,Junior,Sin señal TV canal específico,Técnico,True,NOC_Central,False,False,21.14,9,CLI_31962,App,Alta,Alta
+TKT_000919,2025-08-29 12:12:36,2025-08-30 13:07:48,Móvil Prepago,VIP,ASE_034,Asesor_024,Senior,Sin señal TV canal específico,Soporte,False,,True,True,24.92,5,CLI_08869,Telefono,Media,Baja
+TKT_000920,2025-07-31 12:12:36,2025-08-01 00:21:00,Móvil Prepago,Premium,ASE_035,Asesor_032,Junior,Problema VoIP corporativa,Comercial,True,NOC_Este,False,True,12.14,8,CLI_12646,Presencial,Baja,Alta
+TKT_000921,2025-06-29 12:12:36,2025-06-29 13:55:48,Móvil Prepago,Básico,ASE_010,Asesor_015,Semi-Senior,Consulta plan específico región,Retención,False,,True,True,1.72,1,CLI_11403,Telefono,Alta,Alta
+TKT_000922,2025-09-13 12:12:36,2025-09-14 01:58:48,Internet Móvil,Premium,ASE_014,Asesor_044,Junior,Actualización datos personales,Comercial,True,NOC_Central,False,True,13.77,6,CLI_23951,Telefono,Alta,Alta
+TKT_000923,2025-07-22 12:12:36,2025-07-24 06:34:12,Móvil Prepago,Regular,ASE_032,Asesor_037,Senior,Solicitud certificado ingresos,Comercial,True,NOC_Norte,False,False,42.36,9,CLI_27030,App,Media,Baja
+TKT_000924,2025-09-15 12:12:36,2025-09-17 07:13:48,Telefonía Fija,Premium,ASE_043,Asesor_028,Junior,Sin señal TV canal específico,Técnico,True,NOC_Norte,False,False,43.02,2,CLI_27082,Telefono,Baja,Alta
+TKT_000925,2025-09-10 12:12:36,2025-09-11 06:49:48,Internet Móvil,VIP,ASE_044,Asesor_002,Senior,Cambio plan mayor capacidad,Retención,False,,True,False,18.62,3,CLI_10402,Web,Baja,Baja
+TKT_000926,2025-09-11 12:12:36,2025-09-12 15:30:36,TV Cable,VIP,ASE_042,Asesor_046,Junior,Consulta plan específico región,Soporte,True,NOC_Este,False,True,27.3,2,CLI_43509,Web,Media,Alta
+TKT_000927,2025-07-07 12:12:36,2025-07-07 14:06:00,Móvil Prepago,Regular,ASE_011,Asesor_003,Senior,Consulta plan específico región,Técnico,True,NOC_Oeste,False,False,1.89,7,CLI_19518,Presencial,Baja,Baja
+TKT_000928,2025-07-02 12:12:36,2025-07-03 13:19:12,TV Cable,Regular,ASE_045,Asesor_024,Senior,Error configuración router,Soporte,True,NOC_Oeste,True,False,25.11,10,CLI_01120,Presencial,Baja,Alta
+TKT_000929,2025-06-21 12:12:36,2025-06-23 02:59:24,Empresarial,Básico,ASE_016,Asesor_049,Junior,Solicitud certificado ingresos,Comercial,True,NOC_Oeste,False,True,38.78,8,CLI_16683,Web,Alta,Alta
+TKT_000930,2025-06-19 12:12:36,2025-06-21 02:24:36,Móvil Prepago,Premium,ASE_045,Asesor_025,Junior,Actualización datos personales,Soporte,True,NOC_Norte,True,False,38.2,6,CLI_21606,Telefono,Baja,Baja
+TKT_000931,2025-07-26 12:12:36,2025-07-27 16:46:12,Móvil Prepago,Premium,ASE_015,Asesor_034,Semi-Senior,Error configuración router,Soporte,False,,False,True,28.56,7,CLI_04111,Presencial,Media,Baja
+TKT_000932,2025-07-08 12:12:36,2025-07-10 09:54:36,Telefonía Fija,VIP,ASE_013,Asesor_031,Senior,Actualización datos personales,Retención,True,NOC_Sur,False,False,45.7,10,CLI_04196,App,Baja,Baja
+TKT_000933,2025-06-26 12:12:36,2025-06-28 09:24:36,TV Cable,Premium,ASE_017,Asesor_036,Junior,Actualización datos personales,Técnico,True,NOC_Oeste,True,True,45.2,8,CLI_23838,Web,Alta,Media
+TKT_000934,2025-09-01 12:12:36,2025-09-02 08:23:24,Empresarial,VIP,ASE_035,Asesor_044,Junior,Actualización datos personales,Soporte,True,NOC_Norte,False,True,20.18,5,CLI_27029,Telefono,Alta,Media
+TKT_000935,2025-08-01 12:12:36,2025-08-02 15:39:36,Móvil Postpago,Premium,ASE_042,Asesor_011,Junior,Problema VoIP corporativa,Técnico,False,,False,True,27.45,10,CLI_30780,Telefono,Baja,Baja
+TKT_000936,2025-09-15 12:12:36,2025-09-16 04:33:36,Internet Móvil,Premium,ASE_015,Asesor_010,Semi-Senior,Corte intermitente fibra,Técnico,False,,False,True,16.35,4,CLI_24341,App,Baja,Alta
+TKT_000937,2025-06-21 12:12:36,2025-06-21 17:22:12,Móvil Prepago,VIP,ASE_049,Asesor_024,Junior,Consulta plan específico región,Técnico,True,NOC_Oeste,True,False,5.16,8,CLI_03064,Presencial,Baja,Media
+TKT_000938,2025-08-20 12:12:36,2025-08-21 07:03:00,Móvil Prepago,Regular,ASE_033,Asesor_030,Junior,Falla WiFi 5GHz específica,Retención,True,NOC_Este,True,False,18.84,5,CLI_02702,App,Baja,Alta
+TKT_000939,2025-07-29 12:12:36,2025-07-31 05:53:24,Internet Hogar,Básico,ASE_047,Asesor_028,Junior,Error configuración router,Retención,False,,False,False,41.68,3,CLI_10424,App,Media,Alta
+TKT_000940,2025-07-20 12:12:36,2025-07-21 20:45:00,Telefonía Fija,Premium,ASE_034,Asesor_013,Junior,Actualización datos personales,Comercial,True,NOC_Oeste,False,True,32.54,5,CLI_42903,App,Media,Media
+TKT_000941,2025-07-10 12:12:36,2025-07-11 13:45:00,Móvil Postpago,Básico,ASE_040,Asesor_049,Senior,Actualización datos personales,Técnico,True,NOC_Este,False,True,25.54,1,CLI_00704,Telefono,Baja,Media
+TKT_000942,2025-08-05 12:12:36,2025-08-06 23:37:12,Móvil Prepago,Básico,ASE_016,Asesor_020,Junior,Duda promoción temporal,Soporte,True,NOC_Norte,False,True,35.41,9,CLI_16202,Presencial,Media,Alta
+TKT_000943,2025-08-04 12:12:36,2025-08-04 23:25:12,TV Cable,VIP,ASE_045,Asesor_043,Semi-Senior,Cambio email contacto,Comercial,True,NOC_Norte,False,False,11.21,7,CLI_44522,Presencial,Baja,Alta
+TKT_000944,2025-08-28 12:12:36,2025-08-29 19:49:48,TV Cable,Regular,ASE_001,Asesor_042,Junior,Cambio email contacto,Retención,False,,False,False,31.62,8,CLI_37971,Web,Media,Baja
+TKT_000945,2025-06-20 12:12:36,2025-06-21 14:39:36,Internet Móvil,Básico,ASE_008,Asesor_006,Senior,Sin señal TV canal específico,Retención,False,,True,False,26.45,2,CLI_45217,App,Alta,Media
+TKT_000946,2025-07-13 12:12:36,2025-07-14 19:36:00,TV Cable,Premium,ASE_025,Asesor_048,Semi-Senior,Lentitud navegación específica,Comercial,False,,False,True,31.39,1,CLI_29062,Presencial,Alta,Baja
+TKT_000947,2025-07-08 12:12:36,2025-07-09 11:39:00,TV Cable,Básico,ASE_007,Asesor_021,Junior,Actualización datos personales,Retención,False,,True,True,23.44,6,CLI_11910,App,Media,Media
+TKT_000948,2025-06-29 12:12:36,2025-06-30 04:04:48,Móvil Prepago,VIP,ASE_036,Asesor_005,Semi-Senior,Lentitud navegación específica,Soporte,True,NOC_Este,False,False,15.87,6,CLI_43634,Presencial,Alta,Alta
+TKT_000949,2025-08-19 12:12:36,2025-08-19 16:28:48,Telefonía Fija,Básico,ASE_046,Asesor_012,Semi-Senior,Consulta plan específico región,Técnico,False,,True,True,4.27,2,CLI_07018,Telefono,Alta,Baja
+TKT_000950,2025-08-20 12:12:36,2025-08-22 06:33:00,TV Cable,VIP,ASE_009,Asesor_039,Semi-Senior,Problema VoIP corporativa,Soporte,False,,False,True,42.34,10,CLI_26132,App,Media,Baja
+TKT_000951,2025-09-04 12:12:36,2025-09-05 16:48:36,Móvil Postpago,Regular,ASE_002,Asesor_016,Semi-Senior,Problema VoIP corporativa,Comercial,False,,False,True,28.6,10,CLI_44999,Presencial,Baja,Alta
+TKT_000952,2025-07-07 12:12:36,2025-07-08 13:49:12,Móvil Prepago,Regular,ASE_006,Asesor_024,Semi-Senior,Consulta plan específico región,Técnico,True,NOC_Norte,False,False,25.61,10,CLI_45178,Telefono,Media,Alta
+TKT_000953,2025-08-12 12:12:36,2025-08-12 19:35:24,Telefonía Fija,Premium,ASE_033,Asesor_024,Semi-Senior,Sin señal TV canal específico,Retención,True,NOC_Central,False,False,7.38,2,CLI_14071,App,Baja,Media
+TKT_000954,2025-08-02 12:12:36,2025-08-03 17:46:12,TV Cable,VIP,ASE_041,Asesor_002,Senior,Duda promoción temporal,Retención,False,,True,True,29.56,7,CLI_21128,Telefono,Alta,Media
+TKT_000955,2025-08-05 12:12:36,2025-08-07 05:00:00,Móvil Prepago,Regular,ASE_030,Asesor_001,Senior,Cambio email contacto,Comercial,False,,True,False,40.79,1,CLI_15196,App,Media,Baja
+TKT_000956,2025-09-06 12:12:36,2025-09-08 03:27:36,Internet Hogar,Básico,ASE_002,Asesor_050,Junior,Error configuración router,Comercial,False,,True,True,39.25,6,CLI_33058,Telefono,Media,Baja
+TKT_000957,2025-09-07 12:12:36,2025-09-08 21:53:24,Internet Móvil,Premium,ASE_022,Asesor_029,Junior,Duda promoción temporal,Soporte,True,NOC_Oeste,True,False,33.68,1,CLI_49585,App,Baja,Alta
+TKT_000958,2025-06-28 12:12:36,2025-06-30 11:58:48,Internet Móvil,Regular,ASE_028,Asesor_046,Senior,Duda promoción temporal,Soporte,False,,True,True,47.77,1,CLI_26672,Presencial,Baja,Baja
+TKT_000959,2025-08-08 12:12:36,2025-08-08 21:10:48,Móvil Prepago,VIP,ASE_037,Asesor_032,Senior,Problema VoIP corporativa,Comercial,False,,True,True,8.97,8,CLI_33366,App,Baja,Baja
+TKT_000960,2025-07-01 12:12:36,2025-07-01 18:49:12,TV Cable,Básico,ASE_031,Asesor_004,Semi-Senior,Sin señal TV canal específico,Comercial,True,NOC_Sur,False,False,6.61,1,CLI_22757,Web,Media,Alta
+TKT_000961,2025-07-29 12:12:36,2025-07-31 06:15:00,Empresarial,Regular,ASE_010,Asesor_028,Junior,Actualización datos personales,Comercial,True,NOC_Norte,False,False,42.04,9,CLI_08744,App,Alta,Baja
+TKT_000962,2025-07-29 12:12:36,2025-07-30 13:10:48,Telefonía Fija,Regular,ASE_007,Asesor_046,Semi-Senior,Falla WiFi 5GHz específica,Soporte,True,NOC_Este,True,False,24.97,1,CLI_42562,Presencial,Alta,Baja
+TKT_000963,2025-08-03 12:12:36,2025-08-03 15:05:24,Internet Hogar,Regular,ASE_036,Asesor_034,Junior,Duda promoción temporal,Soporte,False,,False,True,2.88,2,CLI_37664,App,Media,Alta
+TKT_000964,2025-07-09 12:12:36,2025-07-09 18:48:36,Internet Móvil,Regular,ASE_030,Asesor_041,Semi-Senior,Cambio plan mayor capacidad,Comercial,True,NOC_Central,False,False,6.6,9,CLI_46356,Web,Baja,Baja
+TKT_000965,2025-08-14 12:12:36,2025-08-16 00:22:48,Internet Móvil,Regular,ASE_029,Asesor_026,Junior,Cambio email contacto,Comercial,True,NOC_Norte,False,True,36.17,7,CLI_46191,Web,Media,Media
+TKT_000966,2025-07-25 12:12:36,2025-07-27 01:46:12,Móvil Postpago,Premium,ASE_033,Asesor_006,Senior,Error configuración router,Técnico,True,NOC_Norte,True,True,37.56,3,CLI_09133,Presencial,Baja,Baja
+TKT_000967,2025-07-26 12:12:36,2025-07-26 21:21:36,Internet Hogar,VIP,ASE_008,Asesor_015,Semi-Senior,Lentitud navegación específica,Comercial,True,NOC_Sur,False,True,9.15,1,CLI_27436,Telefono,Media,Media
+TKT_000968,2025-07-29 12:12:36,2025-07-31 07:40:48,Empresarial,VIP,ASE_034,Asesor_029,Senior,Lentitud navegación específica,Soporte,True,NOC_Central,False,False,43.47,9,CLI_09802,Presencial,Baja,Alta
+TKT_000969,2025-08-24 12:12:36,2025-08-24 16:59:24,Móvil Postpago,Básico,ASE_032,Asesor_027,Semi-Senior,Consulta plan específico región,Retención,True,NOC_Oeste,False,True,4.78,8,CLI_37496,Presencial,Alta,Alta
+TKT_000970,2025-07-11 12:12:36,2025-07-13 00:21:36,Móvil Postpago,Básico,ASE_024,Asesor_021,Junior,Cambio email contacto,Comercial,False,,True,True,36.15,1,CLI_20360,Telefono,Baja,Media
+TKT_000971,2025-06-26 12:12:36,2025-06-26 23:08:24,Internet Hogar,VIP,ASE_003,Asesor_028,Semi-Senior,Problema VoIP corporativa,Soporte,True,NOC_Central,False,True,10.93,6,CLI_00746,Telefono,Baja,Media
+TKT_000972,2025-07-25 12:12:36,2025-07-26 10:57:36,Móvil Prepago,Básico,ASE_048,Asesor_029,Senior,Error configuración router,Comercial,True,NOC_Sur,False,False,22.75,7,CLI_07473,App,Alta,Alta
+TKT_000973,2025-08-07 12:12:36,2025-08-09 04:39:36,TV Cable,VIP,ASE_020,Asesor_019,Semi-Senior,Actualización datos personales,Comercial,True,NOC_Central,False,True,40.45,7,CLI_13456,Presencial,Baja,Baja
+TKT_000974,2025-06-21 12:12:36,2025-06-23 04:40:12,Móvil Postpago,Premium,ASE_036,Asesor_026,Semi-Senior,Sin señal TV canal específico,Soporte,True,NOC_Central,False,False,40.46,2,CLI_26080,App,Alta,Baja
+TKT_000975,2025-07-30 12:12:36,2025-07-31 09:52:48,Telefonía Fija,Básico,ASE_015,Asesor_024,Semi-Senior,Corte intermitente fibra,Retención,False,,True,True,21.67,4,CLI_48752,Presencial,Alta,Media
+TKT_000976,2025-09-06 12:12:36,2025-09-07 23:28:12,Internet Hogar,Regular,ASE_025,Asesor_038,Junior,Sin señal TV canal específico,Técnico,True,NOC_Sur,False,True,35.26,8,CLI_32649,Telefono,Baja,Media
+TKT_000977,2025-07-19 12:12:36,2025-07-21 03:25:48,Móvil Prepago,Básico,ASE_050,Asesor_044,Junior,Cambio plan mayor capacidad,Comercial,True,NOC_Norte,False,False,39.22,8,CLI_46787,Telefono,Alta,Baja
+TKT_000978,2025-09-01 12:12:36,2025-09-03 03:18:36,Telefonía Fija,Regular,ASE_002,Asesor_031,Semi-Senior,Cambio email contacto,Retención,True,NOC_Oeste,True,False,39.1,8,CLI_05677,App,Media,Media
+TKT_000979,2025-06-28 12:12:36,2025-06-29 16:57:00,Empresarial,VIP,ASE_024,Asesor_038,Junior,Problema VoIP corporativa,Técnico,False,,True,True,28.74,1,CLI_48834,Telefono,Baja,Baja
+TKT_000980,2025-08-01 12:12:36,2025-08-02 16:21:00,Telefonía Fija,Básico,ASE_006,Asesor_020,Junior,Cambio plan mayor capacidad,Soporte,True,NOC_Oeste,False,True,28.14,9,CLI_42711,App,Baja,Media
+TKT_000981,2025-07-23 12:12:36,2025-07-24 02:23:24,TV Cable,Regular,ASE_023,Asesor_007,Senior,Cambio email contacto,Retención,True,NOC_Central,True,True,14.18,7,CLI_03671,App,Baja,Media
+TKT_000982,2025-08-11 12:12:36,2025-08-12 11:21:00,Internet Hogar,Regular,ASE_020,Asesor_033,Semi-Senior,Sin señal TV canal específico,Comercial,True,NOC_Norte,False,True,23.14,8,CLI_34463,Presencial,Baja,Media
+TKT_000983,2025-08-01 12:12:36,2025-08-03 02:05:24,Telefonía Fija,Regular,ASE_027,Asesor_046,Junior,Solicitud certificado ingresos,Retención,False,,False,False,37.88,5,CLI_08264,Presencial,Baja,Baja
+TKT_000984,2025-07-11 12:12:36,2025-07-11 23:04:48,Móvil Postpago,VIP,ASE_011,Asesor_019,Junior,Falla WiFi 5GHz específica,Comercial,True,NOC_Central,False,False,10.87,5,CLI_25513,App,Baja,Alta
+TKT_000985,2025-08-18 12:12:36,2025-08-20 11:32:24,Internet Móvil,Básico,ASE_043,Asesor_042,Semi-Senior,Falla WiFi 5GHz específica,Comercial,False,,False,False,47.33,5,CLI_10315,Telefono,Baja,Alta
+TKT_000986,2025-07-22 12:12:36,2025-07-22 14:21:36,Telefonía Fija,Regular,ASE_013,Asesor_044,Senior,Cambio plan mayor capacidad,Técnico,False,,True,True,2.15,6,CLI_14756,Web,Alta,Alta
+TKT_000987,2025-06-24 12:12:36,2025-06-24 15:49:12,Internet Hogar,VIP,ASE_040,Asesor_008,Junior,Actualización datos personales,Comercial,True,NOC_Este,True,False,3.61,9,CLI_24418,Presencial,Alta,Alta
+TKT_000988,2025-07-28 12:12:36,2025-07-28 17:52:12,TV Cable,VIP,ASE_011,Asesor_001,Senior,Solicitud certificado ingresos,Comercial,True,NOC_Sur,False,False,5.66,7,CLI_16442,App,Baja,Alta
+TKT_000989,2025-07-14 12:12:36,2025-07-15 00:16:12,Internet Móvil,VIP,ASE_038,Asesor_012,Senior,Problema VoIP corporativa,Técnico,False,,False,True,12.06,3,CLI_14200,Presencial,Baja,Media
+TKT_000990,2025-08-13 12:12:36,2025-08-14 21:22:48,Móvil Postpago,Premium,ASE_013,Asesor_044,Junior,Falla WiFi 5GHz específica,Retención,True,NOC_Este,True,True,33.17,6,CLI_08877,Telefono,Media,Alta
+TKT_000991,2025-06-26 12:12:36,2025-06-28 04:52:12,Telefonía Fija,VIP,ASE_031,Asesor_015,Senior,Sin señal TV canal específico,Comercial,False,,False,False,40.66,3,CLI_47119,App,Media,Alta
+TKT_000992,2025-08-10 12:12:36,2025-08-11 12:33:36,Internet Móvil,Básico,ASE_033,Asesor_035,Junior,Problema VoIP corporativa,Comercial,False,,True,True,24.35,4,CLI_45895,Telefono,Media,Baja
+TKT_000993,2025-08-21 12:12:36,2025-08-21 13:02:24,Móvil Postpago,Regular,ASE_042,Asesor_023,Junior,Actualización datos personales,Técnico,False,,False,False,0.83,9,CLI_13162,Presencial,Baja,Media
+TKT_000994,2025-06-25 12:12:36,2025-06-25 13:44:24,Móvil Prepago,Básico,ASE_028,Asesor_020,Senior,Falla WiFi 5GHz específica,Retención,True,NOC_Central,True,True,1.53,2,CLI_42429,App,Media,Alta
+TKT_000995,2025-07-12 12:12:36,2025-07-13 06:48:36,Internet Móvil,Regular,ASE_043,Asesor_044,Junior,Falla WiFi 5GHz específica,Soporte,True,NOC_Norte,True,True,18.6,10,CLI_20446,Telefono,Alta,Alta
+TKT_000996,2025-08-23 12:12:36,2025-08-24 04:18:00,Internet Móvil,Premium,ASE_049,Asesor_026,Junior,Consulta plan específico región,Comercial,True,NOC_Este,True,True,16.09,7,CLI_13737,Telefono,Alta,Media
+TKT_000997,2025-09-06 12:12:36,2025-09-08 01:45:00,Móvil Prepago,Básico,ASE_021,Asesor_021,Senior,Actualización datos personales,Retención,True,NOC_Sur,False,True,37.54,10,CLI_39819,Web,Baja,Media
+TKT_000998,2025-07-03 12:12:36,2025-07-04 05:22:12,TV Cable,Premium,ASE_040,Asesor_030,Senior,Duda promoción temporal,Técnico,False,,False,True,17.16,9,CLI_22192,Web,Baja,Media
+TKT_000999,2025-08-31 12:12:36,2025-09-02 10:02:24,Móvil Prepago,Premium,ASE_049,Asesor_033,Semi-Senior,Problema VoIP corporativa,Retención,True,NOC_Este,True,True,45.83,4,CLI_00631,Telefono,Baja,Alta
+TKT_001000,2025-06-30 12:12:36,2025-07-01 17:12:36,TV Cable,VIP,ASE_019,Asesor_014,Senior,Corte intermitente fibra,Técnico,True,NOC_Central,True,False,29.0,9,CLI_01811,Web,Baja,Media
